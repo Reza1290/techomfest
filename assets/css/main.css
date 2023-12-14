@@ -1,0 +1,71 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    font-family: 'Poppins', sans-serif;
+    }
+
+/* @font-face {
+    font-family: 'Nunito', sans-serif;
+    src: url('/fonts/poppins/Poppins-Black.ttf') format('ttf');
+    font-weight: black;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Nunito', sans-serif;
+    src: url('/fonts/poppins/Poppins-BlackItalic.ttf') format('ttf');
+    font-weight: black;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Nunito', sans-serif;
+    src: url('/fonts/poppins/Poppins-Bold.ttf') format('ttf');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Nunito', sans-serif;
+    src: url('/fonts/poppins/Poppins-BoldItalic.ttf') format('ttf');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Nunito', sans-serif;
+    src: url('/fonts/poppins/Poppins-ExtraBold.ttf') format('ttf');
+    font-weight: bolder;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Nunito', sans-serif;
+    src: url('/fonts/poppins/Poppins-ExtraBoldItalic.ttf') format('ttf');
+    font-weight: bolder;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Nunito', sans-serif;
+    src: url('/fonts/poppins/Poppins-SemiBold.ttf') format('ttf');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Nunito', sans-serif;
+    src: url('/fonts/poppins/Poppins-SemiBoldItalic.ttf') format('ttf');
+    font-weight: bolder;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Nunito', sans-serif;
+    src: url('/fonts/poppins/Poppins-ExtraBoldItalic.ttf') format('ttf');
+    font-weight: bolder;
+    font-style: italic;
+    font-display: swap;
+} */
