@@ -6,6 +6,9 @@
     font-family: 'Poppins', sans-serif;
     }
 
+    body{
+        background-color: #EFFFF3;
+    }
 /* @font-face {
     font-family: 'Nunito', sans-serif;
     src: url('/fonts/poppins/Poppins-Black.ttf') format('ttf');
