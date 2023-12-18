@@ -1,0 +1,230 @@
+[
+  {
+    "id": 1,
+    "nama": "Nanggroe Aceh Darussalam",
+    "icon": "nad.png",
+    "banner": "nad.jpeg"
+  },
+  {
+    "id": 2,
+    "nama": "Sumatera Utara",
+    "icon": "sumut.png",
+    "banner": "sumut.jpeg"
+  },
+  {
+    "id": 3,
+    "nama": "Sumatera Selatan",
+    "icon": "sumsel.png",
+    "banner": "sumsel.jpeg"
+  },
+  {
+    "id": 4,
+    "nama": "Sumatera Barat",
+    "icon": "sumbar.png",
+    "banner": "sumbar.jpeg"
+  },
+  {
+    "id": 5,
+    "nama": "Bengkulu",
+    "icon": "bengkulu.png",
+    "banner": "bengkulu.jpeg"
+  },
+  {
+    "id": 6,
+    "nama": "Riau",
+    "icon": "riau.png",
+    "banner": "riau.jpeg"
+  },
+  {
+    "id": 7,
+    "nama": "Kepulauan Riau",
+    "icon": "kepriau.png",
+    "banner": "kepriau.jpeg"
+  },
+  {
+    "id": 8,
+    "nama": "Jambi",
+    "icon": "jambi.png",
+    "banner": "jambi.jpeg"
+  },
+  {
+    "id": 9,
+    "nama": "Lampung",
+    "icon": "lampung.png",
+    "banner": "lampung.jpeg"
+  },
+  {
+    "id": 10,
+    "nama": "Bangka Belitung",
+    "icon": "bangka.png",
+    "banner": "bangka.jpeg"
+  },
+  {
+    "id": 11,
+    "nama": "Kalimantan Barat",
+    "icon": "kalbar.png",
+    "banner": "kalbar.jpeg"
+  },
+  {
+    "id": 12,
+    "nama": "Kalimantan Timur",
+    "icon": "kaltim.png",
+    "banner": "kaltim.jpeg"
+  },
+  {
+    "id": 13,
+    "nama": "Kalimantan Selatan",
+    "icon": "kalsel.png",
+    "banner": "kalsel.jpeg"
+  },
+  {
+    "id": 14,
+    "nama": "Kalimantan Tengah",
+    "icon": "kalteng.png",
+    "banner": "kalteng.jpeg"
+  },
+  {
+    "id": 15,
+    "nama": "Kalimantan Utara",
+    "icon": "kalut.png",
+    "banner": "kalut.jpeg"
+  },
+  {
+    "id": 16,
+    "nama": "Banten",
+    "icon": "banten.png",
+    "banner": "banten.jpeg"
+  },
+  {
+    "id": 17,
+    "nama": "DKI Jakarta",
+    "icon": "jakarta.png",
+    "banner": "jakarta.jpeg"
+  },
+  {
+    "id": 18,
+    "nama": "Jawa Barat",
+    "icon": "jabar.png",
+    "banner": "jabar.jpeg"
+  },
+  {
+    "id": 19,
+    "nama": "Jawa Tengah",
+    "icon": "jateng.png",
+    "banner": "jateng.jpeg"
+  },
+  {
+    "id": 20,
+    "nama": "Daerah Istimewa Yogyakarta",
+    "icon": "diy.png",
+    "banner": "diy.jpeg"
+  },
+  {
+    "id": 21,
+    "nama": "Jawa Timur",
+    "icon": "jatim.png",
+    "banner": "jatim.jpeg"
+  },
+  {
+    "id": 22,
+    "nama": "Bali",
+    "icon": "bali.png",
+    "banner": "bali.jpeg"
+  },
+  {
+    "id": 23,
+    "nama": "Nusa Tenggara Timur",
+    "icon": "ntt.png",
+    "banner": "ntt.jpeg"
+  },
+  {
+    "id": 24,
+    "nama": "Nusa Tenggara Barat",
+    "icon": "ntb.png",
+    "banner": "ntb.jpeg"
+  },
+  {
+    "id": 25,
+    "nama": "Gorontalo",
+    "icon": "gorontalo.png",
+    "banner": "gorontalo.jpeg"
+  },
+  {
+    "id": 26,
+    "nama": "Sulawesi Barat",
+    "icon": "sulbar.png",
+    "banner": "sulbar.jpeg"
+  },
+  {
+    "id": 27,
+    "nama": "Sulawesi Tengah",
+    "icon": "sulteng.png",
+    "banner": "sulteng.jpeg"
+  },
+  {
+    "id": 28,
+    "nama": "Sulawesi Utara",
+    "icon": "sulut.png",
+    "banner": "sulut.jpeg"
+  },
+  {
+    "id": 29,
+    "nama": "Sulawesi Tenggara",
+    "icon": "sultenggara.png",
+    "banner": "sultenggara.jpeg"
+  },
+  {
+    "id": 30,
+    "nama": "Sulawesi Selatan",
+    "icon": "sulsel.png",
+    "banner": "sulsel.jpeg"
+  },
+  {
+    "id": 31,
+    "nama": "Maluku Utara",
+    "icon": "malut.png",
+    "banner": "malut.jpeg"
+  },
+  {
+    "id": 32,
+    "nama": "Maluku",
+    "icon": "maluku.png",
+    "banner": "maluku.jpeg"
+  },
+  {
+    "id": 33,
+    "nama": "Papua Barat",
+    "icon": "papbar.png",
+    "banner": "papbar.jpeg"
+  },
+  {
+    "id": 34,
+    "nama": "Papua",
+    "icon": "papua.png",
+    "banner": "papua.jpeg"
+  },
+  {
+    "id": 35,
+    "nama": "Papua Tengah",
+    "icon": "papteng.png",
+    "banner": "papteng.jpeg"
+  },
+  {
+    "id": 36,
+    "nama": "Papua Pegunungan",
+    "icon": "papgung.png",
+    "banner": "papgung.jpeg"
+  },
+  {
+    "id": 37,
+    "nama": "Papua Selatan",
+    "icon": "papsel.png",
+    "banner": "papsel.jpeg"
+  },
+  {
+    "id": 38,
+    "nama": "Papua Barat Daya",
+    "icon": "papdar.png",
+    "banner": "papdar.jpeg"
+  }
+]
