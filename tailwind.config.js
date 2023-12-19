@@ -15,8 +15,11 @@ export default {
     extend: {
       fontFamily: {
         sans: ['Poppins', ...defaultTheme.fontFamily.sans]
-      }
+      },
     },
+    container: {
+      center: true,
+    }
   },
   plugins: [],
 }

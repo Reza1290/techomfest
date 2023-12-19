@@ -2,13 +2,33 @@
 @tailwind components;
 @tailwind utilities;
 
-*{
-    font-family: 'Poppins', sans-serif;
-    }
+* {
+  font-family: "Poppins", sans-serif;
+}
 
-    body{
-        background-color: #EFFFF3;
-    }
+body {
+  background-color: #effff3;
+}
+
+.text-primary {
+  @apply text-[#1F420F];
+}
+
+.text-secondary {
+  @apply text-[#8CFE5C];
+}
+
+.text-accent {
+  @apply text-[#0F890D];
+}
+
+.bg-secondary {
+  @apply bg-[#8CFE5C];
+}
+
+.bg-primary {
+  @apply bg-[#1F420F];
+}
 /* @font-face {
     font-family: 'Nunito', sans-serif;
     src: url('/fonts/poppins/Poppins-Black.ttf') format('ttf');
