@@ -38,7 +38,7 @@ export default {
     const category = [
       {
         nama: "Hidangan",
-        icon: AgamaIcon,
+        icon: HidanganIcon,
       },
       {
         nama: "Kesenian",
