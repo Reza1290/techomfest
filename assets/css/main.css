@@ -29,6 +29,10 @@ body {
 .bg-primary {
   @apply bg-[#1F420F];
 }
+
+.blob {
+  @apply bg-[#8CFE5C] absolute blur-[110px] opacity-40 rounded-full overflow-hidden -z-10;
+}
 /* @font-face {
     font-family: 'Nunito', sans-serif;
     src: url('/fonts/poppins/Poppins-Black.ttf') format('ttf');

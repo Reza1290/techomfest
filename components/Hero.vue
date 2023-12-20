@@ -21,7 +21,7 @@
           </h1>
         </div>
         <a
-          class="bg-[#8CFE5C] rounded-2xl px-10 py-3 mt-4 text-lg font-medium"
+          class="bg-[#8CFE5C] rounded-2xl px-10 py-3 mt-4 font-medium"
           href="
                     "
         >
