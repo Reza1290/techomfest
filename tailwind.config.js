@@ -3,18 +3,24 @@
 const defaultTheme = require("tailwindcss/defaultTheme");
 
 export default {
-  content: [
-    "./components/**/*.{js,vue,ts}",
-    "./layouts/**/*.vue",
+  mode: "jit",
+  purge: [
+    "./assets/**/*.{css}",
+    "./components/*.{vue,js}",
+    "./components/**/*.{vue,js}",
+    "./pages/*.vue",
     "./pages/**/*.vue",
     "./plugins/**/*.{js,ts}",
-    "./app.vue",
-    "./error.vue",
+    "./*.{vue,js,ts}",
+    "./nuxt.config.{js,ts}",
   ],
   theme: {
     extend: {
       fontFamily: {
         sans: ['Poppins', ...defaultTheme.fontFamily.sans]
+      },
+      colors:{
+        accent: '#14010FF'
       }
     },
   },

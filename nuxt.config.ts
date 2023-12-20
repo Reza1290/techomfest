@@ -2,11 +2,11 @@
 export default defineNuxtConfig({
   devtools: { enabled: false },
   modules: ["@nuxtjs/tailwindcss", "@nuxtjs/google-fonts"],
- 
   
   postcss: {
     plugins: {
-      tailwindcss: {},
+      tailwindcss: {
+      },
       autoprefixer: {},
     },
   },

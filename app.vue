@@ -1,7 +1,9 @@
 
 <template>
   <NuxtPage/>
-  
+    <!-- <div class="text-[accent]">
+      aaa
+    </div> -->
   <!-- 
   <div class="flex relative w-screen h-[2000px] justify-center items-center"> 
     
