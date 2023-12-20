@@ -1,0 +1,34 @@
+[
+  {
+    "nama": "Hidangan",
+    "icon": "hidangan"
+  },
+  {
+    "nama": "Kesenian",
+    "icon": "kesenian"
+  },
+  {
+    "nama": "Rumah Adat",
+    "icon": "rumah_adat"
+  },
+  {
+    "nama": "Situs Bersejarah",
+    "icon": "situs_bersejarah"
+  },
+  {
+    "nama": "Pakaian Adat",
+    "icon": "pakaian_adat"
+  },
+  {
+    "nama": "Agama",
+    "icon": "agama"
+  },
+  {
+    "nama": "Upacara Adat",
+    "icon": "upacara_adat"
+  },
+  {
+    "nama": "Senjata Tradisional",
+    "icon": "senjata_tradisional"
+  }
+]

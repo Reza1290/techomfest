@@ -12,7 +12,11 @@
           :key="category.nama"
           class="bg-secondary h-80 flex flex-col gap-y-5 justify-center items-center rounded-lg"
         >
-          <img :src="category.icon" :alt="category.nama" class="w-[100px]" />
+          <img
+            :src="`/_nuxt/assets/images/category/${category.icon}.png`"
+            :alt="category.nama"
+            class="w-[100px]"
+          />
           <span class="text-primary font-bold text-lg">{{
             category.nama
           }}</span>
@@ -24,52 +28,10 @@
 </template>
 
 <script>
-import AgamaIcon from "~/assets/images/category/agama.png"
-import KesenianIcon from "~/assets/images/category/kesenian.png"
-import RumahIcon from "~/assets/images/category/rumah_adat.png"
-import SitusIcon from "~/assets/images/category/situs_bersejarah.png"
-import PakaianIcon from "~/assets/images/category/pakaian_adat.png"
-import HidanganIcon from "~/assets/images/category/hidangan.png"
-import UpacaraIcon from "~/assets/images/category/upacara_adat.png"
-import SenjataIcon from "~/assets/images/category/senajata_tradisional.png"
+import category from "~/data/category.json"
 
 export default {
   setup() {
-    const category = [
-      {
-        nama: "Hidangan",
-        icon: AgamaIcon,
-      },
-      {
-        nama: "Kesenian",
-        icon: KesenianIcon,
-      },
-      {
-        nama: "Rumah Adat",
-        icon: RumahIcon,
-      },
-      {
-        nama: "Situs Bersejarah",
-        icon: SitusIcon,
-      },
-      {
-        nama: "Pakaian Adat",
-        icon: PakaianIcon,
-      },
-      {
-        nama: "Agama",
-        icon: AgamaIcon,
-      },
-      {
-        nama: "Upacara Adat",
-        icon: UpacaraIcon,
-      },
-      {
-        nama: "Senjata Tradisional",
-        icon: SenjataIcon,
-      },
-    ]
-
     return {
       category,
     }
