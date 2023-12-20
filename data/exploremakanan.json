@@ -1,0 +1,893 @@
+{
+  "daerah": [
+    {
+      "nama": "Aceh",
+      "makanan": [
+        {
+          "nama": "Mie Aceh",
+          "penjelasan": "Mi pedas dengan berbagai tambahan."
+        },
+        {
+          "nama": "Kuah Beulangong",
+          "penjelasan": "Sup tradisional dengan campuran ikan dan santan kelapa."
+        },
+        {
+          "nama": "Asam Keueng",
+          "penjelasan": "Sup ikan yang asam dan gurih dengan tambahan asam."
+        }
+      ]
+    },
+    {
+      "nama": "Sumatera Utara",
+      "makanan": [
+        {
+          "nama": "Mie Gomak",
+          "penjelasan": "Mi dengan santan pedas dan ikan teri."
+        },
+        {
+          "nama": "Lontong Medan",
+          "penjelasan": "Ketupat dengan berbagai hidangan."
+        },
+        {
+          "nama": "Soto Medan",
+          "penjelasan": "Sup kunyit dengan daging dan sayuran."
+        },
+        {
+          "nama": "Bihun Bebek Medan",
+          "penjelasan": "Bihun dengan kuah bebek."
+        },
+        {
+          "nama": "Martabak Piring",
+          "penjelasan": "Martabak isi yang lezat."
+        }
+      ]
+    },
+    {
+      "nama": "Sumatera Barat",
+      "makanan": [
+        {
+          "nama": "Rendang",
+          "penjelasan": "Semur daging pedas dengan santan."
+        },
+        {
+          "nama": "Sate Padang",
+          "penjelasan": "Sate panggang dengan saus kacang."
+        },
+        {
+          "nama": "Nasi Padang",
+          "penjelasan": "Nasi disajikan dengan berbagai hidangan."
+        },
+        {
+          "nama": "Soto Padang",
+          "penjelasan": "Sup kunyit dengan daging sapi dan kentang."
+        }
+      ]
+    },
+        {
+      "nama": "Sumatera Selatan",
+      "makanan": [
+        {
+          "nama": "Pempek",
+          "penjelasan": "Ikan tenggiri direbus dengan sagu dan disajikan dengan saus."
+        },
+        {
+          "nama": "Tekwan",
+          "penjelasan": "Bakso ikan dalam kuah kaldu."
+        },
+        {
+          "nama": "Pindang Patin",
+          "penjelasan": "Ikan patin asam pedas."
+        },
+        {
+          "nama": "Mie Celor",
+          "penjelasan": "Mi dengan kuah kental dan telur rebus."
+        },
+        {
+          "nama": "Celimburgan",
+          "penjelasan": "Sate ikan khas Palembang."
+        }
+      ]
+    },
+    {
+      "nama": "Riau",
+      "makanan": [
+        {
+          "nama": "Kopiek Ndak Batulang",
+          "penjelasan": "Kopi khas Riau."
+        },
+        {
+          "nama": "Makauhe Tumpah",
+          "penjelasan": "Sajian nasi dan daging."
+        },
+        {
+          "nama": "Lontong Bengkalis",
+          "penjelasan": "Lontong dengan kuah kacang."
+        }
+      ]
+    },
+    {
+      "nama": "Kepulauan Riau",
+      "makanan": [
+        {
+          "nama": "Ikan Tamban Salai",
+          "penjelasan": "Ikan tamban diasapkan."
+        },
+        {
+          "nama": "Mie Tarempa",
+          "penjelasan": "Mi khas Kepulauan Riau."
+        },
+        {
+          "nama": "Roti Jala",
+          "penjelasan": "Roti tipis berbentuk jala."
+        }
+      ]
+    },
+        {
+      "nama": "Bangka Belitung",
+      "makanan": [
+        {
+          "nama": "Lempah Kuning",
+          "penjelasan": "Kari ikan khas Bangka."
+        },
+        {
+          "nama": "Rusip",
+          "penjelasan": "Ikan fermentasi."
+        },
+        {
+          "nama": "Sup Gangan",
+          "penjelasan": "Sup ikan dengan kuah kuning."
+        },
+        {
+          "nama": "Pantiaw",
+          "penjelasan": "Mi rebus dengan irisan daging dan sayuran."
+        },
+        {
+          "nama": "Mie Koba",
+          "penjelasan": "Mi khas Bangka."
+        }
+      ]
+    },
+    {
+      "nama": "Bengkulu",
+      "makanan": [
+        {
+          "nama": "Pendap",
+          "penjelasan": "Ikan yang diasapkan dan dikeringkan."
+        },
+        {
+          "nama": "Kue Bay Tat",
+          "penjelasan": "Kue tradisional Bengkulu."
+        },
+        {
+          "nama": "Bakat Hiu",
+          "penjelasan": "Kerang rebus dengan saus pedas."
+        },
+        {
+          "nama": "Kue Lepek Binti",
+          "penjelasan": "Kue tradisional."
+        },
+        {
+          "nama": "Bubur Sekoi",
+          "penjelasan": "Bubur tradisional."
+        }
+      ]
+    },
+    {
+      "nama": "Lampung",
+      "makanan": [
+        {
+          "nama": "Seruit",
+          "penjelasan": "Ikan dan sayuran rebus dengan bumbu pedas."
+        },
+        {
+          "nama": "Gulai Taboh",
+          "penjelasan": "Gulai ikan khas Lampung."
+        },
+        {
+          "nama": "Pandap",
+          "penjelasan": "Ikan bakar dengan bumbu khas Lampung."
+        },
+        {
+          "nama": "Gulai Balak",
+          "penjelasan": "Gulai daging khas Lampung."
+        },
+        {
+          "nama": "Gabing",
+          "penjelasan": "Makanan ringan dari ubi jalar."
+        }
+      ]
+    },
+    {
+      "nama": "Jambi",
+      "makanan": [
+        {
+          "nama": "Daging Masak Hitam",
+          "penjelasan": "Daging yang dimasak dengan bumbu hitam."
+        },
+        {
+          "nama": "Nasi Gemuk",
+          "penjelasan": "Nasi dengan campuran santan kelapa."
+        },
+        {
+          "nama": "Kue Padamaran",
+          "penjelasan": "Kue tradisional Jambi."
+        },
+        {
+          "nama": "Tempoyak",
+          "penjelasan": "Durian yang difermentasi."
+        }
+      ]
+    },
+        {
+      "nama": "Banten",
+      "makanan": [
+        {
+          "nama": "Sate Bandeng",
+          "penjelasan": "Sate ikan bandeng."
+        },
+        {
+          "nama": "Rabeg",
+          "penjelasan": "Masakan daging asap."
+        },
+        {
+          "nama": "Kentan Bintul",
+          "penjelasan": "Kue tradisional."
+        },
+        {
+          "nama": "Angeun Lada",
+          "penjelasan": "Sayuran dengan saus lada."
+        },
+        {
+          "nama": "Gerem Asem",
+          "penjelasan": "Asinan sayur khas Banten."
+        }
+      ]
+    },
+    {
+      "nama": "Jawa Barat",
+      "makanan": [
+        {
+          "nama": "Tutug Oncom",
+          "penjelasan": "Nasi atau lalapan dengan sambal oncom."
+        },
+        {
+          "nama": "Peuyeum",
+          "penjelasan": "Fermentasi singkong yang kenyal."
+        },
+        {
+          "nama": "Sate Maranggi",
+          "penjelasan": "Sate daging khas Purwakarta."
+        },
+        {
+          "nama": "Karedok",
+          "penjelasan": "Sayur mentah dengan sambal kacang."
+        },
+        {
+          "nama": "Coleknak",
+          "penjelasan": "Mi dengan kuah kental dan sayuran."
+        },
+        {
+          "nama": "Nasi Timbel",
+          "penjelasan": "Nasi dibungkus daun pisang."
+        }
+      ]
+    },
+    {
+      "nama": "Jawa Tengah",
+      "makanan": [
+        {
+          "nama": "Nasi Tiwul",
+          "penjelasan": "Nasi dari olahan tiwul."
+        },
+        {
+          "nama": "Soto Kudus",
+          "penjelasan": "Sup ayam dengan kuah bening."
+        },
+        {
+          "nama": "Nasi Grombyang",
+          "penjelasan": "Nasi dengan berbagai lauk pauk."
+        },
+        {
+          "nama": "Nasi Gandul",
+          "penjelasan": "Nasi dengan kuah kacang dan daging."
+        },
+        {
+          "nama": "Mi Ongklok",
+          "penjelasan": "Mi rebus khas Wonosobo."
+        }
+      ]
+    },
+    {
+      "nama": "Jawa Timur",
+      "makanan": [
+        {
+          "nama": "Rawon",
+          "penjelasan": "Sup daging berkuah hitam."
+        },
+        {
+          "nama": "Rujak Cingur",
+          "penjelasan": "Rujak dengan campuran daging cingur."
+        },
+        {
+          "nama": "Pecel Tumpang",
+          "penjelasan": "Sayur dengan sambal kacang khas Tumpang."
+        },
+        {
+          "nama": "Rujak Soto Banyuwangi",
+          "penjelasan": "Rujak dengan kuah soto."
+        },
+        {
+          "nama": "Soto Lamongan",
+          "penjelasan": "Sup daging khas Lamongan."
+        }
+      ]
+    },
+        {
+      "nama": "DI Yogyakarta",
+      "makanan": [
+        {
+          "nama": "Gudeg",
+          "penjelasan": "Nangka muda dimasak dengan santan dan rempah-rempah."
+        },
+        {
+          "nama": "Bakpia",
+          "penjelasan": "Kue khas Yogyakarta berisi pasta kacang hijau atau wijen."
+        },
+        {
+          "nama": "Tiwul",
+          "penjelasan": "Makanan dari olahan umbi tiwul."
+        },
+        {
+          "nama": "Gatot",
+          "penjelasan": "Kue ketan yang dibentuk bulat dan dimasak dengan kelapa parut."
+        },
+        {
+          "nama": "Mangut Lele",
+          "penjelasan": "Lele dimasak dengan rempah dan santan kelapa."
+        },
+        {
+          "nama": "Bakmi Jawa",
+          "penjelasan": "Mi rebus dengan berbagai bumbu khas Jawa."
+        }
+      ]
+    },
+    {
+      "nama": "DKI Jakarta",
+      "makanan": [
+        {
+          "nama": "Kerak Telor",
+          "penjelasan": "Nasi goreng telur dengan rempah khas Betawi."
+        },
+        {
+          "nama": "Soto Betawi",
+          "penjelasan": "Sup daging dengan kuah santan khas Betawi."
+        },
+        {
+          "nama": "Nasi Uduk",
+          "penjelasan": "Nasi kukus dengan santan dan rempah."
+        },
+        {
+          "nama": "Semur Jengkol",
+          "penjelasan": "Jengkol dimasak dengan bumbu semur."
+        },
+        {
+          "nama": "Lontong Sayur",
+          "penjelasan": "Lontong dengan kuah sayur khas Betawi."
+        }
+      ]
+    },
+    {
+      "nama": "Bali",
+      "makanan": [
+        {
+          "nama": "Ayam Betutu",
+          "penjelasan": "Ayam yang dimasak dengan bumbu khas Bali dan dibungkus daun pisang."
+        },
+        {
+          "nama": "Nasi Jinggo",
+          "penjelasan": "Nasi bungkus kecil dengan lauk sederhana."
+        },
+        {
+          "nama": "Sate Lilit",
+          "penjelasan": "Sate ikan yang dibungkus dengan daun bambu atau daun kelapa."
+        },
+        {
+          "nama": "Rujak Bulung",
+          "penjelasan": "Rujak dengan campuran buah dan bumbu kacang khas Bali."
+        },
+        {
+          "nama": "Nasi Tepeng",
+          "penjelasan": "Nasi yang dibungkus daun pisang dan dimasak dengan kelapa parut."
+        }
+      ]
+    },
+    {
+      "nama": "NTB",
+      "makanan": [
+        {
+          "nama": "Ayam Taliwang",
+          "penjelasan": "Ayam bakar pedas khas Lombok."
+        },
+        {
+          "nama": "Sate Bulayak",
+          "penjelasan": "Sate dengan bumbu kacang khas NTB."
+        },
+        {
+          "nama": "Sayur Ares",
+          "penjelasan": "Sayur lontong dengan kuah santan."
+        },
+        {
+          "nama": "Nasi Balap Puyung",
+          "penjelasan": "Nasi dengan daging sapi rebus dan sambal khas NTB."
+        },
+        {
+          "nama": "Plecing Kangkung",
+          "penjelasan": "Sayur kangkung dengan sambal tomat khas NTB."
+        }
+      ]
+    },
+        {
+      "nama": "Bali",
+      "makanan": [
+        {
+          "nama": "Ayam Betutu",
+          "penjelasan": "Ayam yang dimasak dengan bumbu khas Bali dan dibungkus daun pisang."
+        },
+        {
+          "nama": "Nasi Jinggo",
+          "penjelasan": "Nasi bungkus kecil dengan lauk sederhana."
+        },
+        {
+          "nama": "Sate Lilit",
+          "penjelasan": "Sate ikan yang dibungkus dengan daun bambu atau daun kelapa."
+        },
+        {
+          "nama": "Rujak Bulung",
+          "penjelasan": "Rujak dengan campuran buah dan bumbu kacang khas Bali."
+        },
+        {
+          "nama": "Nasi Tepeng",
+          "penjelasan": "Nasi yang dibungkus daun pisang dan dimasak dengan kelapa parut."
+        }
+      ]
+    },
+    {
+      "nama": "NTB",
+      "makanan": [
+        {
+          "nama": "Ayam Taliwang",
+          "penjelasan": "Ayam bakar pedas khas Lombok."
+        },
+        {
+          "nama": "Sate Bulayak",
+          "penjelasan": "Sate dengan bumbu kacang khas NTB."
+        },
+        {
+          "nama": "Sayur Ares",
+          "penjelasan": "Sayur lontong dengan kuah santan."
+        },
+        {
+          "nama": "Nasi Balap Puyung",
+          "penjelasan": "Nasi dengan daging sapi rebus dan sambal khas NTB."
+        },
+        {
+          "nama": "Plecing Kangkung",
+          "penjelasan": "Sayur kangkung dengan sambal tomat khas NTB."
+        }
+      ]
+    },
+    {
+      "nama": "NTT",
+      "makanan": [
+        {
+          "nama": "Kolo",
+          "penjelasan": "Mie kuning dengan daging dan sayuran."
+        },
+        {
+          "nama": "Catemak Jagung",
+          "penjelasan": "Bubur jagung dengan daging."
+        },
+        {
+          "nama": "Jagung Bose",
+          "penjelasan": "Jagung kukus dengan kelapa parut."
+        },
+        {
+          "nama": "Se'i Daging Sapi",
+          "penjelasan": "Daging sapi asap khas NTT."
+        },
+        {
+          "nama": "Kue Jawada",
+          "penjelasan": "Kue kering khas NTT."
+        }
+      ]
+    },
+    {
+      "nama": "Kalimantan Barat",
+      "makanan": [
+        {
+          "nama": "Bubur Pedas",
+          "penjelasan": "Bubur dengan rasa pedas."
+        },
+        {
+          "nama": "Pengkang",
+          "penjelasan": "Makanan dari singkong kukus."
+        },
+        {
+          "nama": "Bubur Ikan",
+          "penjelasan": "Bubur dengan campuran ikan."
+        },
+        {
+          "nama": "Pisang Goreng Pontianak",
+          "penjelasan": "Pisang goreng khas Pontianak."
+        },
+        {
+          "nama": "Roti Srikaya",
+          "penjelasan": "Roti dengan selai srikaya."
+        }
+      ]
+    },
+        {
+      "nama": "Kalimantan Tengah",
+      "makanan": [
+        {
+          "nama": "Juhu Ubut Rota",
+          "penjelasan": "Ikan asam pedas khas Dayak."
+        },
+        {
+          "nama": "Karuang",
+          "penjelasan": "Sayur tumis khas Dayak."
+        },
+        {
+          "nama": "Wadi",
+          "penjelasan": "Makanan ringan berbahan dasar tepung terigu."
+        },
+        {
+          "nama": "Bangamat",
+          "penjelasan": "Ikan asam pedas khas Dayak."
+        }
+      ]
+    },
+    {
+      "nama": "Kalimantan Selatan",
+      "makanan": [
+        {
+          "nama": "Ketupat Kandangan",
+          "penjelasan": "Ketupat dengan isi kelapa parut dan ikan teri."
+        },
+        {
+          "nama": "Gangan Humbut",
+          "penjelasan": "Sup khas Banjarmasin dengan tambahan sagu."
+        },
+        {
+          "nama": "Cacapan Asam",
+          "penjelasan": "Sayur asam khas Banjar."
+        },
+        {
+          "nama": "Lontong Orari",
+          "penjelasan": "Lontong dengan sayur lodeh khas Banjar."
+        },
+        {
+          "nama": "Iwak Pakasam",
+          "penjelasan": "Ikan asam padeh khas Banjar."
+        }
+      ]
+    },
+    {
+      "nama": "Kalimantan Timur",
+      "makanan": [
+        {
+          "nama": "Nasi Bekepor",
+          "penjelasan": "Nasi dengan tambahan daging dan sayuran."
+        },
+        {
+          "nama": "Nasi Kuning",
+          "penjelasan": "Nasi kuning khas Kalimantan Timur."
+        },
+        {
+          "nama": "Gence Ruan",
+          "penjelasan": "Sayur labu khas Kalimantan Timur."
+        },
+        {
+          "nama": "Sambal Raja",
+          "penjelasan": "Sambal khas Kalimantan Timur."
+        },
+        {
+          "nama": "Sate Payau",
+          "penjelasan": "Sate dengan saus kacang khas Kalimantan Timur."
+        }
+      ]
+    },
+    {
+      "nama": "Kalimantan Utara",
+      "makanan": [
+        {
+          "nama": "Kue Lapis Cempedak",
+          "penjelasan": "Kue lapis dengan bahan dasar cempedak."
+        },
+        {
+          "nama": "Sate Temburung",
+          "penjelasan": "Sate khas Kalimantan Utara."
+        },
+        {
+          "nama": "Pepes Ikan Patin Kucai",
+          "penjelasan": "Ikan patin dipanggang dengan bumbu kucai."
+        }
+      ]
+    },
+    {
+      "nama": "Sulawesi Barat",
+      "makanan": [
+        {
+          "nama": "Jepa",
+          "penjelasan": "Kue berbahan dasar kelapa parut."
+        },
+        {
+          "nama": "Golla Kambu",
+          "penjelasan": "Makanan manis khas Sulawesi Barat."
+        },
+        {
+          "nama": "Sambusa",
+          "penjelasan": "Pastel khas Sulawesi Barat."
+        },
+        {
+          "nama": "Kue Paso",
+          "penjelasan": "Kue tradisional Sulawesi Barat."
+        },
+        {
+          "nama": "Kue Kui Kui",
+          "penjelasan": "Kue tradisional Sulawesi Barat."
+        }
+      ]
+    },
+    {
+      "nama": "Sulawesi Utara",
+      "makanan": [
+        {
+          "nama": "Tinutuan",
+          "penjelasan": "Bubur sayur khas Manado."
+        },
+        {
+          "nama": "Nasi Jaha",
+          "penjelasan": "Nasi ketan dengan kelapa parut khas Minahasa."
+        },
+        {
+          "nama": "Kawok",
+          "penjelasan": "Sayur bening khas Minahasa."
+        },
+        {
+          "nama": "Paniki",
+          "penjelasan": "Rendang dengan daging dan darah burung."
+        },
+        {
+          "nama": "Saut",
+          "penjelasan": "Sayur asam khas Minahasa."
+        }
+      ]
+    },
+    {
+      "nama": "Sulawesi Tengah",
+      "makanan": [
+        {
+          "nama": "Ayam Bambu",
+          "penjelasan": "Ayam bakar dengan bambu."
+        },
+        {
+          "nama": "Kaledo",
+          "penjelasan": "Bubur dengan berbagai bahan seperti daging, kepala ikan, dan santan."
+        },
+        {
+          "nama": "Duo Sale",
+          "penjelasan": "Daging babi dan kelapa parut yang diolah menjadi santan."
+        }
+      ]
+    },
+    {
+      "nama": "Sulawesi Tenggara",
+      "makanan": [
+        {
+          "nama": "Kasuami",
+          "penjelasan": "Mi kuning khas Buton."
+        },
+        {
+          "nama": "Ikan Dole",
+          "penjelasan": "Ikan yang diasapkan khas Sulawesi Tenggara."
+        },
+        {
+          "nama": "Sinonggi",
+          "penjelasan": "Sayur bening dengan campuran sayur dan santan."
+        },
+        {
+          "nama": "Lapa-lapa",
+          "penjelasan": "Kue tradisional khas Sulawesi Tenggara."
+        },
+        {
+          "nama": "Kabuto",
+          "penjelasan": "Kue khas Sulawesi Tenggara."
+        }
+      ]
+    },
+    {
+      "nama": "Sulawesi Selatan",
+      "makanan": [
+        {
+          "nama": "Pisang Epe",
+          "penjelasan": "Pisang kukus yang dilumatkan dan diberi saus khas Makassar."
+        },
+        {
+          "nama": "Sop Konro",
+          "penjelasan": "Sup tulang iga khas Makassar."
+        },
+        {
+          "nama": "Coto Makassar",
+          "penjelasan": "Sup daging dengan bumbu kacang khas Makassar."
+        },
+        {
+          "nama": "Nasi Palekko",
+          "penjelasan": "Nasi kuning dengan berbagai lauk khas Makassar."
+        },
+        {
+          "nama": "Barongko",
+          "penjelasan": "Kue tradisional khas Makassar."
+        }
+      ]
+    },
+    {
+      "nama": "Gorontalo",
+      "makanan": [
+        {
+          "nama": "Binte Biluhuta",
+          "penjelasan": "Ikan tongkol yang diolah dengan bumbu pedas."
+        },
+        {
+          "nama": "Sate Tuna",
+          "penjelasan": "Sate ikan tuna khas Gorontalo."
+        },
+        {
+          "nama": "Tili Aya",
+          "penjelasan": "Ikan bakar dengan bumbu khas Gorontalo."
+        },
+        {
+          "nama": "Ayam Iloni",
+          "penjelasan": "Ayam bakar khas Gorontalo."
+        },
+        {
+          "nama": "Ilabulo",
+          "penjelasan": "Pisang goreng khas Gorontalo."
+        }
+      ]
+    },
+    {
+      "nama": "Maluku",
+      "makanan": [
+        {
+          "nama": "Ikan Gohu",
+          "penjelasan": "Ikan mentah dengan bumbu kacang."
+        },
+        {
+          "nama": "Nasi Lapola",
+          "penjelasan": "Nasi dengan lauk-lauk khas Maluku."
+        },
+        {
+          "nama": "Kasbi Komplet",
+          "penjelasan": "Sayur bening khas Maluku."
+        },
+        {
+          "nama": "Kohu-kohu",
+          "penjelasan": "Ikan kukus dengan santan dan bumbu kacang."
+        },
+        {
+          "nama": "Papeda",
+          "penjelasan": "Makanan berbahan dasar sagu khas Maluku."
+        }
+      ]
+    },
+    {
+      "nama": "Maluku Utara",
+      "makanan": [
+        {
+          "nama": "Papeda",
+          "penjelasan": "Makanan berbahan dasar sagu khas Maluku Utara."
+        },
+        {
+          "nama": "Sambal Colo-colo",
+          "penjelasan": "Sambal khas Maluku Utara."
+        },
+        {
+          "nama": "Gatang Kenari",
+          "penjelasan": "Makanan ringan khas Maluku Utara."
+        },
+        {
+          "nama": "Papeda",
+          "penjelasan": "Makanan berbahan dasar sagu khas Maluku Utara."
+        }
+      ]
+    },
+    {
+      "nama": "Papua",
+      "makanan": [
+        {
+          "nama": "Papeda dengan Ikan Kuah Kuning",
+          "penjelasan": "Makanan berbahan dasar sagu dengan ikan kuah kuning."
+        },
+        {
+          "nama": "Keladi Tumbuk",
+          "penjelasan": "Keladi yang dihaluskan dan dimasak."
+        },
+        {
+          "nama": "Norohombi",
+          "penjelasan": "Ikan bakar dengan bumbu khas Papua."
+        }
+      ]
+    },
+    {
+      "nama": "Papua Tengah",
+      "makanan": [
+        {
+          "nama": "Papeda",
+          "penjelasan": "Makanan berbahan dasar sagu khas Papua Tengah."
+        },
+        {
+          "nama": "Kue Lontas",
+          "penjelasan": "Kue kering khas Papua Tengah."
+        },
+        {
+          "nama": "Ikan Bungkus",
+          "penjelasan": "Ikan yang dibungkus dan dimasak dengan bumbu khas Papua Tengah."
+        }
+      ]
+    },
+    {
+      "nama": "Papua Pegunungan",
+      "makanan": [
+        {
+          "nama": "Papeda",
+          "penjelasan": "Makanan berbahan dasar sagu khas Papua Pegunungan."
+        }
+      ]
+    },
+    {
+      "nama": "Papua Selatan",
+      "makanan": [
+        {
+          "nama": "Sagu Sep",
+          "penjelasan": "Makanan kering dari sagu khas Papua Selatan."
+        }
+      ]
+    },
+    {
+      "nama": "Papua Barat Daya",
+      "makanan": [
+        {
+          "nama": "Ikan Kuah Kuning",
+          "penjelasan": "Ikan dengan kuah kuning khas Papua Barat Daya."
+        },
+        {
+          "nama": "Papeda",
+          "penjelasan": "Makanan berbahan dasar sagu khas Papua Barat Daya."
+        },
+        {
+          "nama": "Sagu Lempeng",
+          "penjelasan": "Makanan dari sagu yang dipadatkan."
+        }
+      ]
+    },
+    {
+      "nama": "Papua Barat",
+      "makanan": [
+        {
+          "nama": "Papeda",
+          "penjelasan": "Makanan berbahan dasar sagu khas Papua Barat."
+        },
+        {
+          "nama": "Udang Selingkuh",
+          "penjelasan": "Udang yang dimasak dengan bumbu khas Papua Barat."
+        },
+        {
+          "nama": "Dada Tuna",
+          "penjelasan": "Daging tuna yang dimasak dengan bumbu khas Papua Barat."
+        }
+      ]
+    }
+  ]
+}
+
