@@ -1,7 +1,9 @@
 <template>
   <div
-    class="h-[1024px] flex items-center justify-between center py-[147px] px-[101px]"
+    class="h-[1024px] flex items-center justify-between center py-[147px] px-[101px] relative overflow-hidden"
   >
+    <div class="w-96 h-96 -right-20 top-56 blob"></div>
+    <div class="w-96 h-96 -left-20 bottom-10 blob"></div>
     <div class="w-[58%] mr-3">
       <h3 class="font-bold text-7xl text-primary">Apa itu LokaBestari?</h3>
       <!-- <p class="mt-4 text-2xl italic font-normal text-accent">

@@ -1,9 +1,9 @@
 <template>
   <div
-    class="container min-w-full min-h-[110vh] -mt-[6%] flex justify-center items-center rounded-b-[120px] bg-[url('~/assets/img/home/hero.png')] bg-cover bg-center"
+    class="container min-w-full min-h-[890px] -mt-[6%] flex justify-center items-center rounded-b-[100px] bg-[url('~/assets/img/home/hero.png')] bg-cover bg-center"
   >
     <div class="container flex flex-col items-center">
-      <p class="font-normal text-[32px] leading-none text-center text-white">
+      <p class="font-normal text-[25px] leading-none text-center text-white">
         EKSPLOR KEKAYAAN BUDAYA INDONESIA
       </p>
       <div class="w-[180px] h-[4px] bg-[#8CFE5C] my-[9px]"></div>
@@ -21,7 +21,7 @@
         href="#about"
         class="w-[203px] h-[59px] rounded-[13px] bg-[#8CFE5C] flex justify-center items-center mt-5"
       >
-        <p class="text-2xl text-[#1F420F] font-medium">Jelajahi</p>
+        <p class="text-xl text-[#1F420F] font-medium">Jelajahi</p>
         <div class="ml-[14px]">
           <svg
             xmlns="http://www.w3.org/2000/svg"
