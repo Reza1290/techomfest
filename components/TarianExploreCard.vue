@@ -26,7 +26,7 @@ export default {
       default:
         'Tari saman adalah tarian tradisional yang dimainkan suku Gayo. Tari saman telah tumbuh dan berkembang di Kabupten Gayo Lues, Aceh Tenggara, Aceh Timur (Kecamantan Serbejadi), Kabupaten Aceh Tamiang (Tamiang Hulu).',
     },
-    image: {
+    gambar: {
         default: 'aceh.png'
     }
   },

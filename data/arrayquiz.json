@@ -1,0 +1,842 @@
+{
+  "data": [
+    {
+      "Nanggroe Aceh Darussalam": [
+        {
+          "Batak": {
+            "benar": false,
+            "jawaban": "Suku Batak Berasal dari Sumatera Utara"
+          }
+        },
+        {
+          "Aceh": {
+            "benar": true,
+            "jawaban": "Suku Aceh Berasal dari Nanggroe Aceh Darussalam"
+          }
+        },
+        {
+          "Minangkabau": {
+            "benar": false,
+            "jawaban": "Suku Minangkabau Berasal dari Sumatera Barat"
+          }
+        }
+      ]
+    },
+    {
+      "Sumatera Utara": [
+        {
+          "Batak": {
+            "benar": true,
+            "jawaban": "Suku Batak Berasal dari Nanggroe Aceh Darussalam"
+          }
+        },
+        {
+          "Jawa": {
+            "benar": true,
+            "jawaban": "Suku Jawa Berasal dari Jawa"
+          }
+        },
+        {
+          "Gayo": {
+            "benar": false,
+            "jawaban": "Suku Gayo Berasal dari Aceh"
+          }
+        }
+      ]
+    },
+    {
+      "Sumatera Barat": [
+        {
+          "Sunda": {
+            "benar": false,
+            "jawaban": "Suku Sunda Berasal dari Jawa Barat"
+          }
+        },
+        {
+          "Minangkabau": {
+            "benar": true,
+            "jawaban": "Suku Minangkabau Berasal dari Sumatera Barat"
+          }
+        },
+        {
+          "Aceh": {
+            "benar": false,
+            "jawaban": "Suku Aceh Berasal dari Nanggroe Aceh Darussalam"
+          }
+        }
+      ]
+    },
+    {
+      "Riau": [
+        {
+          "Melayu": {
+            "benar": true,
+            "jawaban": "Suku Melayu Berasal dari Riau"
+          }
+        },
+        {
+          "Batak": {
+            "benar": false,
+            "jawaban": "Suku Batak Berasal dari Nanggroe Aceh Darussalam"
+          }
+        },
+        {
+          "Jawa": {
+            "benar": false,
+            "jawaban": "Suku Jawa Berasal dari Yogyakarta"
+          }
+        }
+      ]
+    },
+    {
+      "Kepulauan Riau": [
+        {
+          "Batak": {
+            "benar": false,
+            "jawaban": "Suku Batak Berasal dari Nanggroe Aceh Darussalam"
+          }
+        },
+        {
+          "Dayak": {
+            "benar": false,
+            "jawaban": "Suku Dayak Berasal dari Kalimantan Barat"
+          }
+        },
+        {
+          "Melayu": {
+            "benar": true,
+            "jawaban": "Suku Melayu Berasal dari Kepulauan Riau"
+          }
+        }
+      ]
+    },
+    {
+      "Jambi": [
+        {
+          "Melayu": {
+            "benar": true,
+            "jawaban": "Suku Melayu Berasal dari Jambi"
+          }
+        },
+        {
+          "Batak": {
+            "benar": false,
+            "jawaban": "Suku Batak Berasal dari Nanggroe Aceh Darussalam"
+          }
+        },
+        {
+          "Sunda": {
+            "benar": false,
+            "jawaban": "Suku Sunda Berasal dari Jawa Barat"
+          }
+        }
+      ]
+    },
+    {
+      "Sumatera Selatan": [
+        {
+          "Batak": {
+            "benar": false,
+            "jawaban": "Suku Batak Berasal dari Nanggroe Aceh Darussalam"
+          }
+        },
+        {
+          "Palembang": {
+            "benar": true,
+            "jawaban": "Suku Palembang Berasal dari Sumatera Selatan"
+          }
+        },
+        {
+          "Bugis": {
+            "benar": false,
+            "jawaban": "Suku Bugis Berasal dari Sulawesi Selatan"
+          }
+        }
+      ]
+    },
+    {
+      "Bengkulu": [
+        {
+          "Rejang": {
+            "benar": true,
+            "jawaban": "Suku Rejang Berasal dari Bengkulu"
+          }
+        },
+        {
+          "Batak": {
+            "benar": false,
+            "jawaban": "Suku Batak Berasal dari Nanggroe Aceh Darussalam"
+          }
+        },
+        {
+          "Minangkabau": {
+            "benar": false,
+            "jawaban": "Suku Minangkabau Berasal dari Sumatera Barat"
+          }
+        }
+      ]
+    },
+    {
+      "Bangka Belitung": [
+        {
+          "Batak": {
+            "benar": false,
+            "jawaban": "Suku Batak Berasal dari Nanggroe Aceh Darussalam"
+          }
+        },
+        {
+          "Dayak": {
+            "benar": false,
+            "jawaban": "Suku Dayak Berasal dari Kalimantan Barat"
+          }
+        },
+        {
+          "Bangka": {
+            "benar": true,
+            "jawaban": "Suku Bangka Berasal dari Bangka Belitung"
+          }
+        }
+      ]
+    },
+    {
+      "Lampung": [
+        {
+          "Batak": {
+            "benar": false,
+            "jawaban": "Suku Batak Berasal dari Nanggroe Aceh Darussalam"
+          }
+        },
+        {
+          "Pesisir": {
+            "benar": true,
+            "jawaban": "Suku Pesisir Berasal dari Lampung"
+          }
+        },
+        {
+          "Dayak": {
+            "benar": false,
+            "jawaban": "Suku Dayak Berasal dari Kalimantan Barat"
+          }
+        }
+      ]
+    },
+    {
+      "DKI Jakarta": [
+        {
+          "Betawi": {
+            "benar": true,
+            "jawaban": "Suku Betawi Berasal dari DKI Jakarta"
+          }
+        },
+        {
+          "Jawa": {
+            "benar": false,
+            "jawaban": "Suku Jawa Berasal dari Yogyakarta"
+          }
+        },
+        {
+          "Minangkabau": {
+            "benar": false,
+            "jawaban": "Suku Minangkabau Berasal dari Sumatera Barat"
+          }
+        }
+      ]
+    },
+    {
+      "Jawa Barat": [
+        {
+          "Sunda": {
+            "benar": true,
+            "jawaban": "Suku Sunda Berasal dari Jawa Barat"
+          }
+        },
+        {
+          "Batak": {
+            "benar": false,
+            "jawaban": "Suku Batak Berasal dari Nanggroe Aceh Darussalam"
+          }
+        },
+        {
+          "Minangkabau": {
+            "benar": false,
+            "jawaban": "Suku Minangkabau Berasal dari Sumatera Barat"
+          }
+        }
+      ]
+    },
+    {
+      "Banten": [
+        {
+          "Banten": {
+            "benar": true,
+            "jawaban": "Suku Banten Berasal dari Banten"
+          }
+        },
+        {
+          "Jawa": {
+            "benar": false,
+            "jawaban": "Suku Jawa Berasal dari Yogyakarta"
+          }
+        },
+        {
+          "Aceh": {
+            "benar": false,
+            "jawaban": "Suku Aceh Berasal dari Nanggroe Aceh Darussalam"
+          }
+        }
+      ]
+    },
+    {
+      "Jawa Tengah": [
+        {
+          "Jawa": {
+            "benar": true,
+            "jawaban": "Suku Jawa Berasal dari Jawa Tengah"
+          }
+        },
+        {
+          "Sunda": {
+            "benar": false,
+            "jawaban": "Suku Sunda Berasal dari Jawa Barat"
+          }
+        },
+        {
+          "Batak": {
+            "benar": false,
+            "jawaban": "Suku Batak Berasal dari Nanggroe Aceh Darussalam"
+          }
+        }
+      ]
+    },
+    {
+      "DI Yogyakarta": [
+        {
+          "Jawa": {
+            "benar": true,
+            "jawaban": "Suku Jawa Berasal dari DI Yogyakarta"
+          }
+        },
+        {
+          "Batak": {
+            "benar": false,
+            "jawaban": "Suku Batak Berasal dari Nanggroe Aceh Darussalam"
+          }
+        },
+        {
+          "Minangkabau": {
+            "benar": false,
+            "jawaban": "Suku Minangkabau Berasal dari Sumatera Barat"
+          }
+        }
+      ]
+    },
+    {
+      "Jawa Timur": [
+        {
+          "Bali": {
+            "benar": false,
+            "jawaban": "Suku Bali Berasal dari Bali"
+          }
+        },
+        {
+          "Madura": {
+            "benar": true,
+            "jawaban": "Suku Madura Berasal dari Jawa Timur"
+          }
+        },
+        {
+          "Batak": {
+            "benar": false,
+            "jawaban": "Suku Batak Berasal dari Nanggroe Aceh Darussalam"
+          }
+        }
+      ]
+    },
+    {
+      "Bali": [
+        {
+          "Bali": {
+            "benar": true,
+            "jawaban": "Suku Bali Berasal dari Bali"
+          }
+        },
+        {
+          "Jawa": {
+            "benar": false,
+            "jawaban": "Suku Jawa Berasal dari Yogyakarta"
+          }
+        },
+        {
+          "Madura": {
+            "benar": false,
+            "jawaban": "Suku Madura Berasal dari Jawa Timur"
+          }
+        }
+      ]
+    },
+    {
+      "Nusa Tenggara Barat": [
+        {
+          "Jawa": {
+            "benar": false,
+            "jawaban": "Suku Jawa Berasal dari Jawa"
+          }
+        },
+        {
+          "Sasak": {
+            "benar": true,
+            "jawaban": "Suku Sasak Berasal dari Nusa Tenggara Barat"
+          }
+        },
+        {
+          "Dayak": {
+            "benar": false,
+            "jawaban": "Suku Dayak Berasal dari Kalimantan Barat"
+          }
+        }
+      ]
+    },
+    {
+      "Nusa Tenggara Timur": [
+        {
+          "Rote": {
+            "benar": true,
+            "jawaban": "Suku Rote Berasal dari Nusa Tenggara Timur"
+          }
+        },
+        {
+          "Dayak": {
+            "benar": false,
+            "jawaban": "Suku Dayak Berasal dari Kalimantan"
+          }
+        },
+        {
+          "Bali": {
+            "benar": false,
+            "jawaban": "Suku Bali Berasal dari Bali"
+          }
+        }
+      ]
+    },
+    {
+      "Kalimantan Barat": [
+        {
+          "Dayak Ngaju": {
+            "benar": true,
+            "jawaban": "Suku Dayak Ngaju Berasal dari Kalimantan Barat"
+          }
+        },
+        {
+          "Jawa": {
+            "benar": false,
+            "jawaban": "Suku Jawa Berasal dari Jawa"
+          }
+        },
+        {
+          "Sunda": {
+            "benar": false,
+            "jawaban": "Suku Sunda Berasal dari Jawa Barat"
+          }
+        }
+      ]
+    },
+    {
+      "Kalimantan Tengah": [
+        {
+          "Dayak Ngaju": {
+            "benar": true,
+            "jawaban": "Suku Dayak Ngaju Berasal dari Kalimantan Tengah"
+          }
+        },
+        {
+          "Sunda": {
+            "benar": false,
+            "jawaban": "Suku Sunda Berasal dari Jawa Barat"
+          }
+        },
+        {
+          "Rote": {
+            "benar": false,
+            "jawaban": "Suku Rote Berasal dari Nusa Tenggara Timur"
+          }
+        }
+      ]
+    },
+    {
+      "Kalimantan Utara": [
+        {
+          "Dayak": {
+            "benar": true,
+            "jawaban": "Suku Dayak Berasal dari Kalimantan Utara"
+          }
+        },
+        {
+          "Flores": {
+            "benar": false,
+            "jawaban": "Suku Flores Berasal dari Nusa Tenggara Timur"
+          }
+        },
+        {
+          "Sunda": {
+            "benar": false,
+            "jawaban": "Suku Sunda Berasal dari Jawa Barat"
+          }
+        }
+      ]
+    },
+    {
+      "Kalimantan Selatan": [
+        {
+          "Banjar Hulu": {
+            "benar": true,
+            "jawaban": "Suku Banjar Hulu Berasal dari Kalimantan Selatan"
+          }
+        },
+        {
+          "Melayu": {
+            "benar": false,
+            "jawaban": "Suku Melayu Berasal dari Sumatera Barat"
+          }
+        },
+        {
+          "Minangkabau": {
+            "benar": false,
+            "jawaban": "Suku Minangkabau Berasal dari Sumatera Barat"
+          }
+        }
+      ]
+    },
+    {
+      "Kalimantan Timur": [
+        {
+          "Ot Danum": {
+            "benar": true,
+            "jawaban": "Suku Ot Danum Berasal dari Kalimantan Timur"
+          }
+        },
+        {
+          "Sasak": {
+            "benar": false,
+            "jawaban": "Suku Sasak Berasal dari Nusa Tenggara Barat"
+          }
+        },
+        {
+          "Dayak": {
+            "benar": false,
+            "jawaban": "Suku Dayak Berasal dari Kalimantan Barat"
+          }
+        }
+      ]
+    },
+
+    {
+      "Gorontalo": [
+        {
+          "Banjar Hulu": {
+            "benar": false,
+            "jawaban": "Suku Banjar Hulu Berasal dari Kalimantan Selatan"
+          }
+        },
+        {
+          "Dayak": {
+            "benar": false,
+            "jawaban": "Suku Dayak Berasal dari Kalimantan Barat"
+          }
+        },
+        {
+          "Gorontalo": {
+            "benar": true,
+            "jawaban": "Suku Gorontalo Berasal dari Gorontalo"
+          }
+        }
+      ]
+    },
+    {
+      "Sulawesi Tengah": [
+        {
+          "Kaili": {
+            "benar": true,
+            "jawaban": "Suku Kaili Berasal dari Sulawesi Tengah"
+          }
+        },
+        {
+          "Dayak": {
+            "benar": false,
+            "jawaban": "Suku Dayak Berasal dari Kalimantan"
+          }
+        },
+        {
+          "Bali": {
+            "benar": false,
+            "jawaban": "Suku Bali Berasal dari Bali"
+          }
+        }
+      ]
+    },
+    {
+      "Sulawesi Utara": [
+        {
+          "Sangir": {
+            "benar": true,
+            "jawaban": "Suku Sangir Berasal dari Sulawesi Utara"
+          }
+        },
+        {
+          "Dayak": {
+            "benar": false,
+            "jawaban": "Suku Dayak Berasal dari Kalimantan"
+          }
+        },
+        {
+          "Bali": {
+            "benar": false,
+            "jawaban": "Suku Bali Berasal dari Bali"
+          }
+        }
+      ]
+    },
+    {
+      "Sulawesi Selatan": [
+        {
+          "Makassar": {
+            "benar": true,
+            "jawaban": "Suku Makassar Juga Berasal dari Sulawesi Selatan"
+          }
+        },
+        {
+          "Jawa": {
+            "benar": false,
+            "jawaban": "Suku Jawa Berasal dari Jawa"
+          }
+        },
+        {
+          "Gayo": {
+            "benar": false,
+            "jawaban": "Suku Gayo Berasal dari Sumatera Ace"
+          }
+        }
+      ]
+    },
+    {
+      "Sulawesi Tenggara": [
+        {
+          "Lahi": {
+            "benar": true,
+            "jawaban": "Suku Lahi Juga Berasal dari Sulawesi Tenggara"
+          }
+        },
+        {
+          "Jawa": {
+            "benar": false,
+            "jawaban": "Suku Jawa Berasal dari Jawa"
+          }
+        },
+        {
+          "Gayo": {
+            "benar": false,
+            "jawaban": "Suku Gayo Berasal dari Sumatera Ace"
+          }
+        }
+      ]
+    },
+    {
+      "Sulawesi Barat": [
+        {
+          "Mandar": {
+            "benar": true,
+            "jawaban": "Suku Mandar Berasal dari Sulawesi Barat"
+          }
+        },
+        {
+          "Flores": {
+            "benar": false,
+            "jawaban": "Suku Flores Berasal dari Nusa Tenggara Timur"
+          }
+        },
+        {
+          "Sunda": {
+            "benar": false,
+            "jawaban": "Suku Sunda Berasal dari Jawa Barat"
+          }
+        }
+      ]
+    },
+    {
+      "Maluku": [
+        {
+          "Buru": {
+            "benar": true,
+            "jawaban": "Suku Buru Berasal dari Maluku"
+          }
+        },
+        {
+          "Flores": {
+            "benar": false,
+            "jawaban": "Suku Flores Berasal dari Nusa Tenggara Timur"
+          }
+        },
+        {
+          "Sunda": {
+            "benar": false,
+            "jawaban": "Suku Sunda Berasal dari Jawa Barat"
+          }
+        }
+      ]
+    },
+    {
+      "Maluku Utara": [
+        {
+          "Bacan": {
+            "benar": true,
+            "jawaban": "Suku Bacan Berasal dari Maluku Utara"
+          }
+        },
+        {
+          "Bantuni": {
+            "benar": false,
+            "jawaban": "Suku Bantuni Berasal dari Papua"
+          }
+        },
+        {
+          "Obi": {
+            "benar": false,
+            "jawaban": "Suku Obi Berasal dari Maluku"
+          }
+        }
+      ]
+    },
+    {
+      "Papua": [
+        {
+          "Membramo": {
+            "benar": true,
+            "jawaban": "Suku Membramo Berasal dari Papua"
+          }
+        },
+        {
+          "Fak-fak": {
+            "benar": false,
+            "jawaban": "Suku Fak-fak Berasal dari Papua Selatan"
+          }
+        },
+        {
+          "Biak": {
+            "benar": false,
+            "jawaban": "Suku Biak Berasal dari Papua"
+          }
+        }
+      ]
+    },
+    {
+      "Papua Barat": [
+        {
+          "Mandacan": {
+            "benar": true,
+            "jawaban": "Suku Mandacan Berasal dari Papua Barat"
+          }
+        },
+        {
+          "Asmat": {
+            "benar": false,
+            "jawaban": "Suku Asmat Berasal dari Papua Pegunungan"
+          }
+        },
+
+        {
+          "Morotai": {
+            "benar": false,
+            "jawaban": "Suku Morotai Berasal dari Maluku Utara"
+          }
+        }
+      ]
+    },
+    {
+      "Papua Selatan": [
+        {
+          "Marind": {
+            "benar": true,
+            "jawaban": "Suku Marind Berasal dari Papua Selatan"
+          }
+        },
+        {
+          "Flores": {
+            "benar": false,
+            "jawaban": "Suku Flores Berasal dari Nusa Tenggara Timur"
+          }
+        },
+        {
+          "Sunda": {
+            "benar": false,
+            "jawaban": "Suku Sunda Berasal dari Jawa Barat"
+          }
+        }
+      ]
+    },
+    {
+      "Papua Tengah": [
+        {
+          "Mee (Ekari)": {
+            "benar": true,
+            "jawaban": "Suku Mee (Ekari) Berasal dari Papua Tengah"
+          }
+        },
+        {
+          "Flores": {
+            "benar": false,
+            "jawaban": "Suku Flores Berasal dari Nusa Tenggara Timur"
+          }
+        },
+        {
+          "Sunda": {
+            "benar": false,
+            "jawaban": "Suku Sunda Berasal dari Jawa Barat"
+          }
+        }
+      ]
+    },
+    {
+      "Papua Pegunungan": [
+        {
+          "Dani": {
+            "benar": true,
+            "jawaban": "Suku Dani Berasal dari Papua Pegunungan"
+          }
+        },
+        {
+          "Jawa": {
+            "benar": false,
+            "jawaban": "Suku Jawa Berasal dari Jawa"
+          }
+        },
+        {
+          "Gayo": {
+            "benar": false,
+            "jawaban": "Suku Gayo Berasal dari Sumatera Ace"
+          }
+        }
+      ]
+    },
+    {
+      "Papua Barat Daya": [
+        {
+          "Ayamaru": {
+            "benar": true,
+            "jawaban": "Suku Ayamaru Berasal dari Papua Barat Daya"
+          }
+        },
+        {
+          "Hubula": {
+            "benar": false,
+            "jawaban": "Suku Hubula Berasal dari Papua Barat Daya"
+          }
+        },
+        {
+          "Yali": {
+            "benar": false,
+            "jawaban": "Suku Yali Berasal dari Papua Selatan"
+          }
+        }
+      ]
+    }
+  ]
+}

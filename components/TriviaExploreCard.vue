@@ -11,7 +11,7 @@
         <div class="flex flex-col">
           <h1 class="text-[45px] font-bold">Tahukah Kamu?</h1>
           <p class="text-[18px] font-bold">
-            Di Bawah ini mana salah satu suku yang ada di Yogyakarta?
+            Di Bawah ini mana salah satu suku yang ada di {{ }}?
           </p>
         </div>
         <div class="flex">
@@ -83,3 +83,15 @@
     </div>
   </div>
 </template>
+
+
+<script>
+  export default {
+    props: {
+       data : {
+        default : []
+       }
+    }
+  }
+
+</script>

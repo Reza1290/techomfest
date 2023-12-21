@@ -1,17 +1,40 @@
 {
   "data": [
     {
-      "nama": "Aceh",
-      "image" : {
-        "banner" : "",
-        "makanan" : [
-          ""
-        ],
-        "tarian" : ""
+      "id": 1,
+      "nama": "Nanggroe Aceh Darussalam",
+      "ibukota": "Banda Aceh",
+      "lambang": "Pancacita",
+      "deskripsi": "Aceh yang mula-mula bernama Aceh Darussalam (1511-1959) selanjutnya pernah disebut dengan nama Daerah Istimewa Aceh (1959-2001) dan Nanggroe Aceh Darussalam (2001-2009) dan menjadi provinsi Aceh (2009-sekarang)adalah provinsi paling barat di Indonesia. Aceh memiliki otonomi yang diatur tersendiri, berbeda dengan kebanyakan provinsi lain di Indonesia, karena alasan sejarah",
+      "quiz": [
+        {
+          "Batak": {
+            "benar": false,
+            "jawaban": "Suku Batak Berasal dari Sumatera Utara"
+          }
+        },
+        {
+          "Aceh": {
+            "benar": true,
+            "jawaban": "Suku Aceh Berasal dari Nanggroe Aceh Darussalam"
+          }
+        },
+        {
+          "Minangkabau": {
+            "benar": false,
+            "jawaban": "Suku Minangkabau Berasal dari Sumatera Barat"
+          }
+        }
+      ],
+      "image": {
+        "icon": "nad.png",
+        "banner": "nad.jpeg",
+        "makanan": ["aceh/1.png", "aceh/2.png", "aceh/3.png"],
+        "tarian": "aceh.png"
       },
       "tarian": {
-        "nama" : "",
-        "penjelasan" : ""
+        "nama": "TARI SAMAN",
+        "penjelasan": "Tari saman adalah tarian tradisional yang dimainkan suku Gayo. Tari saman telah tumbuh dan berkembang di Kabupten Gayo Lues, Aceh Tenggara, Aceh Timur (Kecamantan Serbejadi), Kabupaten Aceh Tamiang (Tamiang Hulu)."
       },
       "makanan": [
         {
@@ -29,17 +52,37 @@
       ]
     },
     {
+      "id": 2,
       "nama": "Sumatera Utara",
-      "image" : {
-        "banner" : "",
-        "makanan" : [
-          ""
-        ],
-        "tarian" : ""
+      "quiz": [
+        {
+          "Batak": {
+            "benar": true,
+            "jawaban": "Suku Batak Berasal dari Nanggroe Aceh Darussalam"
+          }
+        },
+        {
+          "Jawa": {
+            "benar": true,
+            "jawaban": "Suku Jawa Berasal dari Jawa"
+          }
+        },
+        {
+          "Gayo": {
+            "benar": false,
+            "jawaban": "Suku Gayo Berasal dari Aceh"
+          }
+        }
+      ],
+      "image": {
+        "icon": "sumut.png",
+        "banner": "sumut.jpeg",
+        "makanan": ["sumut/1.png", "sumut/2.png", "sumut/3.png"],
+        "tarian": "sumut.png"
       },
       "tarian": {
-        "nama" : "",
-        "penjelasan" : ""
+        "nama": "TARI TOR-TOR",
+        "penjelasan": "Tari tradisional ini semula dikaitkan dengan ritual dan roh, sehingga dipentaskan ketika ada anggota keluarga yang meninggal, seperti dikutip dari Ensiklopedia Seni Tari Nusantara: Sulawesi Barat hingga Sumatera Utara oleh R Toto Sugiarto."
       },
       "makanan": [
         {
@@ -65,17 +108,37 @@
       ]
     },
     {
+      "id": 4,
       "nama": "Sumatera Barat",
-      "image" : {
-        "banner" : "",
-        "makanan" : [
-          ""
-        ],
-        "tarian" : ""
+      "quiz": [
+        {
+          "Sunda": {
+            "benar": false,
+            "jawaban": "Suku Sunda Berasal dari Jawa Barat"
+          }
+        },
+        {
+          "Minangkabau": {
+            "benar": true,
+            "jawaban": "Suku Minangkabau Berasal dari Sumatera Barat"
+          }
+        },
+        {
+          "Aceh": {
+            "benar": false,
+            "jawaban": "Suku Aceh Berasal dari Nanggroe Aceh Darussalam"
+          }
+        }
+      ],
+      "image": {
+        "icon": "sumbar.png",
+        "banner": "sumbar.jpeg",
+        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
+        "tarian": "sumbar.png"
       },
       "tarian": {
-        "nama" : "",
-        "penjelasan" : ""
+        "nama": "TARI PIRING",
+        "penjelasan": "Tari piring berasal dari orang Minangkabau di Sumatera Barat. Tari ini semula merupakan bentuk syukur atas hasil panen, ketika warga setempat memeluk agama Hindu, seperti dikutip dari Kreatif Tematik Tema 1 Indahnya Kebersamaan Kelas IV untuk SD/MI oleh Tim Tunas Karya Guru."
       },
       "makanan": [
         {
@@ -96,18 +159,38 @@
         }
       ]
     },
-        {
+    {
+      "id": 3,
       "nama": "Sumatera Selatan",
-      "image" : {
-        "banner" : "",
-        "makanan" : [
-          ""
-        ],
-        "tarian" : ""
+      "quiz": [
+        {
+          "Batak": {
+            "benar": false,
+            "jawaban": "Suku Batak Berasal dari Nanggroe Aceh Darussalam"
+          }
+        },
+        {
+          "Palembang": {
+            "benar": true,
+            "jawaban": "Suku Palembang Berasal dari Sumatera Selatan"
+          }
+        },
+        {
+          "Bugis": {
+            "benar": false,
+            "jawaban": "Suku Bugis Berasal dari Sulawesi Selatan"
+          }
+        }
+      ],
+      "image": {
+        "icon": "sumbar.png",
+        "banner": "sumbar.jpeg",
+        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
+        "tarian": "sumbar.png"
       },
       "tarian": {
-        "nama" : "",
-        "penjelasan" : ""
+        "nama": "",
+        "penjelasan": ""
       },
       "makanan": [
         {
@@ -133,17 +216,18 @@
       ]
     },
     {
+      "id": 1,
       "nama": "Riau",
-      "image" : {
-        "banner" : "",
-        "makanan" : [
-          ""
-        ],
-        "tarian" : ""
+      "quiz": [],
+      "image": {
+        "icon": "sumbar.png",
+        "banner": "sumbar.jpeg",
+        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
+        "tarian": "sumbar.png"
       },
       "tarian": {
-        "nama" : "",
-        "penjelasan" : ""
+        "nama": "",
+        "penjelasan": ""
       },
       "makanan": [
         {
@@ -161,17 +245,18 @@
       ]
     },
     {
+      "id": 1,
       "nama": "Kepulauan Riau",
-      "image" : {
-        "banner" : "",
-        "makanan" : [
-          ""
-        ],
-        "tarian" : ""
+      "quiz": [],
+      "image": {
+        "icon": "sumbar.png",
+        "banner": "sumbar.jpeg",
+        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
+        "tarian": "sumbar.png"
       },
       "tarian": {
-        "nama" : "",
-        "penjelasan" : ""
+        "nama": "",
+        "penjelasan": ""
       },
       "makanan": [
         {
@@ -188,18 +273,19 @@
         }
       ]
     },
-        {
+    {
+      "id": 1,
       "nama": "Bangka Belitung",
-      "image" : {
-        "banner" : "",
-        "makanan" : [
-          ""
-        ],
-        "tarian" : ""
+      "quiz": [],
+      "image": {
+        "icon": "sumbar.png",
+        "banner": "sumbar.jpeg",
+        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
+        "tarian": "sumbar.png"
       },
       "tarian": {
-        "nama" : "",
-        "penjelasan" : ""
+        "nama": "",
+        "penjelasan": ""
       },
       "makanan": [
         {
@@ -225,17 +311,18 @@
       ]
     },
     {
+      "id": 1,
       "nama": "Bengkulu",
-      "image" : {
-        "banner" : "",
-        "makanan" : [
-          ""
-        ],
-        "tarian" : ""
+      "quiz": [],
+      "image": {
+        "icon": "sumbar.png",
+        "banner": "sumbar.jpeg",
+        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
+        "tarian": "sumbar.png"
       },
       "tarian": {
-        "nama" : "",
-        "penjelasan" : ""
+        "nama": "",
+        "penjelasan": ""
       },
       "makanan": [
         {
@@ -261,17 +348,18 @@
       ]
     },
     {
+      "id": 1,
       "nama": "Lampung",
-      "image" : {
-        "banner" : "",
-        "makanan" : [
-          ""
-        ],
-        "tarian" : ""
+      "quiz": [],
+      "image": {
+        "icon": "sumbar.png",
+        "banner": "sumbar.jpeg",
+        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
+        "tarian": "sumbar.png"
       },
       "tarian": {
-        "nama" : "",
-        "penjelasan" : ""
+        "nama": "",
+        "penjelasan": ""
       },
       "makanan": [
         {
@@ -297,17 +385,18 @@
       ]
     },
     {
+      "id": 1,
       "nama": "Jambi",
-      "image" : {
-        "banner" : "",
-        "makanan" : [
-          ""
-        ],
-        "tarian" : ""
+      "quiz": [],
+      "image": {
+        "icon": "sumbar.png",
+        "banner": "sumbar.jpeg",
+        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
+        "tarian": "sumbar.png"
       },
       "tarian": {
-        "nama" : "",
-        "penjelasan" : ""
+        "nama": "",
+        "penjelasan": ""
       },
       "makanan": [
         {
@@ -328,18 +417,19 @@
         }
       ]
     },
-        {
+    {
+      "id": 1,
       "nama": "Banten",
-      "image" : {
-        "banner" : "",
-        "makanan" : [
-          ""
-        ],
-        "tarian" : ""
+      "quiz": [],
+      "image": {
+        "icon": "sumbar.png",
+        "banner": "sumbar.jpeg",
+        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
+        "tarian": "sumbar.png"
       },
       "tarian": {
-        "nama" : "",
-        "penjelasan" : ""
+        "nama": "",
+        "penjelasan": ""
       },
       "makanan": [
         {
@@ -365,17 +455,18 @@
       ]
     },
     {
+      "id": 1,
       "nama": "Jawa Barat",
-      "image" : {
-        "banner" : "",
-        "makanan" : [
-          ""
-        ],
-        "tarian" : ""
+      "quiz": [],
+      "image": {
+        "icon": "sumbar.png",
+        "banner": "sumbar.jpeg",
+        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
+        "tarian": "sumbar.png"
       },
       "tarian": {
-        "nama" : "",
-        "penjelasan" : ""
+        "nama": "",
+        "penjelasan": ""
       },
       "makanan": [
         {
@@ -405,17 +496,18 @@
       ]
     },
     {
+      "id": 1,
       "nama": "Jawa Tengah",
-      "image" : {
-        "banner" : "",
-        "makanan" : [
-          ""
-        ],
-        "tarian" : ""
+      "quiz": [],
+      "image": {
+        "icon": "sumbar.png",
+        "banner": "sumbar.jpeg",
+        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
+        "tarian": "sumbar.png"
       },
       "tarian": {
-        "nama" : "",
-        "penjelasan" : ""
+        "nama": "",
+        "penjelasan": ""
       },
       "makanan": [
         {
@@ -441,17 +533,18 @@
       ]
     },
     {
+      "id": 1,
       "nama": "Jawa Timur",
-      "image" : {
-        "banner" : "",
-        "makanan" : [
-          ""
-        ],
-        "tarian" : ""
+      "quiz": [],
+      "image": {
+        "icon": "sumbar.png",
+        "banner": "sumbar.jpeg",
+        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
+        "tarian": "sumbar.png"
       },
       "tarian": {
-        "nama" : "",
-        "penjelasan" : ""
+        "nama": "",
+        "penjelasan": ""
       },
       "makanan": [
         {
@@ -476,18 +569,19 @@
         }
       ]
     },
-        {
+    {
+      "id": 1,
       "nama": "DI Yogyakarta",
-      "image" : {
-        "banner" : "",
-        "makanan" : [
-          ""
-        ],
-        "tarian" : ""
+      "quiz": [],
+      "image": {
+        "icon": "sumbar.png",
+        "banner": "sumbar.jpeg",
+        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
+        "tarian": "sumbar.png"
       },
       "tarian": {
-        "nama" : "",
-        "penjelasan" : ""
+        "nama": "",
+        "penjelasan": ""
       },
       "makanan": [
         {
@@ -517,17 +611,18 @@
       ]
     },
     {
+      "id": 1,
       "nama": "DKI Jakarta",
-      "image" : {
-        "banner" : "",
-        "makanan" : [
-          ""
-        ],
-        "tarian" : ""
+      "quiz": [],
+      "image": {
+        "icon": "sumbar.png",
+        "banner": "sumbar.jpeg",
+        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
+        "tarian": "sumbar.png"
       },
       "tarian": {
-        "nama" : "",
-        "penjelasan" : ""
+        "nama": "",
+        "penjelasan": ""
       },
       "makanan": [
         {
@@ -553,17 +648,18 @@
       ]
     },
     {
+      "id": 1,
       "nama": "Bali",
-      "image" : {
-        "banner" : "",
-        "makanan" : [
-          ""
-        ],
-        "tarian" : ""
+      "quiz": [],
+      "image": {
+        "icon": "sumbar.png",
+        "banner": "sumbar.jpeg",
+        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
+        "tarian": "sumbar.png"
       },
       "tarian": {
-        "nama" : "",
-        "penjelasan" : ""
+        "nama": "",
+        "penjelasan": ""
       },
       "makanan": [
         {
@@ -589,17 +685,18 @@
       ]
     },
     {
+      "id": 1,
       "nama": "NTB",
-      "image" : {
-        "banner" : "",
-        "makanan" : [
-          ""
-        ],
-        "tarian" : ""
+      "quiz": [],
+      "image": {
+        "icon": "sumbar.png",
+        "banner": "sumbar.jpeg",
+        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
+        "tarian": "sumbar.png"
       },
       "tarian": {
-        "nama" : "",
-        "penjelasan" : ""
+        "nama": "",
+        "penjelasan": ""
       },
       "makanan": [
         {
@@ -624,18 +721,19 @@
         }
       ]
     },
-        {
+    {
+      "id": 1,
       "nama": "Bali",
-      "image" : {
-        "banner" : "",
-        "makanan" : [
-          ""
-        ],
-        "tarian" : ""
+      "quiz": [],
+      "image": {
+        "icon": "sumbar.png",
+        "banner": "sumbar.jpeg",
+        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
+        "tarian": "sumbar.png"
       },
       "tarian": {
-        "nama" : "",
-        "penjelasan" : ""
+        "nama": "",
+        "penjelasan": ""
       },
       "makanan": [
         {
@@ -661,17 +759,18 @@
       ]
     },
     {
+      "id": 1,
       "nama": "NTB",
-      "image" : {
-        "banner" : "",
-        "makanan" : [
-          ""
-        ],
-        "tarian" : ""
+      "quiz": [],
+      "image": {
+        "icon": "sumbar.png",
+        "banner": "sumbar.jpeg",
+        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
+        "tarian": "sumbar.png"
       },
       "tarian": {
-        "nama" : "",
-        "penjelasan" : ""
+        "nama": "",
+        "penjelasan": ""
       },
       "makanan": [
         {
@@ -697,17 +796,18 @@
       ]
     },
     {
+      "id": 1,
       "nama": "NTT",
-      "image" : {
-        "banner" : "",
-        "makanan" : [
-          ""
-        ],
-        "tarian" : ""
+      "quiz": [],
+      "image": {
+        "icon": "sumbar.png",
+        "banner": "sumbar.jpeg",
+        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
+        "tarian": "sumbar.png"
       },
       "tarian": {
-        "nama" : "",
-        "penjelasan" : ""
+        "nama": "",
+        "penjelasan": ""
       },
       "makanan": [
         {
@@ -733,17 +833,18 @@
       ]
     },
     {
+      "id": 1,
       "nama": "Kalimantan Barat",
-      "image" : {
-        "banner" : "",
-        "makanan" : [
-          ""
-        ],
-        "tarian" : ""
+      "quiz": [],
+      "image": {
+        "icon": "sumbar.png",
+        "banner": "sumbar.jpeg",
+        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
+        "tarian": "sumbar.png"
       },
       "tarian": {
-        "nama" : "",
-        "penjelasan" : ""
+        "nama": "",
+        "penjelasan": ""
       },
       "makanan": [
         {
@@ -768,18 +869,19 @@
         }
       ]
     },
-        {
+    {
+      "id": 1,
       "nama": "Kalimantan Tengah",
-      "image" : {
-        "banner" : "",
-        "makanan" : [
-          ""
-        ],
-        "tarian" : ""
+      "quiz": [],
+      "image": {
+        "icon": "sumbar.png",
+        "banner": "sumbar.jpeg",
+        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
+        "tarian": "sumbar.png"
       },
       "tarian": {
-        "nama" : "",
-        "penjelasan" : ""
+        "nama": "",
+        "penjelasan": ""
       },
       "makanan": [
         {
@@ -801,17 +903,18 @@
       ]
     },
     {
+      "id": 1,
       "nama": "Kalimantan Selatan",
-      "image" : {
-        "banner" : "",
-        "makanan" : [
-          ""
-        ],
-        "tarian" : ""
+      "quiz": [],
+      "image": {
+        "icon": "sumbar.png",
+        "banner": "sumbar.jpeg",
+        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
+        "tarian": "sumbar.png"
       },
       "tarian": {
-        "nama" : "",
-        "penjelasan" : ""
+        "nama": "",
+        "penjelasan": ""
       },
       "makanan": [
         {
@@ -837,17 +940,18 @@
       ]
     },
     {
+      "id": 1,
       "nama": "Kalimantan Timur",
-      "image" : {
-        "banner" : "",
-        "makanan" : [
-          ""
-        ],
-        "tarian" : ""
+      "quiz": [],
+      "image": {
+        "icon": "sumbar.png",
+        "banner": "sumbar.jpeg",
+        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
+        "tarian": "sumbar.png"
       },
       "tarian": {
-        "nama" : "",
-        "penjelasan" : ""
+        "nama": "",
+        "penjelasan": ""
       },
       "makanan": [
         {
@@ -873,17 +977,18 @@
       ]
     },
     {
+      "id": 1,
       "nama": "Kalimantan Utara",
-      "image" : {
-        "banner" : "",
-        "makanan" : [
-          ""
-        ],
-        "tarian" : ""
+      "quiz": [],
+      "image": {
+        "icon": "sumbar.png",
+        "banner": "sumbar.jpeg",
+        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
+        "tarian": "sumbar.png"
       },
       "tarian": {
-        "nama" : "",
-        "penjelasan" : ""
+        "nama": "",
+        "penjelasan": ""
       },
       "makanan": [
         {
@@ -901,17 +1006,18 @@
       ]
     },
     {
+      "id": 1,
       "nama": "Sulawesi Barat",
-      "image" : {
-        "banner" : "",
-        "makanan" : [
-          ""
-        ],
-        "tarian" : ""
+      "quiz": [],
+      "image": {
+        "icon": "sumbar.png",
+        "banner": "sumbar.jpeg",
+        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
+        "tarian": "sumbar.png"
       },
       "tarian": {
-        "nama" : "",
-        "penjelasan" : ""
+        "nama": "",
+        "penjelasan": ""
       },
       "makanan": [
         {
@@ -937,17 +1043,18 @@
       ]
     },
     {
+      "id": 1,
       "nama": "Sulawesi Utara",
-      "image" : {
-        "banner" : "",
-        "makanan" : [
-          ""
-        ],
-        "tarian" : ""
+      "quiz": [],
+      "image": {
+        "icon": "sumbar.png",
+        "banner": "sumbar.jpeg",
+        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
+        "tarian": "sumbar.png"
       },
       "tarian": {
-        "nama" : "",
-        "penjelasan" : ""
+        "nama": "",
+        "penjelasan": ""
       },
       "makanan": [
         {
@@ -973,17 +1080,18 @@
       ]
     },
     {
+      "id": 1,
       "nama": "Sulawesi Tengah",
-      "image" : {
-        "banner" : "",
-        "makanan" : [
-          ""
-        ],
-        "tarian" : ""
+      "quiz": [],
+      "image": {
+        "icon": "sumbar.png",
+        "banner": "sumbar.jpeg",
+        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
+        "tarian": "sumbar.png"
       },
       "tarian": {
-        "nama" : "",
-        "penjelasan" : ""
+        "nama": "",
+        "penjelasan": ""
       },
       "makanan": [
         {
@@ -1001,17 +1109,18 @@
       ]
     },
     {
+      "id": 1,
       "nama": "Sulawesi Tenggara",
-      "image" : {
-        "banner" : "",
-        "makanan" : [
-          ""
-        ],
-        "tarian" : ""
+      "quiz": [],
+      "image": {
+        "icon": "sumbar.png",
+        "banner": "sumbar.jpeg",
+        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
+        "tarian": "sumbar.png"
       },
       "tarian": {
-        "nama" : "",
-        "penjelasan" : ""
+        "nama": "",
+        "penjelasan": ""
       },
       "makanan": [
         {
@@ -1037,17 +1146,18 @@
       ]
     },
     {
+      "id": 1,
       "nama": "Sulawesi Selatan",
-      "image" : {
-        "banner" : "",
-        "makanan" : [
-          ""
-        ],
-        "tarian" : ""
+      "quiz": [],
+      "image": {
+        "icon": "sumbar.png",
+        "banner": "sumbar.jpeg",
+        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
+        "tarian": "sumbar.png"
       },
       "tarian": {
-        "nama" : "",
-        "penjelasan" : ""
+        "nama": "",
+        "penjelasan": ""
       },
       "makanan": [
         {
@@ -1073,17 +1183,18 @@
       ]
     },
     {
+      "id": 1,
       "nama": "Gorontalo",
-      "image" : {
-        "banner" : "",
-        "makanan" : [
-          ""
-        ],
-        "tarian" : ""
+      "quiz": [],
+      "image": {
+        "icon": "sumbar.png",
+        "banner": "sumbar.jpeg",
+        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
+        "tarian": "sumbar.png"
       },
       "tarian": {
-        "nama" : "",
-        "penjelasan" : ""
+        "nama": "",
+        "penjelasan": ""
       },
       "makanan": [
         {
@@ -1109,17 +1220,18 @@
       ]
     },
     {
+      "id": 1,
       "nama": "Maluku",
-      "image" : {
-        "banner" : "",
-        "makanan" : [
-          ""
-        ],
-        "tarian" : ""
+      "quiz": [],
+      "image": {
+        "icon": "sumbar.png",
+        "banner": "sumbar.jpeg",
+        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
+        "tarian": "sumbar.png"
       },
       "tarian": {
-        "nama" : "",
-        "penjelasan" : ""
+        "nama": "",
+        "penjelasan": ""
       },
       "makanan": [
         {
@@ -1145,17 +1257,18 @@
       ]
     },
     {
+      "id": 1,
       "nama": "Maluku Utara",
-      "image" : {
-        "banner" : "",
-        "makanan" : [
-          ""
-        ],
-        "tarian" : ""
+      "quiz": [],
+      "image": {
+        "icon": "sumbar.png",
+        "banner": "sumbar.jpeg",
+        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
+        "tarian": "sumbar.png"
       },
       "tarian": {
-        "nama" : "",
-        "penjelasan" : ""
+        "nama": "",
+        "penjelasan": ""
       },
       "makanan": [
         {
@@ -1177,17 +1290,18 @@
       ]
     },
     {
+      "id": 1,
       "nama": "Papua",
-      "image" : {
-        "banner" : "",
-        "makanan" : [
-          ""
-        ],
-        "tarian" : ""
+      "quiz": [],
+      "image": {
+        "icon": "sumbar.png",
+        "banner": "sumbar.jpeg",
+        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
+        "tarian": "sumbar.png"
       },
       "tarian": {
-        "nama" : "",
-        "penjelasan" : ""
+        "nama": "",
+        "penjelasan": ""
       },
       "makanan": [
         {
@@ -1205,17 +1319,18 @@
       ]
     },
     {
+      "id": 1,
       "nama": "Papua Tengah",
-      "image" : {
-        "banner" : "",
-        "makanan" : [
-          ""
-        ],
-        "tarian" : ""
+      "quiz": [],
+      "image": {
+        "icon": "sumbar.png",
+        "banner": "sumbar.jpeg",
+        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
+        "tarian": "sumbar.png"
       },
       "tarian": {
-        "nama" : "",
-        "penjelasan" : ""
+        "nama": "",
+        "penjelasan": ""
       },
       "makanan": [
         {
@@ -1233,17 +1348,18 @@
       ]
     },
     {
+      "id": 1,
       "nama": "Papua Pegunungan",
-      "image" : {
-        "banner" : "",
-        "makanan" : [
-          ""
-        ],
-        "tarian" : ""
+      "quiz": [],
+      "image": {
+        "icon": "sumbar.png",
+        "banner": "sumbar.jpeg",
+        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
+        "tarian": "sumbar.png"
       },
       "tarian": {
-        "nama" : "",
-        "penjelasan" : ""
+        "nama": "",
+        "penjelasan": ""
       },
       "makanan": [
         {
@@ -1253,17 +1369,18 @@
       ]
     },
     {
+      "id": 1,
       "nama": "Papua Selatan",
-      "image" : {
-        "banner" : "",
-        "makanan" : [
-          ""
-        ],
-        "tarian" : ""
+      "quiz": [],
+      "image": {
+        "icon": "sumbar.png",
+        "banner": "sumbar.jpeg",
+        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
+        "tarian": "sumbar.png"
       },
       "tarian": {
-        "nama" : "",
-        "penjelasan" : ""
+        "nama": "",
+        "penjelasan": ""
       },
       "makanan": [
         {
@@ -1273,17 +1390,18 @@
       ]
     },
     {
+      "id": 1,
       "nama": "Papua Barat Daya",
-      "image" : {
-        "banner" : "",
-        "makanan" : [
-          ""
-        ],
-        "tarian" : ""
+      "quiz": [],
+      "image": {
+        "icon": "sumbar.png",
+        "banner": "sumbar.jpeg",
+        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
+        "tarian": "sumbar.png"
       },
       "tarian": {
-        "nama" : "",
-        "penjelasan" : ""
+        "nama": "",
+        "penjelasan": ""
       },
       "makanan": [
         {
@@ -1301,17 +1419,18 @@
       ]
     },
     {
+      "id": 1,
       "nama": "Papua Barat",
-      "image" : {
-        "banner" : "",
-        "makanan" : [
-          ""
-        ],
-        "tarian" : ""
+      "quiz": [],
+      "image": {
+        "icon": "sumbar.png",
+        "banner": "sumbar.jpeg",
+        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
+        "tarian": "sumbar.png"
       },
       "tarian": {
-        "nama" : "",
-        "penjelasan" : ""
+        "nama": "",
+        "penjelasan": ""
       },
       "makanan": [
         {
@@ -1330,4 +1449,3 @@
     }
   ]
 }
-
