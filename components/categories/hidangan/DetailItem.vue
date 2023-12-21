@@ -1,7 +1,7 @@
 <template>
-  <div class="px-[101px]">
+  <div class="px-5 lg:px-[101px]">
     <section id="hero-detail">
-      <div class="w-full h-[480px] flex justify-center">
+      <div class="w-full h-[380px] lg:h-[480px] flex justify-center">
         <div class="w-full max-h-full cursor-pointer card-detail">
           <div
             class="card-detail-image bg-[url('~/assets/images/hidangan/rendang.jpeg')]"
@@ -9,25 +9,26 @@
           <div
             class="flex items-center justify-center w-full min-h-full backdrop-brightness-[.7]"
           >
-            <p class="font-bold text-center text-white text-7xl">Rendang</p>
+            <p class="font-bold text-center text-white text-5xl lg:text-7xl">
+              Rendang
+            </p>
           </div>
         </div>
       </div>
     </section>
     <section class="flex justify-center py-4">
       <div class="w-3/4">
-        <h3 class="text-4xl font-bold text-primary">Rendang</h3>
-        <h5 class="mt-1 text-2xl font-bold text-[#469951]">
+        <h3 class="text-2xl lg:text-4xl font-bold text-primary">Rendang</h3>
+        <h5 class="mt-1 text-xl lg:text-2xl font-bold text-[#469951]">
           Padang, Sumatera Barat
         </h5>
       </div>
       <div class="flex justify-end w-1/4">
         <svg
-          width="97px"
-          height="97px"
           viewBox="0 0 24 24"
           fill="none"
           xmlns="http://www.w3.org/2000/svg"
+          class="w-[70px] h-[70px] lg:w-[97px] lg:h-[97px]"
         >
           <path
             d="M16 14.0455V11.5488C16 9.40445 16 8.3323 15.4142 7.66615C14.8284 7 13.8856 7 12 7C10.1144 7 9.17157 7 8.58579 7.66615C8 8.3323 8 9.40445 8 11.5488V14.0455C8 15.5937 8 16.3679 8.32627 16.7062C8.48187 16.8675 8.67829 16.9688 8.88752 16.9958C9.32623 17.0522 9.83855 16.5425 10.8632 15.5229C11.3161 15.0722 11.5426 14.8469 11.8046 14.7875C11.9336 14.7583 12.0664 14.7583 12.1954 14.7875C12.4574 14.8469 12.6839 15.0722 13.1368 15.5229C14.1615 16.5425 14.6738 17.0522 15.1125 16.9958C15.3217 16.9688 15.5181 16.8675 15.6737 16.7062C16 16.3679 16 15.5937 16 14.0455Z"
@@ -56,7 +57,7 @@
       </svg>
     </div>
     <section id="description" class="py-7 pr-7">
-      <p class="text-xl font-medium">
+      <p class="text-base lg:text-xl font-medium">
         Rendang adalah masakan khas Indonesia tepatnya berasal dari Padang,
         Sumatera Barat yang terkenal di seluruh dunia. <br /><br />Pada tahun
         2011 dan 2017, rendang terpilih sebagai makanan terenak di dunia. Nama
@@ -69,14 +70,14 @@
     </section>
   </div>
   <section id="carousel">
-    <div class="h-full py-[120px]">
+    <div class="h-full py-10 lg:py-[120px]">
       <div class="flex flex-col items-center justify-center">
         <div class="flex flex-col items-center justify-center">
-          <h1 class="text-5xl text-[#1F420F] font-bold">
+          <h1 class="text-3xl lg:text-5xl text-[#1F420F] font-bold">
             Jelajahi Hidangan Lain
           </h1>
         </div>
-        <div class="relative flex mt-7 gap-14">
+        <div class="hidden lg:relative lg:flex mt-7 gap-14">
           <div
             class="absolute z-20 left-[97.5%] top-[40%] cursor-pointer hover:scale-105 transition-all duration-300"
           >
@@ -175,5 +176,5 @@
 </template>
 
 <script setup>
-import Footer from "~/components/Footer.vue";
+import Footer from "~/components/Footer.vue"
 </script>

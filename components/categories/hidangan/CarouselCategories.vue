@@ -5,12 +5,19 @@
     </h1>
     <div class="w-3/4 mx-auto">
       <swiper
-        :slidesPerView="3"
         space-between="50"
         :modules="modules"
         :autoplay="{
           delay: 3000,
           disableOnInteraction: false,
+        }"
+        :breakpoints="{
+          480: {
+            slidesPerView: 2,
+          },
+          640: {
+            slidesPerView: 3,
+          },
         }"
         class="mySwiper"
       >
@@ -31,14 +38,14 @@
 </template>
 
 <script>
-import { Swiper, SwiperSlide } from "swiper/vue";
-import "swiper/css";
+import { Swiper, SwiperSlide } from "swiper/vue"
+import "swiper/css"
 
-import "swiper/css/pagination";
-import "swiper/css/navigation";
+import "swiper/css/pagination"
+import "swiper/css/navigation"
 
-import { Pagination, Navigation, Autoplay } from "swiper/modules";
-import category from "~/data/category.json";
+import { Pagination, Navigation, Autoplay } from "swiper/modules"
+import category from "~/data/category.json"
 
 export default {
   components: {
@@ -49,9 +56,9 @@ export default {
     return {
       modules: [Autoplay, Pagination, Navigation],
       category,
-    };
+    }
   },
-};
+}
 </script>
 
 <style></style>

@@ -1,24 +1,28 @@
 <template>
   <section
-    class="bg-black h-[110vh] -mt-[200px] bg-[url('~/assets/images/categoriespage/hidangan/hero.png')] bg-center bg-cover"
+    class="bg-black h-[90vh] lg:h-[110vh] -mt-[200px] bg-[url('~/assets/images/categoriespage/hidangan/hero.png')] bg-center bg-cover"
   >
     <div class="h-full bg-gradient-to-t from-black/50 to-gray-900/10">
       <div class="flex flex-col items-center justify-center h-full mt-20">
         <div
           class="flex flex-col items-center justify-center leading-none text-center"
         >
-          <h1 class="text-3xl text-white">KATEGORI</h1>
+          <h1 class="text-2xl lg:text-3xl text-white">KATEGORI</h1>
           <div class="border-b-4 my-2 border-[#8CFE5C] w-40"></div>
-          <h1 class="mt-3 text-6xl font-bold text-white">Hidangan</h1>
-          <h1 class="mt-2 text-3xl font-light text-white">
+          <h1 class="mt-1 lg:mt-3 text-5xl lg:text-6xl font-bold text-white">
+            Hidangan
+          </h1>
+          <h1 class="mt-2 text-xl lg:text-3xl font-light text-white">
             Jelajahi hidangan otentik nusantara
           </h1>
         </div>
         <NuxtLink
           href="/kategori/hidangan/list"
-          class="w-[203px] h-[59px] rounded-[13px] bg-[#8CFE5C] flex justify-center items-center mt-5"
+          class="w-[150px] lg:w-[203px] h-[45px] lg:h-[59px] rounded-[13px] bg-[#8CFE5C] flex justify-center items-center mt-5"
         >
-          <p class="text-2xl text-[#1F420F] font-medium">Jelajahi</p>
+          <p class="text-base lg:text-2xl text-[#1F420F] font-medium">
+            Jelajahi
+          </p>
           <div class="ml-[14px]">
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -50,7 +54,7 @@
 </template>
 
 <script>
-export default {};
+export default {}
 </script>
 
 <style></style>
