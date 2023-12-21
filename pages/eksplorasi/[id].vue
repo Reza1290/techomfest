@@ -33,7 +33,7 @@
       <div class="">
         <HidanganExploreCard
           class="translate-x-[-400px]"
-          gambar=""
+          :gambar="prov.image.makanan[1]"
           rotate="rotate-[-20deg]"
           :nama="prov.makanan[1].nama"
           :pembacaan="prov.makanan[1].noun"
@@ -43,7 +43,7 @@
       <div class="">
         <HidanganExploreCard
           class="translate-x-[-600px]"
-          gambar=""
+          :gambar="prov.image.makanan[2]"
           rotate="rotate-[5deg]"
           :nama="prov.makanan[2].nama"
           :pembacaan="prov.makanan[2].noun"
