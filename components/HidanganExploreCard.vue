@@ -1,7 +1,7 @@
 <template>
   <button autofocus class="relative focus:translate-x-[0] transition-transform group">
     <div
-      :class="`${rotate} group-hover:scale-105 left-5 -top-5 z-10 group-focus:translate-x-10 group-focus:rotate-[-5deg]  absolute bg-white h-64 w-80 rounded-3xl ${gambar} bg-cover bg-center transition-transform border-[0.125px] border-black/10`"
+      :class="`${rotate} group-hover:scale-105 left-5 -top-5 z-10 group-focus:translate-x-10 group-focus:rotate-[-5deg]  absolute bg-white h-64 w-80 rounded-3xl bg-cover bg-center transition-transform border-[0.125px] border-black/10`" :style="`background-image: url('/images/hidangan/${gambar}');`"
     ></div>
     <div
       :class="`${rotate} group-hover:scale-105 absolute group-focus:w-96 bg-[#8CFE5C] group-focus:translate-x-[330px] group-focus:rotate-[0deg]  h-64 w-80 rounded-3xl border border-gray-200/20 transition-transform transition-[width]`"
@@ -22,7 +22,7 @@ export default {
       default : 'KLEPON'
     },
     pembacaan: {
-      default: '/kle·pon/'
+      default: ''
     },
     penjelasan: {
       default: 'jajanan tradisional Indonesia yang umumnya terbuat dari tepung ketan putih yang dibentuk seperti bola-bola kecil dengan isi gula merah dan ditaburi parutan kelapa'

@@ -58,12 +58,12 @@
         {
           "Batak": {
             "benar": true,
-            "jawaban": "Suku Batak Berasal dari Nanggroe Aceh Darussalam"
+            "jawaban": "Suku Batak Berasal dari Sumatera Utara"
           }
         },
         {
           "Jawa": {
-            "benar": true,
+            "benar": false,
             "jawaban": "Suku Jawa Berasal dari Jawa"
           }
         },

@@ -23,10 +23,11 @@
         <HidanganExploreCard
           class="translate-x-[-200px] transition-transform"
           :rotate="`rotate-[10deg]`"
-          nama=""
-          pembacaan=""
-          penjelasan=""
-          gambar="bg-[url('https://cdn.shopify.com/s/files/1/0428/0965/5452/files/pinterest_yog_1.jpg?v=1658941202')]"
+          :nama="prov.makanan[0].nama"
+          :pembacaan="prov.makanan[0].noun"
+          :penjelasan="prov.makanan[0].penjelasan"
+          :gambar="prov.image.makanan[0]"
+          
         />
       </div>
       <div class="">
@@ -34,9 +35,9 @@
           class="translate-x-[-400px]"
           gambar=""
           rotate="rotate-[-20deg]"
-          nama=""
-          pembacaan=""
-          penjelasan=""
+          :nama="prov.makanan[1].nama"
+          :pembacaan="prov.makanan[1].noun"
+          :penjelasan="prov.makanan[1].penjelasan"
         />
       </div>
       <div class="">
@@ -44,22 +45,23 @@
           class="translate-x-[-600px]"
           gambar=""
           rotate="rotate-[5deg]"
-          nama=""
-          pembacaan=""
-          penjelasan=""
+          :nama="prov.makanan[2].nama"
+          :pembacaan="prov.makanan[2].noun"
+          :penjelasan="prov.makanan[2].penjelasan"
         />
       </div>
     </div>
     <div class="mb-[500px]">
       <TarianExploreCard 
-      nama=""
-      penjelasan=""
-      gambar=""
+      :nama="prov.tarian.nama"
+      :penjelasan="prov.tarian.penjelasan"
+      :image="prov.image.tarian"
       />
     </div>
     <div class="container">
       <TriviaExploreCard
-        
+        :nama="prov.nama"
+        :quiz="prov.quiz"
       />
     </div>
     <Eksplorasi />
