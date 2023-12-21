@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "nama": "Rawon",
+    "asal": "Jawa Timur",
+    "gambar": "rawon"
+  },
+  {
+    "id": 2,
+    "nama": "Lumpia Semarang",
+    "asal": "Jawa Tengah",
+    "gambar": "lumpia"
+  },
+  {
+    "id": 3,
+    "nama": "Seblak",
+    "asal": "Jawa barat",
+    "gambar": "seblak"
+  },
+  {
+    "id": 4,
+    "nama": "Rendang",
+    "asal": "Sumatera Barat",
+    "gambar": "rendang"
+  },
+  {
+    "id": 5,
+    "nama": "Mie Gomak",
+    "asal": "Sumatera Utara",
+    "gambar": "gomak"
+  },
+  {
+    "id": 6,
+    "nama": "Papeda",
+    "asal": "Papua",
+    "gambar": "papeda"
+  }
+]

@@ -2,13 +2,65 @@
 @tailwind components;
 @tailwind utilities;
 
-*{
-    font-family: 'Poppins', sans-serif;
-    }
+* {
+  font-family: "Poppins", sans-serif;
+}
 
-    body{
-        background-color: #EFFFF3;
-    }
+body {
+  background-color: #effff3;
+}
+
+.text-primary {
+  @apply text-[#1F420F];
+}
+
+.text-secondary {
+  @apply text-[#8CFE5C];
+}
+
+.text-accent {
+  @apply text-[#0F890D];
+}
+
+.bg-secondary {
+  @apply bg-[#8CFE5C];
+}
+
+.bg-primary {
+  @apply bg-[#1F420F];
+}
+
+.blob {
+  @apply bg-[#8CFE5C] absolute blur-[110px] opacity-40 rounded-full overflow-hidden -z-10;
+}
+
+.card-category {
+  @apply relative flex items-center justify-center m-3 overflow-hidden min-h-[480px] min-w-[238px] rounded-2xl transition-all duration-500 ease-in-out;
+}
+.card-category-image {
+  @apply absolute w-full h-full transition-all duration-500 ease-in-out transform bg-center bg-cover;
+}
+
+.card-category:hover {
+  @apply shadow-2xl;
+}
+.card-category:hover .card-category-image {
+  @apply scale-110;
+}
+
+svg path,
+.hover-text {
+  @apply transition-all duration-500 ease-in-out origin-center;
+}
+
+.card-category:hover svg path,
+.card-category:hover .hover-text {
+  @apply text-[#8CFE5C] fill-[#8CFE5C];
+}
+
+.card-category:hover .hover-text {
+  @apply scale-110;
+}
 /* @font-face {
     font-family: 'Nunito', sans-serif;
     src: url('/fonts/poppins/Poppins-Black.ttf') format('ttf');

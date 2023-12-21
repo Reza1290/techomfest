@@ -1,15 +1,15 @@
 <template>
   <nav
-    class="flex justify-between items-center px-[100px] py-5 z-20 bg-black/[.2] backdrop-blur-md drop-shadow-xl"
+    class="flex justify-between items-center px-[100px] py-5 z-20 backdrop-blur-lg"
   >
     <div class="flex items-center gap-5">
-      <img src="~/assets/img/logo_alt.svg" alt="logo" />
+      <img src="~/assets/css/logo_alt.svg" alt="logo" />
       <div>
-        <h1 class="text-2xl font-bold text-gray-100">LokaBestari</h1>
+        <h1 class="text-2xl font-bold text-gray-700">LokaBestari</h1>
       </div>
     </div>
     <div class="flex items-center gap-5">
-      <div class="flex flex-col md:flex-row items-start gap-5 text-gray-100">
+      <div class="flex flex-col md:flex-row items-start gap-5 text-gray-700">
         <div class="border-b-4 font-bold border-[#8CFE5C]">
           <a href="">Beranda</a>
         </div>

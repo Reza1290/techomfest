@@ -28,7 +28,7 @@ export default {
       default: 'jajanan tradisional Indonesia yang umumnya terbuat dari tepung ketan putih yang dibentuk seperti bola-bola kecil dengan isi gula merah dan ditaburi parutan kelapa'
     },
     gambar:{
-      default: " bg-[url('https://cdn.shopify.com/s/files/1/0428/0965/5452/files/pinterest_yog_1.jpg?v=1658941202')] "
+      default: "bg-[url('https://cdn.shopify.com/s/files/1/0428/0965/5452/files/pinterest_yog_1.jpg?v=1658941202')]"
     },
     rotate: {
       type: String,
