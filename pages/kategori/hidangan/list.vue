@@ -1,10 +1,10 @@
 <template>
-  <NavbarDark></NavbarDark>
-  <main id="main-content" class="py-10 pb-36 px-[101px]">
+  <NavbarDark class="hidden lg:flex"></NavbarDark>
+  <main id="main-content" class="py-10 pb-36 lg:px-[101px]">
     <h1 class="text-5xl font-bold text-center text-primary">
       Hidangan khas Indonesia
     </h1>
-    <div class="flex justify-end w-full mx-auto mt-8">
+    <div class="flex justify-end w-full mx-auto mt-8 lg:px-0 px-5">
       <div class="relative text-gray-600">
         <input
           type="search"
@@ -42,15 +42,15 @@
 </template>
 
 <script>
-import hidangan from "~/data/hidangan.json";
+import hidangan from "~/data/hidangan.json"
 
 export default {
   setup() {
     return {
       hidangan,
-    };
+    }
   },
-};
+}
 </script>
 
 <style></style>
