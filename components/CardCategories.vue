@@ -1,9 +1,12 @@
 <template>
-  <div class="container mx-auto p-10 grid grid-cols-3 gap-y-10 gap-x-28">
-    <div
+  <div
+    class="container grid min-w-full grid-cols-3 py-10 mx-auto gap-y-10 gap-x-28"
+  >
+    <NuxtLink
       v-for="data in data"
       :key="data.id"
-      class="w-full rounded-3xl overflow-hidden bg-white shadow-2xl"
+      :to="`/kategori/hidangan/${data.nama}`"
+      class="w-full overflow-hidden bg-white shadow-2xl rounded-3xl"
     >
       <img
         :src="`_nuxt/assets/images/${kategori}/${data.gambar}.jpeg`"
@@ -14,11 +17,11 @@
         <h4 class="text-[#469951] text-center font-bold uppercase">
           {{ data.asal }}
         </h4>
-        <h1 class="text-center text-primary text-3xl font-bold py-2">
+        <h1 class="py-2 text-3xl font-bold text-center text-primary">
           {{ data.nama }}
         </h1>
       </div>
-    </div>
+    </NuxtLink>
   </div>
 </template>
 
@@ -35,14 +38,14 @@ export default {
     },
   },
   setup(props) {
-    const { data, kategori } = props
+    const { data, kategori } = props;
 
     return {
       data,
       kategori,
-    }
+    };
   },
-}
+};
 </script>
 
 <style></style>

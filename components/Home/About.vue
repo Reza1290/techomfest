@@ -22,7 +22,7 @@
         mengedukasi Anda tentang warisan budaya yang ada di Indonesia.
       </p>
     </div>
-    <div class="box-border flex w-[30%] justify-end">
+    <div id="about" class="box-border flex w-[30%] justify-end py-[40px]">
       <div class="flex flex-wrap justify end">
         <img
           src="~/assets/img/home/about1.png"

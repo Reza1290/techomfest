@@ -1,26 +1,27 @@
 <template>
   <NavbarDark></NavbarDark>
   <section class="category">
-    <div class="container mt-6 mb-20 mx-auto">
-      <h1 class="text-4xl text-center font-bold text-primary">Kategori</h1>
-      <p class="text-xl text-accent text-center mt-2">
+    <div class="container mx-auto mt-6 mb-20">
+      <h1 class="text-4xl font-bold text-center text-primary">Kategori</h1>
+      <p class="mt-2 text-xl text-center text-accent">
         Pilih kategori budaya yang ingin anda jelajahi
       </p>
-      <div class="grid grid-cols-4 gap-y-10 gap-x-20 mt-10">
-        <div
+      <div class="grid grid-cols-4 mt-10 gap-y-10 gap-x-20">
+        <NuxtLink
           v-for="category in category"
           :key="category.nama"
-          class="bg-secondary h-80 flex flex-col gap-y-5 justify-center items-center rounded-lg"
+          :to="`/kategori/${category.nama}`"
+          class="flex flex-col items-center justify-center transition-all duration-300 rounded-lg cursor-pointer bg-secondary h-80 gap-y-5 hover:scale-105"
         >
           <img
             :src="`/_nuxt/assets/images/category/${category.icon}.png`"
             :alt="category.nama"
             class="w-[100px]"
           />
-          <span class="text-primary font-bold text-lg">{{
+          <span class="text-lg font-bold text-primary">{{
             category.nama
           }}</span>
-        </div>
+        </NuxtLink>
       </div>
     </div>
   </section>
@@ -28,15 +29,15 @@
 </template>
 
 <script>
-import category from "~/data/category.json"
+import category from "~/data/category.json";
 
 export default {
   setup() {
     return {
       category,
-    }
+    };
   },
-}
+};
 </script>
 
 <style></style>
