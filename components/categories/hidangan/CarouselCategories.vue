@@ -1,6 +1,6 @@
 <template>
   <div class="container mx-auto">
-    <h1 class="text-4xl font-bold text-primary text-center mb-9">
+    <h1 class="text-4xl font-bold text-center text-primary mb-9">
       Cari tahu kategori lainnya yuk!
     </h1>
     <div class="w-3/4 mx-auto">
@@ -16,13 +16,13 @@
       >
         <swiper-slide v-for="item in category" :key="item.nama" class="mb-10">
           <div
-            class="bg-secondary h-80 flex flex-col gap-y-5 justify-center items-center rounded-lg"
+            class="flex flex-col items-center justify-center rounded-lg bg-secondary h-80 gap-y-5"
           >
             <img
               :src="`/_nuxt/assets/images/category/${item.icon}.png`"
               alt=""
             />
-            <span class="text-primary font-bold text-lg">{{ item.nama }}</span>
+            <span class="text-lg font-bold text-primary">{{ item.nama }}</span>
           </div>
         </swiper-slide>
       </swiper>
@@ -31,14 +31,14 @@
 </template>
 
 <script>
-import { Swiper, SwiperSlide } from "swiper/vue"
-import "swiper/css"
+import { Swiper, SwiperSlide } from "swiper/vue";
+import "swiper/css";
 
-import "swiper/css/pagination"
-import "swiper/css/navigation"
+import "swiper/css/pagination";
+import "swiper/css/navigation";
 
-import { Pagination, Navigation, Autoplay } from "swiper/modules"
-import category from "~/data/category.json"
+import { Pagination, Navigation, Autoplay } from "swiper/modules";
+import category from "~/data/category.json";
 
 export default {
   components: {
@@ -49,9 +49,9 @@ export default {
     return {
       modules: [Autoplay, Pagination, Navigation],
       category,
-    }
+    };
   },
-}
+};
 </script>
 
 <style></style>

@@ -2,10 +2,10 @@
   <NuxtLayout></NuxtLayout>
   <HeroHidangan></HeroHidangan>
   <InfoCard></InfoCard>
-  <section id="content1" class="py-20 relative">
+  <section id="content1" class="relative py-20">
     <div class="w-96 h-96 -left-48 top-56 blob"></div>
-    <div class="w-full flex justify-between items-center">
-      <p class="w-1/2 mx-auto font-medium">
+    <div class="flex items-center justify-between w-full">
+      <p class="w-1/2 mx-auto text-xl font-medium">
         Apa yang dimakan orang Indonesia? Seberapa penting makanan dalam tradisi
         Indonesia? Dari barat ke timur Indonesia, kita akan menemukan banyak
         kebiasaan makan yang unik. Ada 5000 resep tradisional yang tersebar di
@@ -21,11 +21,11 @@
       <img src="~/assets/images/categoriespage/hidangan/image1.png" alt="" />
     </div>
   </section>
-  <section id="content2" class="py-20 relative">
+  <section id="content2" class="relative py-20 overflow-hidden">
     <div class="w-96 h-96 -right-36 top-56 blob"></div>
-    <div class="w-full flex justify-between items-center">
+    <div class="flex items-center justify-between w-full">
       <img src="~/assets/images/categoriespage/hidangan/image2.png" alt="" />
-      <p class="w-1/2 mx-auto font-medium">
+      <p class="w-1/2 mx-auto text-2xl font-medium">
         Cerita-cerita dalam Indonesia Food Culture dibuat dari keragaman budaya,
         warisan, upacara ritual, dan hasil lokal di setiap wilayah. Indonesia
         memiliki makanan umum yang dapat ditemukan di sebagian besar wilayah,
@@ -38,7 +38,7 @@
       </p>
     </div>
   </section>
-  <section id="carousel-category" class="mb-20 mt-10 relative">
+  <section id="carousel-category" class="relative mt-10 mb-20">
     <div class="w-96 h-96 -left-36 top-36 blob"></div>
     <CarouselCategories></CarouselCategories>
   </section>
@@ -49,13 +49,13 @@
 </template>
 
 <script>
-import HeroHidangan from "~/components/categories/hidangan/Hero.vue"
-import InfoCard from "~/components/categories/hidangan/InfoCard.vue"
-import CarouselCategories from "~/components/categories/hidangan/CarouselCategories.vue"
+import HeroHidangan from "~/components/categories/hidangan/Hero.vue";
+import InfoCard from "~/components/categories/hidangan/InfoCard.vue";
+import CarouselCategories from "~/components/categories/hidangan/CarouselCategories.vue";
 
 export default {
   components: { HeroHidangan, InfoCard, CarouselCategories },
-}
+};
 </script>
 
 <style></style>

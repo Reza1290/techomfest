@@ -1,32 +1,56 @@
 <template>
   <section
-    class="bg-black h-[80vh] -mt-[200px] bg-[url('~/assets/images/categoriespage/hidangan/hero.png')] bg-center bg-cover"
+    class="bg-black h-[110vh] -mt-[200px] bg-[url('~/assets/images/categoriespage/hidangan/hero.png')] bg-center bg-cover"
   >
-    <div class="bg-gradient-to-t from-black/50 to-gray-900/10 h-full">
-      <div class="flex flex-col justify-center items-center h-full mt-20">
+    <div class="h-full bg-gradient-to-t from-black/50 to-gray-900/10">
+      <div class="flex flex-col items-center justify-center h-full mt-20">
         <div
-          class="flex flex-col justify-center items-center text-center leading-none"
+          class="flex flex-col items-center justify-center leading-none text-center"
         >
           <h1 class="text-3xl text-white">KATEGORI</h1>
           <div class="border-b-4 my-2 border-[#8CFE5C] w-40"></div>
-          <h1 class="text-5xl font-medium text-white mt-3">Hidangan</h1>
-          <h1 class="text-3xl text-white font-light mt-2">
+          <h1 class="mt-3 text-6xl font-bold text-white">Hidangan</h1>
+          <h1 class="mt-2 text-3xl font-light text-white">
             Jelajahi hidangan otentik nusantara
           </h1>
         </div>
-        <a
-          class="bg-[#8CFE5C] rounded-2xl px-10 py-3 mt-5 text-xl font-medium"
-          href="#"
+        <NuxtLink
+          href="/kategori/hidangan/list"
+          class="w-[203px] h-[59px] rounded-[13px] bg-[#8CFE5C] flex justify-center items-center mt-5"
         >
-          Jelajahi &rarr;</a
-        >
+          <p class="text-2xl text-[#1F420F] font-medium">Jelajahi</p>
+          <div class="ml-[14px]">
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="27"
+              height="16"
+              viewBox="0 0 27 16"
+              fill="none"
+            >
+              <path
+                d="M18.8286 2L25 8.17142L18.8286 14.3428"
+                stroke="#1F420F"
+                stroke-width="2.17143"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+              <path
+                d="M24.8 8.24316H2"
+                stroke="#1F420F"
+                stroke-width="2.17143"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+            </svg>
+          </div>
+        </NuxtLink>
       </div>
     </div>
   </section>
 </template>
 
 <script>
-export default {}
+export default {};
 </script>
 
 <style></style>

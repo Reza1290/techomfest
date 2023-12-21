@@ -8,9 +8,12 @@
         </p>
       </div>
       <div class="flex mt-7 gap-14">
-        <div class="flex flex-wrap justify-center">
+        <div class="flex justify-center">
           <!-- CARD START -->
-          <div class="cursor-pointer card-category">
+          <NuxtLink
+            to="/kategori/hidangan"
+            class="cursor-pointer card-category"
+          >
             <div
               class="card-category-image bg-[url('~/assets/img/home/hidangan.png')]"
             ></div>
@@ -33,10 +36,13 @@
                 Hidangan
               </p>
             </div>
-          </div>
+          </NuxtLink>
           <!-- CARD END -->
           <!-- CARD START -->
-          <div class="cursor-pointer card-category">
+          <NuxtLink
+            to="/kategori/kesenian"
+            class="cursor-pointer card-category"
+          >
             <div
               class="card-category-image bg-[url('~/assets/img/home/tarian.png')]"
             ></div>
@@ -59,10 +65,13 @@
                 Kesenian
               </p>
             </div>
-          </div>
+          </NuxtLink>
           <!-- CARD END -->
           <!-- CARD START -->
-          <div class="cursor-pointer card-category">
+          <NuxtLink
+            to="/kategori/rumah-adat"
+            class="cursor-pointer card-category"
+          >
             <div
               class="card-category-image bg-[url('~/assets/img/home/rumah.png')]"
             ></div>
@@ -85,10 +94,13 @@
                 Rumah Adat
               </p>
             </div>
-          </div>
+          </NuxtLink>
           <!-- CARD END -->
           <!-- CARD START -->
-          <div class="cursor-pointer card-category">
+          <NuxtLink
+            to="/kategori/situs-bersejarah"
+            class="cursor-pointer card-category"
+          >
             <div
               class="card-category-image bg-[url('~/assets/img/home/situs.png')]"
             ></div>
@@ -111,7 +123,7 @@
                 Situs <br />Bersejarah
               </p>
             </div>
-          </div>
+          </NuxtLink>
           <!-- CARD END -->
         </div>
       </div>

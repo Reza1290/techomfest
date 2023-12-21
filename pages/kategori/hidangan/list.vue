@@ -1,10 +1,10 @@
 <template>
   <NavbarDark></NavbarDark>
-  <main id="main-content" class="py-10 pb-36">
-    <h1 class="text-5xl font-bold text-primary text-center">
+  <main id="main-content" class="py-10 pb-36 px-[101px]">
+    <h1 class="text-5xl font-bold text-center text-primary">
       Hidangan khas Indonesia
     </h1>
-    <div class="flex w-1/2 mx-auto justify-end mt-8">
+    <div class="flex justify-end w-full mx-auto mt-8">
       <div class="relative text-gray-600">
         <input
           type="search"
@@ -12,9 +12,9 @@
           placeholder="Search"
           class="bg-white h-10 px-5 pr-10 rounded-2xl border-2 border-[#1F420F] text-sm focus:outline-none"
         />
-        <button type="submit" class="absolute right-0 top-0 mt-3 mr-4">
+        <button type="submit" class="absolute top-0 right-0 mt-3 mr-4">
           <svg
-            class="h-4 w-4 fill-current"
+            class="w-4 h-4 fill-current"
             xmlns="http://www.w3.org/2000/svg"
             xmlns:xlink="http://www.w3.org/1999/xlink"
             version="1.1"
@@ -42,15 +42,15 @@
 </template>
 
 <script>
-import hidangan from "~/data/hidangan.json"
+import hidangan from "~/data/hidangan.json";
 
 export default {
   setup() {
     return {
       hidangan,
-    }
+    };
   },
-}
+};
 </script>
 
 <style></style>
