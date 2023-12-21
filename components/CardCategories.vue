@@ -11,7 +11,7 @@
       <img
         :src="`/images/${kategori}/${data.gambar}.jpeg`"
         :alt="data.nama"
-        class="h-[180px] lg:h-[277px] w-full rounded-2xl"
+        class="h-[160px] lg:h-[277px] w-full rounded-2xl"
       />
       <div class="p-5">
         <h4
