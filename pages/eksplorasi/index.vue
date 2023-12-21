@@ -1,5 +1,5 @@
 <template>
-  <NavbarDark></NavbarDark>
+  <NavbarDark class="hidden lg:flex"></NavbarDark>
   <main id="main-content" class="py-10 pb-36 px-[10px] md:px-[101px]">
     <h1 class="text-5xl font-bold text-center text-primary">
       Eksplorasi budaya tiap provinsi
@@ -42,8 +42,8 @@
 </template>
 
 <script>
-import explore from '~/data/explore.json';
-import CardList from '../../components/eksplorasi/CardList.vue';
+import explore from "~/data/explore.json"
+import CardList from "../../components/eksplorasi/CardList.vue"
 
 const provinsi = explore.data
 
@@ -51,10 +51,10 @@ export default {
   setup() {
     return {
       provinsi,
-    };
+    }
   },
   components: { CardList },
-};
+}
 </script>
 
 <style></style>
