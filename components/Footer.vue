@@ -7,7 +7,7 @@
       <h1 class="text-2xl font-bold text-gray-100">LokaBestari</h1>
     </div>
     <div id="section-link" class="mt-3 text-secondary">
-      <ul class="flex gap-x-2">
+      <ul class="flex gap-x-2 text-sm lg:text-base">
         <li><a href="#">Beranda </a> |</li>
         <li><a href="#">Kategori </a> |</li>
         <li><a href="#">Eksplorasi</a> |</li>
@@ -23,7 +23,7 @@
 </template>
 
 <script>
-export default {};
+export default {}
 </script>
 
 <style></style>

@@ -1,10 +1,14 @@
 <template>
-  <div class="h-[768px] py-[58px] pt-[20px] relative overflow-hidden">
+  <div
+    class="h-[768px] py-[58px] pt-[70px] lg:pt-[20px] relative overflow-hidden"
+  >
     <div class="w-96 h-96 -right-36 bottom-0 blob"></div>
     <div class="flex flex-col items-center justify-center">
-      <div class="flex flex-col items-center justify-center">
-        <h1 class="text-6xl text-[#1F420F] font-bold">Kategori</h1>
-        <p class="mt-4 text-[#0F890D] text-2xl font-medium">
+      <div class="flex flex-col items-center justify-center px-2 lg:px-0">
+        <h1 class="text-5xl lg:text-6xl text-[#1F420F] font-bold">Kategori</h1>
+        <p
+          class="mt-4 text-[#0F890D] text-lg text-center lg:text-left lg:text-2xl font-medium"
+        >
           Kami berikan beberapa rekomendasi kategori menarik untuk anda
         </p>
       </div>
