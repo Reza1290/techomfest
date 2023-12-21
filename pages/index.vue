@@ -4,10 +4,10 @@
     <About />
     <Kategori />
     <Eksplorasi />
+     
     <section class="px-20 mt-20 mb-44">
       <GameCard></GameCard>
     </section>
-    <Footer></Footer>
   </NuxtLayout>
 </template>
 
