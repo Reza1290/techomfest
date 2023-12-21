@@ -1,5 +1,6 @@
 <template>
-  <div class="h-[437px] py-[41px]">
+  <div class="h-[437px] py-[41px] relative overflow-hidden">
+    <div class="w-96 h-96 -right-36 top-0 blob"></div>
     <div class="flex flex-col items-center justify-center">
       <div class="flex flex-col items-center justify-center">
         <h1 class="text-6xl text-[#1F420F] font-bold">Eksplorasi</h1>
