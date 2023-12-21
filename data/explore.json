@@ -1,7 +1,18 @@
 {
-  "daerah": [
+  "data": [
     {
       "nama": "Aceh",
+      "image" : {
+        "banner" : "",
+        "makanan" : [
+          ""
+        ],
+        "tarian" : ""
+      },
+      "tarian": {
+        "nama" : "",
+        "penjelasan" : ""
+      },
       "makanan": [
         {
           "nama": "Mie Aceh",
@@ -19,6 +30,17 @@
     },
     {
       "nama": "Sumatera Utara",
+      "image" : {
+        "banner" : "",
+        "makanan" : [
+          ""
+        ],
+        "tarian" : ""
+      },
+      "tarian": {
+        "nama" : "",
+        "penjelasan" : ""
+      },
       "makanan": [
         {
           "nama": "Mie Gomak",
@@ -44,6 +66,17 @@
     },
     {
       "nama": "Sumatera Barat",
+      "image" : {
+        "banner" : "",
+        "makanan" : [
+          ""
+        ],
+        "tarian" : ""
+      },
+      "tarian": {
+        "nama" : "",
+        "penjelasan" : ""
+      },
       "makanan": [
         {
           "nama": "Rendang",
@@ -65,6 +98,17 @@
     },
         {
       "nama": "Sumatera Selatan",
+      "image" : {
+        "banner" : "",
+        "makanan" : [
+          ""
+        ],
+        "tarian" : ""
+      },
+      "tarian": {
+        "nama" : "",
+        "penjelasan" : ""
+      },
       "makanan": [
         {
           "nama": "Pempek",
@@ -90,6 +134,17 @@
     },
     {
       "nama": "Riau",
+      "image" : {
+        "banner" : "",
+        "makanan" : [
+          ""
+        ],
+        "tarian" : ""
+      },
+      "tarian": {
+        "nama" : "",
+        "penjelasan" : ""
+      },
       "makanan": [
         {
           "nama": "Kopiek Ndak Batulang",
@@ -107,6 +162,17 @@
     },
     {
       "nama": "Kepulauan Riau",
+      "image" : {
+        "banner" : "",
+        "makanan" : [
+          ""
+        ],
+        "tarian" : ""
+      },
+      "tarian": {
+        "nama" : "",
+        "penjelasan" : ""
+      },
       "makanan": [
         {
           "nama": "Ikan Tamban Salai",
@@ -124,6 +190,17 @@
     },
         {
       "nama": "Bangka Belitung",
+      "image" : {
+        "banner" : "",
+        "makanan" : [
+          ""
+        ],
+        "tarian" : ""
+      },
+      "tarian": {
+        "nama" : "",
+        "penjelasan" : ""
+      },
       "makanan": [
         {
           "nama": "Lempah Kuning",
@@ -149,6 +226,17 @@
     },
     {
       "nama": "Bengkulu",
+      "image" : {
+        "banner" : "",
+        "makanan" : [
+          ""
+        ],
+        "tarian" : ""
+      },
+      "tarian": {
+        "nama" : "",
+        "penjelasan" : ""
+      },
       "makanan": [
         {
           "nama": "Pendap",
@@ -174,6 +262,17 @@
     },
     {
       "nama": "Lampung",
+      "image" : {
+        "banner" : "",
+        "makanan" : [
+          ""
+        ],
+        "tarian" : ""
+      },
+      "tarian": {
+        "nama" : "",
+        "penjelasan" : ""
+      },
       "makanan": [
         {
           "nama": "Seruit",
@@ -199,6 +298,17 @@
     },
     {
       "nama": "Jambi",
+      "image" : {
+        "banner" : "",
+        "makanan" : [
+          ""
+        ],
+        "tarian" : ""
+      },
+      "tarian": {
+        "nama" : "",
+        "penjelasan" : ""
+      },
       "makanan": [
         {
           "nama": "Daging Masak Hitam",
@@ -220,6 +330,17 @@
     },
         {
       "nama": "Banten",
+      "image" : {
+        "banner" : "",
+        "makanan" : [
+          ""
+        ],
+        "tarian" : ""
+      },
+      "tarian": {
+        "nama" : "",
+        "penjelasan" : ""
+      },
       "makanan": [
         {
           "nama": "Sate Bandeng",
@@ -245,6 +366,17 @@
     },
     {
       "nama": "Jawa Barat",
+      "image" : {
+        "banner" : "",
+        "makanan" : [
+          ""
+        ],
+        "tarian" : ""
+      },
+      "tarian": {
+        "nama" : "",
+        "penjelasan" : ""
+      },
       "makanan": [
         {
           "nama": "Tutug Oncom",
@@ -274,6 +406,17 @@
     },
     {
       "nama": "Jawa Tengah",
+      "image" : {
+        "banner" : "",
+        "makanan" : [
+          ""
+        ],
+        "tarian" : ""
+      },
+      "tarian": {
+        "nama" : "",
+        "penjelasan" : ""
+      },
       "makanan": [
         {
           "nama": "Nasi Tiwul",
@@ -299,6 +442,17 @@
     },
     {
       "nama": "Jawa Timur",
+      "image" : {
+        "banner" : "",
+        "makanan" : [
+          ""
+        ],
+        "tarian" : ""
+      },
+      "tarian": {
+        "nama" : "",
+        "penjelasan" : ""
+      },
       "makanan": [
         {
           "nama": "Rawon",
@@ -324,6 +478,17 @@
     },
         {
       "nama": "DI Yogyakarta",
+      "image" : {
+        "banner" : "",
+        "makanan" : [
+          ""
+        ],
+        "tarian" : ""
+      },
+      "tarian": {
+        "nama" : "",
+        "penjelasan" : ""
+      },
       "makanan": [
         {
           "nama": "Gudeg",
@@ -353,6 +518,17 @@
     },
     {
       "nama": "DKI Jakarta",
+      "image" : {
+        "banner" : "",
+        "makanan" : [
+          ""
+        ],
+        "tarian" : ""
+      },
+      "tarian": {
+        "nama" : "",
+        "penjelasan" : ""
+      },
       "makanan": [
         {
           "nama": "Kerak Telor",
@@ -378,6 +554,17 @@
     },
     {
       "nama": "Bali",
+      "image" : {
+        "banner" : "",
+        "makanan" : [
+          ""
+        ],
+        "tarian" : ""
+      },
+      "tarian": {
+        "nama" : "",
+        "penjelasan" : ""
+      },
       "makanan": [
         {
           "nama": "Ayam Betutu",
@@ -403,6 +590,17 @@
     },
     {
       "nama": "NTB",
+      "image" : {
+        "banner" : "",
+        "makanan" : [
+          ""
+        ],
+        "tarian" : ""
+      },
+      "tarian": {
+        "nama" : "",
+        "penjelasan" : ""
+      },
       "makanan": [
         {
           "nama": "Ayam Taliwang",
@@ -428,6 +626,17 @@
     },
         {
       "nama": "Bali",
+      "image" : {
+        "banner" : "",
+        "makanan" : [
+          ""
+        ],
+        "tarian" : ""
+      },
+      "tarian": {
+        "nama" : "",
+        "penjelasan" : ""
+      },
       "makanan": [
         {
           "nama": "Ayam Betutu",
@@ -453,6 +662,17 @@
     },
     {
       "nama": "NTB",
+      "image" : {
+        "banner" : "",
+        "makanan" : [
+          ""
+        ],
+        "tarian" : ""
+      },
+      "tarian": {
+        "nama" : "",
+        "penjelasan" : ""
+      },
       "makanan": [
         {
           "nama": "Ayam Taliwang",
@@ -478,6 +698,17 @@
     },
     {
       "nama": "NTT",
+      "image" : {
+        "banner" : "",
+        "makanan" : [
+          ""
+        ],
+        "tarian" : ""
+      },
+      "tarian": {
+        "nama" : "",
+        "penjelasan" : ""
+      },
       "makanan": [
         {
           "nama": "Kolo",
@@ -503,6 +734,17 @@
     },
     {
       "nama": "Kalimantan Barat",
+      "image" : {
+        "banner" : "",
+        "makanan" : [
+          ""
+        ],
+        "tarian" : ""
+      },
+      "tarian": {
+        "nama" : "",
+        "penjelasan" : ""
+      },
       "makanan": [
         {
           "nama": "Bubur Pedas",
@@ -528,6 +770,17 @@
     },
         {
       "nama": "Kalimantan Tengah",
+      "image" : {
+        "banner" : "",
+        "makanan" : [
+          ""
+        ],
+        "tarian" : ""
+      },
+      "tarian": {
+        "nama" : "",
+        "penjelasan" : ""
+      },
       "makanan": [
         {
           "nama": "Juhu Ubut Rota",
@@ -549,6 +802,17 @@
     },
     {
       "nama": "Kalimantan Selatan",
+      "image" : {
+        "banner" : "",
+        "makanan" : [
+          ""
+        ],
+        "tarian" : ""
+      },
+      "tarian": {
+        "nama" : "",
+        "penjelasan" : ""
+      },
       "makanan": [
         {
           "nama": "Ketupat Kandangan",
@@ -574,6 +838,17 @@
     },
     {
       "nama": "Kalimantan Timur",
+      "image" : {
+        "banner" : "",
+        "makanan" : [
+          ""
+        ],
+        "tarian" : ""
+      },
+      "tarian": {
+        "nama" : "",
+        "penjelasan" : ""
+      },
       "makanan": [
         {
           "nama": "Nasi Bekepor",
@@ -599,6 +874,17 @@
     },
     {
       "nama": "Kalimantan Utara",
+      "image" : {
+        "banner" : "",
+        "makanan" : [
+          ""
+        ],
+        "tarian" : ""
+      },
+      "tarian": {
+        "nama" : "",
+        "penjelasan" : ""
+      },
       "makanan": [
         {
           "nama": "Kue Lapis Cempedak",
@@ -616,6 +902,17 @@
     },
     {
       "nama": "Sulawesi Barat",
+      "image" : {
+        "banner" : "",
+        "makanan" : [
+          ""
+        ],
+        "tarian" : ""
+      },
+      "tarian": {
+        "nama" : "",
+        "penjelasan" : ""
+      },
       "makanan": [
         {
           "nama": "Jepa",
@@ -641,6 +938,17 @@
     },
     {
       "nama": "Sulawesi Utara",
+      "image" : {
+        "banner" : "",
+        "makanan" : [
+          ""
+        ],
+        "tarian" : ""
+      },
+      "tarian": {
+        "nama" : "",
+        "penjelasan" : ""
+      },
       "makanan": [
         {
           "nama": "Tinutuan",
@@ -666,6 +974,17 @@
     },
     {
       "nama": "Sulawesi Tengah",
+      "image" : {
+        "banner" : "",
+        "makanan" : [
+          ""
+        ],
+        "tarian" : ""
+      },
+      "tarian": {
+        "nama" : "",
+        "penjelasan" : ""
+      },
       "makanan": [
         {
           "nama": "Ayam Bambu",
@@ -683,6 +1002,17 @@
     },
     {
       "nama": "Sulawesi Tenggara",
+      "image" : {
+        "banner" : "",
+        "makanan" : [
+          ""
+        ],
+        "tarian" : ""
+      },
+      "tarian": {
+        "nama" : "",
+        "penjelasan" : ""
+      },
       "makanan": [
         {
           "nama": "Kasuami",
@@ -708,6 +1038,17 @@
     },
     {
       "nama": "Sulawesi Selatan",
+      "image" : {
+        "banner" : "",
+        "makanan" : [
+          ""
+        ],
+        "tarian" : ""
+      },
+      "tarian": {
+        "nama" : "",
+        "penjelasan" : ""
+      },
       "makanan": [
         {
           "nama": "Pisang Epe",
@@ -733,6 +1074,17 @@
     },
     {
       "nama": "Gorontalo",
+      "image" : {
+        "banner" : "",
+        "makanan" : [
+          ""
+        ],
+        "tarian" : ""
+      },
+      "tarian": {
+        "nama" : "",
+        "penjelasan" : ""
+      },
       "makanan": [
         {
           "nama": "Binte Biluhuta",
@@ -758,6 +1110,17 @@
     },
     {
       "nama": "Maluku",
+      "image" : {
+        "banner" : "",
+        "makanan" : [
+          ""
+        ],
+        "tarian" : ""
+      },
+      "tarian": {
+        "nama" : "",
+        "penjelasan" : ""
+      },
       "makanan": [
         {
           "nama": "Ikan Gohu",
@@ -783,6 +1146,17 @@
     },
     {
       "nama": "Maluku Utara",
+      "image" : {
+        "banner" : "",
+        "makanan" : [
+          ""
+        ],
+        "tarian" : ""
+      },
+      "tarian": {
+        "nama" : "",
+        "penjelasan" : ""
+      },
       "makanan": [
         {
           "nama": "Papeda",
@@ -804,6 +1178,17 @@
     },
     {
       "nama": "Papua",
+      "image" : {
+        "banner" : "",
+        "makanan" : [
+          ""
+        ],
+        "tarian" : ""
+      },
+      "tarian": {
+        "nama" : "",
+        "penjelasan" : ""
+      },
       "makanan": [
         {
           "nama": "Papeda dengan Ikan Kuah Kuning",
@@ -821,6 +1206,17 @@
     },
     {
       "nama": "Papua Tengah",
+      "image" : {
+        "banner" : "",
+        "makanan" : [
+          ""
+        ],
+        "tarian" : ""
+      },
+      "tarian": {
+        "nama" : "",
+        "penjelasan" : ""
+      },
       "makanan": [
         {
           "nama": "Papeda",
@@ -838,6 +1234,17 @@
     },
     {
       "nama": "Papua Pegunungan",
+      "image" : {
+        "banner" : "",
+        "makanan" : [
+          ""
+        ],
+        "tarian" : ""
+      },
+      "tarian": {
+        "nama" : "",
+        "penjelasan" : ""
+      },
       "makanan": [
         {
           "nama": "Papeda",
@@ -847,6 +1254,17 @@
     },
     {
       "nama": "Papua Selatan",
+      "image" : {
+        "banner" : "",
+        "makanan" : [
+          ""
+        ],
+        "tarian" : ""
+      },
+      "tarian": {
+        "nama" : "",
+        "penjelasan" : ""
+      },
       "makanan": [
         {
           "nama": "Sagu Sep",
@@ -856,6 +1274,17 @@
     },
     {
       "nama": "Papua Barat Daya",
+      "image" : {
+        "banner" : "",
+        "makanan" : [
+          ""
+        ],
+        "tarian" : ""
+      },
+      "tarian": {
+        "nama" : "",
+        "penjelasan" : ""
+      },
       "makanan": [
         {
           "nama": "Ikan Kuah Kuning",
@@ -873,6 +1302,17 @@
     },
     {
       "nama": "Papua Barat",
+      "image" : {
+        "banner" : "",
+        "makanan" : [
+          ""
+        ],
+        "tarian" : ""
+      },
+      "tarian": {
+        "nama" : "",
+        "penjelasan" : ""
+      },
       "makanan": [
         {
           "nama": "Papeda",

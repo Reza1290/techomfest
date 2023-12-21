@@ -19,15 +19,12 @@
     "vue-router": "^4.2.5"
   },
   "dependencies": {
-<<<<<<< HEAD
     "autoprefixer": "^10.4.16",
     "postcss": "^8.4.32",
     "rellax": "^1.12.1",
     "tailwindcss": "^3.4.0",
-    "vue-rellax": "^0.2.0"
-=======
-    "rellax": "^1.12.1",
+    "vue-rellax": "^0.2.0",
     "swiper": "^11.0.5"
->>>>>>> 4575e6cdc8af3f7bc4937bbc477d82255600a0d8
+
   }
 }

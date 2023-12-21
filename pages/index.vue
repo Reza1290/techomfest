@@ -5,7 +5,7 @@
     <Kategori />
     <Eksplorasi />
     <GameCard />
-    <Footer></Footer>
+    
   </NuxtLayout>
 </template>
 
