@@ -3,7 +3,7 @@
     class="flex justify-between items-center px-[100px] py-5 z-20 backdrop-blur-lg"
   >
     <div class="flex items-center gap-5">
-      <img src="~/assets/css/logo_alt.svg" alt="logo" />
+      <img src="~/assets/img/logo_alt.svg" alt="logo" />
       <div>
         <h1 class="text-2xl font-bold text-gray-700">LokaBestari</h1>
       </div>

@@ -21,7 +21,7 @@
       <img src="~/assets/images/categoriespage/hidangan/image1.png" alt="" />
     </div>
   </section>
-  <section id="content2" class="py-20 relative">
+  <section id="content2" class="py-20 relative overflow-hidden">
     <div class="w-96 h-96 -right-36 top-56 blob"></div>
     <div class="w-full flex justify-between items-center">
       <img src="~/assets/images/categoriespage/hidangan/image2.png" alt="" />
