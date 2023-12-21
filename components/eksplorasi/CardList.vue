@@ -1,10 +1,14 @@
 <template>
-  <div class="container grid min-w-full grid-cols-4 py-10 gap-y-10 gap-x-28">
+  <div
+    class="container grid min-w-full grid-cols min-[850px]:grid-cols-2 min-[1400px]:grid-cols-3 min-[1700px]:grid-cols-4 py-10 gap-y-10 sm:gap-x-28"
+  >
     <!-- CARD START -->
-    <div
-      v-for="data in datas"
+    <LazyNuxtLink
+      v-for="(data, index) in datas"
       :key="data.id"
-      class="flex justify-center rounded-xl h-[203px] w-[337px] bg-cover bg-center bg-[url('~/assets/provinsi/banner/jatim.jpeg')] relative cursor-pointer hover:shadow-2xl hover:scale-105 transition-all duration-300"
+      :to="'eksplorasi/' + index"
+      class="flex justify-center rounded-xl h-[203px] w-[337px] bg-cover bg-center relative cursor-pointer hover:shadow-2xl hover:scale-105 transition-all duration-300"
+      :style="`background-image: url('/images/provinsi/banner/${data.image.banner}')`"
     >
       <div
         class="bg-white rounded-t-xl absolute bottom-0 w-[240px] h-[127px] flex flex-col justify-center items-center p-3 text-primary"
@@ -12,13 +16,13 @@
         <div class="h-[63px] w-[50px] flex justify-center item-center">
           <img
             class="max-w-full max-h-full"
-            src="`~/assets/provinsi/logo/jatim.png`"
+            :src="`/images/provinsi/logo/${data.image.icon}`"
             alt="logo"
           />
         </div>
         <h4 class="mt-2 text-xl font-bold text-center">{{ data.nama }}</h4>
       </div>
-    </div>
+    </LazyNuxtLink>
     <!-- CARD END -->
   </div>
 </template>
@@ -32,7 +36,7 @@ export default {
     },
     kategori: {
       type: String,
-      default: "",
+      default: '',
     },
   },
   setup(props) {

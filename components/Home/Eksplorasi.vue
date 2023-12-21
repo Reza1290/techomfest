@@ -9,7 +9,8 @@
         </p>
       </div>
       <div class="relative flex mt-7 gap-14">
-        <div
+        <NuxtLink
+          to="/eksplorasi"
           class="absolute z-20 left-[97%] top-[63.5px] cursor-pointer hover:scale-105 transition-all duration-300"
         >
           <svg
@@ -41,9 +42,10 @@
               stroke-linejoin="round"
             />
           </svg>
-        </div>
+        </NuxtLink>
         <!-- CARD START -->
-        <div
+        <NuxtLink
+          to="/eksplorasi/13"
           class="flex justify-center rounded-xl h-[203px] w-[337px] bg-cover bg-center bg-[url('~/assets/provinsi/banner/jatim.jpeg')] relative cursor-pointer hover:shadow-2xl hover:scale-105 transition-all duration-300"
         >
           <div
@@ -58,10 +60,11 @@
             </div>
             <h4 class="mt-2 text-xl font-bold text-center">Jawa Timur</h4>
           </div>
-        </div>
+        </NuxtLink>
         <!-- CARD END -->
         <!-- CARD START -->
-        <div
+        <NuxtLink
+          to="/eksplorasi/15"
           class="flex justify-center rounded-xl h-[203px] w-[337px] bg-cover bg-center bg-[url('~/assets/provinsi/banner/jakarta.jpeg')] relative cursor-pointer hover:shadow-2xl hover:scale-105 transition-all duration-300"
         >
           <div
@@ -76,10 +79,11 @@
             </div>
             <h4 class="mt-2 text-xl font-bold text-center">DKI Jakarta</h4>
           </div>
-        </div>
+        </NuxtLink>
         <!-- CARD END -->
         <!-- CARD START -->
-        <div
+        <NuxtLink
+          to="/eksplorasi/19"
           class="flex justify-center rounded-xl h-[203px] w-[337px] bg-cover bg-center bg-[url('~/assets/provinsi/banner/kalbar.jpeg')] relative cursor-pointer hover:shadow-2xl hover:scale-105 transition-all duration-300"
         >
           <div
@@ -94,9 +98,11 @@
             </div>
             <h4 class="mt-2 text-xl font-bold text-center">Kalimantan Barat</h4>
           </div>
-        </div>
+        </NuxtLink>
         <!-- CARD END -->
       </div>
     </div>
   </div>
 </template>
+
+<script></script>

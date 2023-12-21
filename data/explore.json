@@ -54,6 +54,9 @@
     {
       "id": 2,
       "nama": "Sumatera Utara",
+      "ibukota": "Medan",
+      "lambang": "",
+      "deskripsi": "Sumatera Utara adalah sebuah provinsi yang terletak di Pulau Sumatera, Indonesia dan beribukota di Medan.",
       "quiz": [
         {
           "Batak": {
@@ -110,6 +113,9 @@
     {
       "id": 4,
       "nama": "Sumatera Barat",
+      "ibukota": "Padang",
+      "lambang": "Tuah Sakato",
+      "deskripsi": "Sumatera Barat adalah salah satu provinsi di Indonesia yang terletak di pulau Sumatera dengan Padang sebagai ibu kotanya. Sesuai dengan namanya, wilayah provinsi ini menempati sepanjang pesisir barat Sumatera bagian tengah dan sejumlah pulau di lepas pantainya seperti Kepulauan Mentawai. Dari utara ke selatan, provinsi dengan wilayah seluas 42.297,30 km² ini berbatasan dengan empat provinsi, yakni Sumatera Utara, Riau, Jambi, dan Bengkulu.",
       "quiz": [
         {
           "Sunda": {
@@ -162,6 +168,9 @@
     {
       "id": 3,
       "nama": "Sumatera Selatan",
+      "ibukota": "Palembang",
+      "lambang": "Bersatu Teguh",
+      "deskripsi": "Sumatera Selatan adalah salah satu provinsi Indonesia yang terletak di bagian selatan Pulau Sumatera. Provinsi ini beribukota di Palembang. Secara geografis provinsi Sumatera Selatan berbatasan dengan provinsi Jambi di utara, provinsi Kep. Bangka-Belitung di timur, provinsi Lampung di selatan dan Provinsi Bengkulu di barat. Provinsi ini kaya akan sumber daya alam, seperti minyak bumi, gas alam dan batu bara. Selain itu ibu kota provinsi Sumatera Selatan, Palembang, telah terkenal sejak dahulu karena menjadi pusat Kerajaan Sriwijaya",
       "quiz": [
         {
           "Batak": {
@@ -183,14 +192,14 @@
         }
       ],
       "image": {
-        "icon": "sumbar.png",
-        "banner": "sumbar.jpeg",
-        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
-        "tarian": "sumbar.png"
+        "icon": "sumsel.png",
+        "banner": "sumsel.jpeg",
+        "makanan": ["sumsel/1.png", "sumsel/2.png", "sumsel/2.png"],
+        "tarian": "sumsel.png"
       },
       "tarian": {
-        "nama": "",
-        "penjelasan": ""
+        "nama": "Tari Tanggai",
+        "penjelasan": "Tari tanggai adalah tarian persembahan yang ditunjukkan untuk menghormati tamu undangan sebagai bentuk ucapan selamat datang. Tarian ini diiringi lagu Gending Sriwijaya dan dengan gerakan tangan yang lentur menunjukkan ketulusan tuan rumah memberikan penghormatan."
       },
       "makanan": [
         {
@@ -216,18 +225,40 @@
       ]
     },
     {
-      "id": 1,
+      "id": 6,
       "nama": "Riau",
-      "quiz": [],
+      "ibukota": "Pekanbaru",
+      "lambang": "",
+      "deskripsi": "Riau adalah sebuah provinsi di Indonesia yang terletak di bagian tengah pulau Sumatera. Provinsi ini termasuk salah satu provinsi makmur di Indonesia, dengan gross regional product per kapita sebesar USD 7.886 (2008)",
+      "quiz": [
+        {
+          "Melayu": {
+            "benar": true,
+            "jawaban": "Suku Melayu Berasal dari Riau"
+          }
+        },
+        {
+          "Batak": {
+            "benar": false,
+            "jawaban": "Suku Batak Berasal dari Nanggroe Aceh Darussalam"
+          }
+        },
+        {
+          "Jawa": {
+            "benar": false,
+            "jawaban": "Suku Jawa Berasal dari Yogyakarta"
+          }
+        }
+      ],
       "image": {
-        "icon": "sumbar.png",
-        "banner": "sumbar.jpeg",
-        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
-        "tarian": "sumbar.png"
+        "icon": "riau.png",
+        "banner": "riau.jpeg",
+        "makanan": ["riau/1.png", "riau/2.png", "riau/2.png"],
+        "tarian": "riau.png"
       },
       "tarian": {
-        "nama": "",
-        "penjelasan": ""
+        "nama": "Tari Zapin",
+        "penjelasan": "Tari zapin adalah tari khas Riau. Tarian ini merupakan sebuah akulturasi dua kebudayaan, yakni budaya Arab dan budaya Melayu. Tarian ini dimainkan secara berpasangan dan dipertunjukkan dalam berbagai acara dan hiburan masyarakat."
       },
       "makanan": [
         {
@@ -245,18 +276,40 @@
       ]
     },
     {
-      "id": 1,
+      "id": 7,
       "nama": "Kepulauan Riau",
-      "quiz": [],
+      "ibukota": "Tanjung Pinang",
+      "lambang": "Berpancang Amanah Bersauh Marwah",
+      "deskripsi": "Secara keseluruhan wilayah Kepulauan Riau terdiri dari 4 kabupaten dan 2 kota, 47 kecamatan serta 274 kelurahan/desa dengan jumlah 2.408 pulau besar dan kecil yang 30% belum bernama dan berpenduduk. Adapun luas wilayahnya sebesar 252.601 km², sekitar 95% merupakan lautan dan hanya sekitar 5% daratan.",
+      "quiz": [
+        {
+          "Batak": {
+            "benar": false,
+            "jawaban": "Suku Batak Berasal dari Nanggroe Aceh Darussalam"
+          }
+        },
+        {
+          "Dayak": {
+            "benar": false,
+            "jawaban": "Suku Dayak Berasal dari Kalimantan Barat"
+          }
+        },
+        {
+          "Melayu": {
+            "benar": true,
+            "jawaban": "Suku Melayu Berasal dari Kepulauan Riau"
+          }
+        }
+      ],
       "image": {
-        "icon": "sumbar.png",
-        "banner": "sumbar.jpeg",
-        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
-        "tarian": "sumbar.png"
+        "icon": "kepriau.png",
+        "banner": "kepriau.jpeg",
+        "makanan": ["kepriau/1.png", "kepriau/2.png", "kepriau/2.png"],
+        "tarian": "kepriau.png"
       },
       "tarian": {
-        "nama": "",
-        "penjelasan": ""
+        "nama": "Tari Malemang",
+        "penjelasan": "Tarian melemang diperkirakan sudah ada sejak abad 12 M. Awalnya, tari ini hanya dipentaskan di Istana Kerajaan Bentan sebagai persembahan bagi raja yang sedang beristirahat. Namun, sejak Kerajaan Bentan mengalami keruntuhan, tari malemang berubah menjadi pertunjukan hiburan rakyat."
       },
       "makanan": [
         {
@@ -274,18 +327,40 @@
       ]
     },
     {
-      "id": 1,
-      "nama": "Bangka Belitung",
-      "quiz": [],
+      "id": 10,
+      "nama": "Kepulauan Bangka Belitung",
+      "ibukota": "PangkalPinang",
+      "lambang": "Serumpun Sebalai",
+      "deskripsi": "Provinsi Kepulauan Bangka Belitung sebelumnya adalah bagian dari Sumatera Selatan, namun menjadi provinsi sendiri bersama Banten dan Gorontalo pada tahun 2000. Provinsi Kepulauan Bangka Belitung didirikan berdasarkan Undang-Undang Nomor 27 Tahun 2000 Tentang Pembentukan Provinsi Kepulauan Bangka Belitung tanggal 21 November 2000 yang terdiri dari Kabupaten Bangka, Kabupaten Belitung dan Kota Pangkalpinang. Pada tahun 2003 berdasarkan Undang-Undang Nomor 5 Tahun 2003 tanggal 23 Januari 2003 dilakukan pemekaran wilayah dengan penambahan 4 kabupaten yaitu Bangka Barat, Bangka Tengah, Bangka Selatan dan Belitung Timur. Provinsi Kepulauan Bangka Belitung merupakan pemekaran wilayah dari Provinsi Sumatera Selatan.",
+      "quiz": [
+        {
+          "Batak": {
+            "benar": false,
+            "jawaban": "Suku Batak Berasal dari Nanggroe Aceh Darussalam"
+          }
+        },
+        {
+          "Dayak": {
+            "benar": false,
+            "jawaban": "Suku Dayak Berasal dari Kalimantan Barat"
+          }
+        },
+        {
+          "Bangka": {
+            "benar": true,
+            "jawaban": "Suku Bangka Berasal dari Bangka Belitung"
+          }
+        }
+      ],
       "image": {
-        "icon": "sumbar.png",
-        "banner": "sumbar.jpeg",
-        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
-        "tarian": "sumbar.png"
+        "icon": "bangka.png",
+        "banner": "bangka.jpeg",
+        "makanan": ["bangka/1.png", "bangka/2.png", "bangka/2.png"],
+        "tarian": "bangka.png"
       },
       "tarian": {
-        "nama": "",
-        "penjelasan": ""
+        "nama": "Tari Campak",
+        "penjelasan": "Tari Campak merupakan tarian dari daerah Bangka Belitung yang menggambarkan kegembiraan muda-mudi. Tarian ini biasanya diselingi berbalas pantun dan dibawakan sepulang dari ume (kebun) untuk merayakan waktu musim panen dan juga dipertunjukkan dalam pesta-pesta seperti penyambutan tamu dan pernikahan."
       },
       "makanan": [
         {
@@ -311,18 +386,40 @@
       ]
     },
     {
-      "id": 1,
+      "id": 5,
       "nama": "Bengkulu",
-      "quiz": [],
+      "ibukota": "Kota Bengkulu",
+      "lambang": "",
+      "deskripsi": "Bengkulu (bahasa Belanda: Benkoelen atau Bengkulen, bahasa Inggris: Bencoolen, bahasa Malaysia: Bangkahulu, Bahasa RejangBekuleuw/Bekulauw), terletak di bagian barat daya pulau Sumatera adalah sebuah provinsi yang terletak di Pulau Sumatera, Indonesia.",
+      "quiz": [
+        {
+          "Rejang": {
+            "benar": true,
+            "jawaban": "Suku Rejang Berasal dari Bengkulu"
+          }
+        },
+        {
+          "Batak": {
+            "benar": false,
+            "jawaban": "Suku Batak Berasal dari Nanggroe Aceh Darussalam"
+          }
+        },
+        {
+          "Minangkabau": {
+            "benar": false,
+            "jawaban": "Suku Minangkabau Berasal dari Sumatera Barat"
+          }
+        }
+      ],
       "image": {
-        "icon": "sumbar.png",
-        "banner": "sumbar.jpeg",
-        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
-        "tarian": "sumbar.png"
+        "icon": "bengkulu.png",
+        "banner": "bengkulu.jpeg",
+        "makanan": ["bengkulu/1.png", "bengkulu/2.png", "bengkulu/2.png"],
+        "tarian": "bengkulu.png"
       },
       "tarian": {
-        "nama": "",
-        "penjelasan": ""
+        "nama": "Tari Andun",
+        "penjelasan": "Tarian andun merupakan salah satu tarian rakyat yang dilakukan pada saat pesta pernikahan. Tari ini biasanya dilakukan oleh para bujang dan gadis secara berpasangan pada malam hari dengan kelintang. Dahulu, tari ini sering digunakan sebagai sarana untuk mencari jodoh."
       },
       "makanan": [
         {
@@ -348,18 +445,40 @@
       ]
     },
     {
-      "id": 1,
+      "id": 9,
       "nama": "Lampung",
-      "quiz": [],
+      "ibukota": "Bandar Lampung",
+      "lambang": "Sang Bumi Ruwa Jurai",
+      "deskripsi": "Provinsi Lampung dengan ibukota Bandar Lampung, yang merupakan gabungan dari kota kembar Tanjungkarang dan Telukbetung memiliki wilayah yang relatif luas, dan menyimpan potensi kelautan. Pelabuhan utamanya bernama Pelabuhan Panjang dan Pelabuhan Bakauheni serta pelabuhan nelayan seperti Pasar Ikan (Telukbetung), Tarahan, dan Kalianda di Teluk Lampung.",
+      "quiz": [
+        {
+          "Batak": {
+            "benar": false,
+            "jawaban": "Suku Batak Berasal dari Nanggroe Aceh Darussalam"
+          }
+        },
+        {
+          "Pesisir": {
+            "benar": true,
+            "jawaban": "Suku Pesisir Berasal dari Lampung"
+          }
+        },
+        {
+          "Dayak": {
+            "benar": false,
+            "jawaban": "Suku Dayak Berasal dari Kalimantan Barat"
+          }
+        }
+      ],
       "image": {
-        "icon": "sumbar.png",
-        "banner": "sumbar.jpeg",
-        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
-        "tarian": "sumbar.png"
+        "icon": "lampung.png",
+        "banner": "lampung.jpeg",
+        "makanan": ["lampung/1.png", "lampung/2.png", "lampung/2.png"],
+        "tarian": "lampung.png"
       },
       "tarian": {
-        "nama": "",
-        "penjelasan": ""
+        "nama": "Tari Sembah",
+        "penjelasan": "Tari sembah atau dikenal juga dengan tari sigeh pengunten, merupakan tarian tradisional yang dipentaskan untuk menyambut dan memberikan penghormatan kepada tamu."
       },
       "makanan": [
         {
@@ -385,18 +504,40 @@
       ]
     },
     {
-      "id": 1,
+      "id": 8,
       "nama": "Jambi",
-      "quiz": [],
+      "ibukota": "Kota Jambi",
+      "lambang": "Sepucuk Jambi Sembilan Lurah",
+      "deskripsi": "Jambi adalah sebuah provinsiIndonesia yang terletak di pesisir timur di bagian tengah Pulau Sumatera. Jambi adalah satu dari tiga provinsi di Indonesia yang ibukotanya bernama sama dengan nama provinsinya, selain Bengkulu dan Gorontalo. Jambi merupakan tempat berasalnya Bangsa Melayu yaitu dari Kerajaan Malayu di Batang Hari Jambi. Bahasa Melayu Jambi sama seperti Melayu Palembang dan Melayu Bengkulu, yaitu berdialek 'o'",
+      "quiz": [
+        {
+          "Melayu": {
+            "benar": true,
+            "jawaban": "Suku Melayu Berasal dari Jambi"
+          }
+        },
+        {
+          "Batak": {
+            "benar": false,
+            "jawaban": "Suku Batak Berasal dari Nanggroe Aceh Darussalam"
+          }
+        },
+        {
+          "Sunda": {
+            "benar": false,
+            "jawaban": "Suku Sunda Berasal dari Jawa Barat"
+          }
+        }
+      ],
       "image": {
-        "icon": "sumbar.png",
-        "banner": "sumbar.jpeg",
-        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
-        "tarian": "sumbar.png"
+        "icon": "jambi.png",
+        "banner": "jambi.jpeg",
+        "makanan": ["jambi/1.png", "jambi/2.png", "jambi/2.png"],
+        "tarian": "jambi.png"
       },
       "tarian": {
-        "nama": "",
-        "penjelasan": ""
+        "nama": "Tari Sekapur Sirih",
+        "penjelasan": "Tarian tradisional ini merupakan sebuah tari persembahan. Sesuai dengan jenisnya, tarian ini dipentaskan untuk menyambut tamu-tamu yang dianggap penting. Biasanya jumlah penarinya adalah sembilan penari perempuan dan tiga penari laki-laki, dengan satu orang yang bertugas membawa payung dan dua orang sebagai pengawal."
       },
       "makanan": [
         {
@@ -418,18 +559,40 @@
       ]
     },
     {
-      "id": 1,
+      "id": 17,
       "nama": "Banten",
-      "quiz": [],
+      "ibukota": "Serang",
+      "lambang": "Iman Taqwa",
+      "deskripsi": "Banten adalah sebuah provinsi di Pulau Jawa, Indonesia. Provinsi ini dulunya merupakan bagian dari Provinsi Jawa Barat, namun dipisahkan sejak tahun 2000, dengan keputusan Undang-Undang Nomor 23 Tahun 2000. Pusat pemerintahannya berada di Kota Serang.",
+      "quiz": [
+        {
+          "Banten": {
+            "benar": true,
+            "jawaban": "Suku Banten Berasal dari Banten"
+          }
+        },
+        {
+          "Jawa": {
+            "benar": false,
+            "jawaban": "Suku Jawa Berasal dari Yogyakarta"
+          }
+        },
+        {
+          "Aceh": {
+            "benar": false,
+            "jawaban": "Suku Aceh Berasal dari Nanggroe Aceh Darussalam"
+          }
+        }
+      ],
       "image": {
-        "icon": "sumbar.png",
-        "banner": "sumbar.jpeg",
-        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
-        "tarian": "sumbar.png"
+        "icon": "banten.png",
+        "banner": "banten.jpeg",
+        "makanan": ["banten/1.png", "banten/2.png", "banten/2.png"],
+        "tarian": "banten.png"
       },
       "tarian": {
-        "nama": "",
-        "penjelasan": ""
+        "nama": "Tari Cokek",
+        "penjelasan": "Tarian cokek dibawakan oleh lima hingga tujuh perempuan, didampingi oleh beberapa pria yang memainkan pencak silat. Gerakan tubuh para penarinya bergerak secara perlahan-lahan, membentuk formasi memanjang dengan kaki melangkah maju mundur, dan tangan direntangkan setinggi bahu."
       },
       "makanan": [
         {
@@ -455,18 +618,40 @@
       ]
     },
     {
-      "id": 1,
+      "id": 18,
       "nama": "Jawa Barat",
-      "quiz": [],
+      "ibukota": "Bandung",
+      "lambang": "Gemah Ripah Repeh Rapih",
+      "deskripsi": "Jawa Barat adalah sebuah provinsi di Indonesia. Ibu kotanya berada di Kota Bandung. Perkembangan Sejarah menunjukkan bahwa Provinsi Jawa Barat merupakan Provinsi yang pertama dibentuk di wilayah Indonesia (staatblad Nomor : 378). Provinsi Jawa Barat dibentuk berdasarkan UU No.11 Tahun 1950, tentang Pembentukan Provinsi Jawa Barat. Jawa Barat merupakan provinsi dengan jumlah penduduk terbanyak di Indonesia.",
+      "quiz": [
+        {
+          "Sunda": {
+            "benar": true,
+            "jawaban": "Suku Sunda Berasal dari Jawa Barat"
+          }
+        },
+        {
+          "Batak": {
+            "benar": false,
+            "jawaban": "Suku Batak Berasal dari Nanggroe Aceh Darussalam"
+          }
+        },
+        {
+          "Minangkabau": {
+            "benar": false,
+            "jawaban": "Suku Minangkabau Berasal dari Sumatera Barat"
+          }
+        }
+      ],
       "image": {
-        "icon": "sumbar.png",
-        "banner": "sumbar.jpeg",
-        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
-        "tarian": "sumbar.png"
+        "icon": "jabar.png",
+        "banner": "jabar.jpeg",
+        "makanan": ["jabar/1.png", "jabar/2.png", "jabar/2.png"],
+        "tarian": "jabar.png"
       },
       "tarian": {
-        "nama": "",
-        "penjelasan": ""
+        "nama": "Tari Jaipong",
+        "penjelasan": "Tari jaipong adalah tarian tradisional yang berasal dari Bandung, Jawa Barat. Jaipongan merupakan tarian dengan mengkolaborasikan berbagai macam gerakan, seperti gerakan tari ketuk tilu, tari ronggeng, dan juga beberapa gerakan pencak silat."
       },
       "makanan": [
         {
@@ -496,18 +681,40 @@
       ]
     },
     {
-      "id": 1,
+      "id": 19,
       "nama": "Jawa Tengah",
-      "quiz": [],
+      "ibukota": "Semarang",
+      "lambang": "Prasetya Ulah Sakti Bhakti Praja",
+      "deskripsi": "Jawa Tengah adalah sebuah provinsi Indonesia yang terletak di bagian tengah Pulau Jawa. Provinsi ini berbatasan dengan Provinsi Jawa Barat di sebelah barat, Samudra Hindia dan Daerah Istimewa Yogyakarta di sebelah selatan, Jawa Timur di sebelah timur, dan Laut Jawa di sebelah utara. Luas wilayahnya 32.548 km², atau sekitar 25,04% dari luas pulau Jawa. Provinsi Jawa Tengah juga meliputi Pulau Nusakambangan di sebelah selatan (dekat dengan perbatasan Jawa Barat), serta Kepulauan Karimun Jawa di Laut Jawa.",
+      "quiz": [
+        {
+          "Jawa": {
+            "benar": true,
+            "jawaban": "Suku Jawa Berasal dari Jawa Tengah"
+          }
+        },
+        {
+          "Sunda": {
+            "benar": false,
+            "jawaban": "Suku Sunda Berasal dari Jawa Barat"
+          }
+        },
+        {
+          "Batak": {
+            "benar": false,
+            "jawaban": "Suku Batak Berasal dari Nanggroe Aceh Darussalam"
+          }
+        }
+      ],
       "image": {
-        "icon": "sumbar.png",
-        "banner": "sumbar.jpeg",
-        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
-        "tarian": "sumbar.png"
+        "icon": "jateng.png",
+        "banner": "jateng.jpeg",
+        "makanan": ["jateng/1.png", "jateng/2.png", "jateng/2.png"],
+        "tarian": "jateng.png"
       },
       "tarian": {
-        "nama": "",
-        "penjelasan": ""
+        "nama": "Tari Gambyong",
+        "penjelasan": "Tari gambyong adalah tari kreasi baru dari perkembangan tari tayub. Awalnya, tarian ini digunakan pada upacara ritual pertanian yang bertujuan untuk kesuburan padi dan perolehan panen melimpah. Keberadaan penari merupakan gambaran Dewi Padi (Dewi Sri)."
       },
       "makanan": [
         {
@@ -533,18 +740,40 @@
       ]
     },
     {
-      "id": 1,
+      "id": 21,
       "nama": "Jawa Timur",
-      "quiz": [],
+      "ibukota": "Surabaya",
+      "lambang": "Jer Basuki Mawa Béya",
+      "deskripsi": "",
+      "quiz": [
+        {
+          "Bali": {
+            "benar": false,
+            "jawaban": "Suku Bali Berasal dari Bali"
+          }
+        },
+        {
+          "Madura": {
+            "benar": true,
+            "jawaban": "Suku Madura Berasal dari Jawa Timur"
+          }
+        },
+        {
+          "Batak": {
+            "benar": false,
+            "jawaban": "Suku Batak Berasal dari Nanggroe Aceh Darussalam"
+          }
+        }
+      ],
       "image": {
-        "icon": "sumbar.png",
-        "banner": "sumbar.jpeg",
-        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
-        "tarian": "sumbar.png"
+        "icon": "jatim.png",
+        "banner": "jatim.jpeg",
+        "makanan": ["jatim/1.png", "jatim/2.png", "jatim/2.png"],
+        "tarian": "jatim.png"
       },
       "tarian": {
-        "nama": "",
-        "penjelasan": ""
+        "nama": "Tari Reog Ponorogo",
+        "penjelasan": "Tari reog Ponorogo merupakan salah satu tarian khas dari Jawa Timur, tepatnya di Kota Ponorogo. Tarian ini menceritakan strategi Ki Ajeng Mutu untuk membangun perlawanan kepada Raja Kertabhumi dan kerajaannya."
       },
       "makanan": [
         {
@@ -570,18 +799,40 @@
       ]
     },
     {
-      "id": 1,
-      "nama": "DI Yogyakarta",
-      "quiz": [],
+      "id": 20,
+      "nama": "Daerah Istimewa Yogyakarta",
+      "ibukota": "Yogyakarta",
+      "lambang": "Amemayu Hayuning Bawana",
+      "deskripsi": "",
+      "quiz": [
+        {
+          "Jawa": {
+            "benar": true,
+            "jawaban": "Suku Jawa Berasal dari DI Yogyakarta"
+          }
+        },
+        {
+          "Batak": {
+            "benar": false,
+            "jawaban": "Suku Batak Berasal dari Nanggroe Aceh Darussalam"
+          }
+        },
+        {
+          "Minangkabau": {
+            "benar": false,
+            "jawaban": "Suku Minangkabau Berasal dari Sumatera Barat"
+          }
+        }
+      ],
       "image": {
-        "icon": "sumbar.png",
-        "banner": "sumbar.jpeg",
-        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
-        "tarian": "sumbar.png"
+        "icon": "diy.png",
+        "banner": "diy.jpeg",
+        "makanan": ["diy/1.png", "diy/2.png", "diy/2.png"],
+        "tarian": "diy.png"
       },
       "tarian": {
-        "nama": "",
-        "penjelasan": ""
+        "nama": "Tari Serimpi",
+        "penjelasan": "Tari serimpi adalah suatu jenis tarian yang diperagakan oleh 4 putri. Masing-masing mendapatkan sebutan, yaitu air, api, angin, dan bumi/tanah, yang melambangkan terjadinya manusia juga melambangkan empat penjuru mata angin. Tarian ini termasuk tarian sakral yang hanya dipentaskan di lingkungan keraton."
       },
       "makanan": [
         {
@@ -611,18 +862,40 @@
       ]
     },
     {
-      "id": 1,
+      "id": 17,
       "nama": "DKI Jakarta",
-      "quiz": [],
+      "ibukota": "Jakarta",
+      "lambang": "Jaya Raya",
+      "deskripsi": "Daerah Khusus Ibukota Jakarta (DKI Jakarta, Jakarta Raya) adalah ibu kota negara Indonesia. Jakarta merupakan satu-satunya kota di Indonesia yang memiliki status setingkat provinsi. Jakarta terletak di bagian barat laut Pulau Jawa. Dahulu pernah dikenal dengan namaSunda Kelapa (sebelum 1527), Jayakarta (1527-1619), Batavia/Batauia, atau Jaccatra (1619-1942), dan Djakarta (1942-1972). Jakarta memiliki luas sekitar 661,52 km² (lautan: 6.977,5 km²), dengan penduduk berjumlah 9.607.787 jiwa (2010).[2] Wilayah metropolitan Jakarta (Jabotabek) yang berpenduduk sekitar 28 juta jiwa, merupakan metropolitan terbesar di Indonesia atau urutan keenam dunia.",
+      "quiz": [
+        {
+          "Betawi": {
+            "benar": true,
+            "jawaban": "Suku Betawi Berasal dari DKI Jakarta"
+          }
+        },
+        {
+          "Jawa": {
+            "benar": false,
+            "jawaban": "Suku Jawa Berasal dari Yogyakarta"
+          }
+        },
+        {
+          "Minangkabau": {
+            "benar": false,
+            "jawaban": "Suku Minangkabau Berasal dari Sumatera Barat"
+          }
+        }
+      ],
       "image": {
-        "icon": "sumbar.png",
-        "banner": "sumbar.jpeg",
-        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
-        "tarian": "sumbar.png"
+        "icon": "jakarta.png",
+        "banner": "jakarta.jpeg",
+        "makanan": ["jakarta/1.png", "jakarta/2.png", "jakarta/2.png"],
+        "tarian": "jakarta.png"
       },
       "tarian": {
-        "nama": "",
-        "penjelasan": ""
+        "nama": "Tari Blantek",
+        "penjelasan": "Tarian blantek berasal dari daerah Betawi yang keberadaan sosialnya berkembang dengan pesat. Pada awalnya, tarian ini merupakan bagian pertunjukan teater rakyat lenong yang ditampilkan pada pembukaan cerita."
       },
       "makanan": [
         {
@@ -648,18 +921,40 @@
       ]
     },
     {
-      "id": 1,
+      "id": 22,
       "nama": "Bali",
-      "quiz": [],
+      "ibukota": "Denpasar",
+      "lambang": "Bali Dwipa Jaya",
+      "deskripsi": "Bali adalah nama salah satu provinsi di Indonesia dan juga merupakan nama pulau terbesar yang menjadi bagian dari provinsi tersebut. Selain terdiri dari Pulau Bali, wilayah Provinsi Bali juga terdiri dari pulau-pulau yang lebih kecil di sekitarnya, yaitu Pulau Nusa Penida, Pulau Nusa Lembongan, Pulau Nusa Ceningan dan Pulau Serangan.",
+      "quiz": [
+        {
+          "Bali": {
+            "benar": true,
+            "jawaban": "Suku Bali Berasal dari Bali"
+          }
+        },
+        {
+          "Jawa": {
+            "benar": false,
+            "jawaban": "Suku Jawa Berasal dari Yogyakarta"
+          }
+        },
+        {
+          "Madura": {
+            "benar": false,
+            "jawaban": "Suku Madura Berasal dari Jawa Timur"
+          }
+        }
+      ],
       "image": {
-        "icon": "sumbar.png",
-        "banner": "sumbar.jpeg",
-        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
-        "tarian": "sumbar.png"
+        "icon": "bali.png",
+        "banner": "bali.jpeg",
+        "makanan": ["bali/1.png", "bali/2.png", "bali/2.png"],
+        "tarian": "bali.png"
       },
       "tarian": {
-        "nama": "",
-        "penjelasan": ""
+        "nama": "Tari Kecak",
+        "penjelasan": "Tari kecak merupakan tarian adat tradisional Bali yang dulunya sebagai tarian sebuah prosesi keagamaan Hindu Bali. Pada perkembangan selanjutnya, tarian kecak dikolaborasikan dengan seni pertunjukkan teater yang menggambarkan kisah Ramayana melalui gerakan dalam tari. Keunikan tari kecak dari Bali ini merupakan jenis tari-tarian yang tidak mengandalkan instrumen alat musik sama sekali. Musik pengiring tari yang dihasilkan berasal dari suara para penarinya sendiri."
       },
       "makanan": [
         {
@@ -685,18 +980,40 @@
       ]
     },
     {
-      "id": 1,
-      "nama": "NTB",
-      "quiz": [],
+      "id": 24,
+      "nama": "Nusa Tenggara Barat",
+      "ibukota": "Mataram",
+      "lambang": "",
+      "deskripsi": "",
+      "quiz": [
+        {
+          "Jawa": {
+            "benar": false,
+            "jawaban": "Suku Jawa Berasal dari Jawa"
+          }
+        },
+        {
+          "Sasak": {
+            "benar": true,
+            "jawaban": "Suku Sasak Berasal dari Nusa Tenggara Barat"
+          }
+        },
+        {
+          "Dayak": {
+            "benar": false,
+            "jawaban": "Suku Dayak Berasal dari Kalimantan Barat"
+          }
+        }
+      ],
       "image": {
-        "icon": "sumbar.png",
-        "banner": "sumbar.jpeg",
-        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
-        "tarian": "sumbar.png"
+        "icon": "ntb.png",
+        "banner": "ntb.jpeg",
+        "makanan": ["ntb/1.png", "ntb/2.png", "ntb/2.png"],
+        "tarian": "ntb.png"
       },
       "tarian": {
-        "nama": "",
-        "penjelasan": ""
+        "nama": "Tari Mpaa Lenggo",
+        "penjelasan": "Tarian ini digelar untuk menyambut Maulid Nabi Muhammad SAW. Tarian ini juga sering dipertunjukkan pada upacara-upacara perkawinan atau upacara khitanan keluarga raja."
       },
       "makanan": [
         {
@@ -721,93 +1038,42 @@
         }
       ]
     },
+
     {
-      "id": 1,
-      "nama": "Bali",
-      "quiz": [],
-      "image": {
-        "icon": "sumbar.png",
-        "banner": "sumbar.jpeg",
-        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
-        "tarian": "sumbar.png"
-      },
-      "tarian": {
-        "nama": "",
-        "penjelasan": ""
-      },
-      "makanan": [
+      "id": 23,
+      "nama": "Nusa Tenggara Timur",
+      "ibukota": "Kupang",
+      "lambang": "",
+      "deskripsi": "",
+      "quiz": [
         {
-          "nama": "Ayam Betutu",
-          "penjelasan": "Ayam yang dimasak dengan bumbu khas Bali dan dibungkus daun pisang."
+          "Rote": {
+            "benar": true,
+            "jawaban": "Suku Rote Berasal dari Nusa Tenggara Timur"
+          }
         },
         {
-          "nama": "Nasi Jinggo",
-          "penjelasan": "Nasi bungkus kecil dengan lauk sederhana."
+          "Dayak": {
+            "benar": false,
+            "jawaban": "Suku Dayak Berasal dari Kalimantan"
+          }
         },
         {
-          "nama": "Sate Lilit",
-          "penjelasan": "Sate ikan yang dibungkus dengan daun bambu atau daun kelapa."
-        },
-        {
-          "nama": "Rujak Bulung",
-          "penjelasan": "Rujak dengan campuran buah dan bumbu kacang khas Bali."
-        },
-        {
-          "nama": "Nasi Tepeng",
-          "penjelasan": "Nasi yang dibungkus daun pisang dan dimasak dengan kelapa parut."
+          "Bali": {
+            "benar": false,
+            "jawaban": "Suku Bali Berasal dari Bali"
+          }
         }
-      ]
-    },
-    {
-      "id": 1,
-      "nama": "NTB",
-      "quiz": [],
+      ],
       "image": {
-        "icon": "sumbar.png",
-        "banner": "sumbar.jpeg",
-        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
-        "tarian": "sumbar.png"
+        "icon": "ntt.png",
+        "banner": "ntt.jpeg",
+        "makanan": ["ntt/1.png", "ntt/2.png", "ntt/2.png"],
+        "tarian": "ntt.png"
       },
       "tarian": {
-        "nama": "",
-        "penjelasan": ""
-      },
-      "makanan": [
-        {
-          "nama": "Ayam Taliwang",
-          "penjelasan": "Ayam bakar pedas khas Lombok."
-        },
-        {
-          "nama": "Sate Bulayak",
-          "penjelasan": "Sate dengan bumbu kacang khas NTB."
-        },
-        {
-          "nama": "Sayur Ares",
-          "penjelasan": "Sayur lontong dengan kuah santan."
-        },
-        {
-          "nama": "Nasi Balap Puyung",
-          "penjelasan": "Nasi dengan daging sapi rebus dan sambal khas NTB."
-        },
-        {
-          "nama": "Plecing Kangkung",
-          "penjelasan": "Sayur kangkung dengan sambal tomat khas NTB."
-        }
-      ]
-    },
-    {
-      "id": 1,
-      "nama": "NTT",
-      "quiz": [],
-      "image": {
-        "icon": "sumbar.png",
-        "banner": "sumbar.jpeg",
-        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
-        "tarian": "sumbar.png"
-      },
-      "tarian": {
-        "nama": "",
-        "penjelasan": ""
+        "nama": "Tari Caci",
+        "penjelasan": "Tari caci merupakan tari perang antar sepasang penari laki-laki yang memperagakan pertarungan menggunakan cambuk dan perisai, seperti dikutip dari 70 Tradisi Unik Suku Bangsa di Indonesia oleh Fitri Haryani"
       },
       "makanan": [
         {
@@ -833,18 +1099,40 @@
       ]
     },
     {
-      "id": 1,
+      "id": 11,
       "nama": "Kalimantan Barat",
-      "quiz": [],
+      "ibukota": "Pontianak",
+      "lambang": "",
+      "deskripsi": "",
+      "quiz": [
+        {
+          "Dayak Ngaju": {
+            "benar": true,
+            "jawaban": "Suku Dayak Ngaju Berasal dari Kalimantan Barat"
+          }
+        },
+        {
+          "Jawa": {
+            "benar": false,
+            "jawaban": "Suku Jawa Berasal dari Jawa"
+          }
+        },
+        {
+          "Sunda": {
+            "benar": false,
+            "jawaban": "Suku Sunda Berasal dari Jawa Barat"
+          }
+        }
+      ],
       "image": {
-        "icon": "sumbar.png",
-        "banner": "sumbar.jpeg",
-        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
-        "tarian": "sumbar.png"
+        "icon": "kalbar.png",
+        "banner": "kalbar.jpeg",
+        "makanan": ["kalbar/1.png", "kalbar/2.png", "kalbar/2.png"],
+        "tarian": "kalbar.png"
       },
       "tarian": {
-        "nama": "",
-        "penjelasan": ""
+        "nama": "Tari Monong",
+        "penjelasan": "Tari monong merupakan tarian sakral yang berfungsi untuk penolak penyakit atau menyembuhkan seseorang agar dapat sehat kembali. Tarian ini biasanya dilakukan oleh seorang dukun sambil membawa perisai dan senjata sebagai simbol untuk mengusir dan melenyapkan roh-roh jahat."
       },
       "makanan": [
         {
@@ -870,18 +1158,40 @@
       ]
     },
     {
-      "id": 1,
+      "id": 14,
       "nama": "Kalimantan Tengah",
-      "quiz": [],
+      "ibukota": "Palangkaraya",
+      "lambang": "Isen Mulang",
+      "deskripsi": "",
+      "quiz": [
+        {
+          "Dayak Ngaju": {
+            "benar": true,
+            "jawaban": "Suku Dayak Ngaju Berasal dari Kalimantan Tengah"
+          }
+        },
+        {
+          "Sunda": {
+            "benar": false,
+            "jawaban": "Suku Sunda Berasal dari Jawa Barat"
+          }
+        },
+        {
+          "Rote": {
+            "benar": false,
+            "jawaban": "Suku Rote Berasal dari Nusa Tenggara Timur"
+          }
+        }
+      ],
       "image": {
-        "icon": "sumbar.png",
-        "banner": "sumbar.jpeg",
-        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
-        "tarian": "sumbar.png"
+        "icon": "kalteng.png",
+        "banner": "kalteng.jpeg",
+        "makanan": ["kalteng/1.png", "kalteng/2.png", "kalteng/2.png"],
+        "tarian": "kalteng.png"
       },
       "tarian": {
-        "nama": "",
-        "penjelasan": ""
+        "nama": "Tari Mandau Talawang",
+        "penjelasan": "Tarian ini menggunakan mandau atau talawang (perisai). Ditampilkan pada saat upacara adat ataupun penerimaan tamu, seperti dikutip di buku Buku Pintar 34 Provinsi di Indonesia oleh Kurniawan Dinihari."
       },
       "makanan": [
         {
@@ -903,18 +1213,40 @@
       ]
     },
     {
-      "id": 1,
+      "id": 13,
       "nama": "Kalimantan Selatan",
-      "quiz": [],
+      "ibukota": "Banjarmasin",
+      "lambang": "Haram Manyarah Waja Sampai Kaputing",
+      "deskripsi": "",
+      "quiz": [
+        {
+          "Banjar Hulu": {
+            "benar": true,
+            "jawaban": "Suku Banjar Hulu Berasal dari Kalimantan Selatan"
+          }
+        },
+        {
+          "Melayu": {
+            "benar": false,
+            "jawaban": "Suku Melayu Berasal dari Sumatera Barat"
+          }
+        },
+        {
+          "Minangkabau": {
+            "benar": false,
+            "jawaban": "Suku Minangkabau Berasal dari Sumatera Barat"
+          }
+        }
+      ],
       "image": {
-        "icon": "sumbar.png",
-        "banner": "sumbar.jpeg",
-        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
-        "tarian": "sumbar.png"
+        "icon": "kalsel.png",
+        "banner": "kalsel.jpeg",
+        "makanan": ["kalsel/1.png", "kalsel/2.png", "kalsel/2.png"],
+        "tarian": "kalsel.png"
       },
       "tarian": {
-        "nama": "",
-        "penjelasan": ""
+        "nama": "Tari Baksa Kembang",
+        "penjelasan": "Tari baksa kembang adalah tarian yang berasal dari Keraton Banjar, Kalimantan Selatan. Tarian ini merupakan tari selamat datang pada tamu agung dan dibawakan oleh putri-putri Keraton Banjar, dengan menyampaikan untaian bunga, seperti dikutip dari buku Ayo Mengenal Indonesia: Kalimantan 2 oleh N. Arie Any."
       },
       "makanan": [
         {
@@ -940,18 +1272,40 @@
       ]
     },
     {
-      "id": 1,
+      "id": 12,
       "nama": "Kalimantan Timur",
-      "quiz": [],
+      "ibukota": "Samarinda",
+      "lambang": "",
+      "deskripsi": "",
+      "quiz": [
+        {
+          "Ot Danum": {
+            "benar": true,
+            "jawaban": "Suku Ot Danum Berasal dari Kalimantan Timur"
+          }
+        },
+        {
+          "Sasak": {
+            "benar": false,
+            "jawaban": "Suku Sasak Berasal dari Nusa Tenggara Barat"
+          }
+        },
+        {
+          "Dayak": {
+            "benar": false,
+            "jawaban": "Suku Dayak Berasal dari Kalimantan Barat"
+          }
+        }
+      ],
       "image": {
-        "icon": "sumbar.png",
-        "banner": "sumbar.jpeg",
-        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
-        "tarian": "sumbar.png"
+        "icon": "kaltim.png",
+        "banner": "kaltim.jpeg",
+        "makanan": ["kaltim/1.png", "kaltim/2.png", "kaltim/2.png"],
+        "tarian": "kaltim.png"
       },
       "tarian": {
-        "nama": "",
-        "penjelasan": ""
+        "nama": "Tari Burung Enggang",
+        "penjelasan": "Tari burung enggang atau disebut juga tari kancet lasan merupakan sebuah tarian khas dari Suku Dayak Kenyah, di Kalimantan Timur. Warga suku Dayak percaya bahwa nenek moyang mereka menyerupai burung enggang yang turun dari langit. Oleh karena itu, burung enggang sangat dimuliakan suku Dayak."
       },
       "makanan": [
         {
@@ -977,18 +1331,40 @@
       ]
     },
     {
-      "id": 1,
+      "id": 15,
       "nama": "Kalimantan Utara",
-      "quiz": [],
+      "ibukota": "Tarakan",
+      "lambang": "",
+      "deskripsi": "",
+      "quiz": [
+        {
+          "Dayak": {
+            "benar": true,
+            "jawaban": "Suku Dayak Berasal dari Kalimantan Utara"
+          }
+        },
+        {
+          "Flores": {
+            "benar": false,
+            "jawaban": "Suku Flores Berasal dari Nusa Tenggara Timur"
+          }
+        },
+        {
+          "Sunda": {
+            "benar": false,
+            "jawaban": "Suku Sunda Berasal dari Jawa Barat"
+          }
+        }
+      ],
       "image": {
-        "icon": "sumbar.png",
-        "banner": "sumbar.jpeg",
-        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
-        "tarian": "sumbar.png"
+        "icon": "kalut.png",
+        "banner": "kalut.jpeg",
+        "makanan": ["kalut/1.png", "kalut/2.png", "kalut/2.png"],
+        "tarian": "kalut.png"
       },
       "tarian": {
-        "nama": "",
-        "penjelasan": ""
+        "nama": "Tari Magunatip/Lalatip",
+        "penjelasan": "Tarian magunatip merupakan tarian tradisional yang berasal dari daerah Tarakan dan Malinau, Kalimantan Utara. Pada zaman dahulu tarian ini digunakan untuk melatih ketangkasan kaki dalam melompat dan menghindari rintangan."
       },
       "makanan": [
         {
@@ -1006,18 +1382,40 @@
       ]
     },
     {
-      "id": 1,
+      "id": 26,
       "nama": "Sulawesi Barat",
-      "quiz": [],
+      "ibukota": "Mamuju",
+      "lambang": "Mellete Diatonganan",
+      "deskripsi": "",
+      "quiz": [
+        {
+          "Mandar": {
+            "benar": true,
+            "jawaban": "Suku Mandar Berasal dari Sulawesi Barat"
+          }
+        },
+        {
+          "Flores": {
+            "benar": false,
+            "jawaban": "Suku Flores Berasal dari Nusa Tenggara Timur"
+          }
+        },
+        {
+          "Sunda": {
+            "benar": false,
+            "jawaban": "Suku Sunda Berasal dari Jawa Barat"
+          }
+        }
+      ],
       "image": {
-        "icon": "sumbar.png",
-        "banner": "sumbar.jpeg",
-        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
-        "tarian": "sumbar.png"
+        "icon": "sulbar.png",
+        "banner": "sulbar.jpeg",
+        "makanan": ["sulbar/1.png", "sulbar/2.png", "sulbar/2.png"],
+        "tarian": "sulbar.png"
       },
       "tarian": {
-        "nama": "",
-        "penjelasan": ""
+        "nama": "Tari Bamba Manurung",
+        "penjelasan": "Tari bamba manurung adalah tari tradisional yang biasanya ditampilkan di pesta-pesta adat Mamuju. Tarian ini dibawakan oleh gadis-gadis dengan menggunakan kipas."
       },
       "makanan": [
         {
@@ -1043,18 +1441,40 @@
       ]
     },
     {
-      "id": 1,
+      "id": 28,
       "nama": "Sulawesi Utara",
-      "quiz": [],
+      "ibukota": "Manado",
+      "lambang": "Si Tou Timou Tumou Tou",
+      "deskripsi": "",
+      "quiz": [
+        {
+          "Sangir": {
+            "benar": true,
+            "jawaban": "Suku Sangir Berasal dari Sulawesi Utara"
+          }
+        },
+        {
+          "Dayak": {
+            "benar": false,
+            "jawaban": "Suku Dayak Berasal dari Kalimantan"
+          }
+        },
+        {
+          "Bali": {
+            "benar": false,
+            "jawaban": "Suku Bali Berasal dari Bali"
+          }
+        }
+      ],
       "image": {
-        "icon": "sumbar.png",
-        "banner": "sumbar.jpeg",
-        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
-        "tarian": "sumbar.png"
+        "icon": "sulut.png",
+        "banner": "sulut.jpeg",
+        "makanan": ["sulut/1.png", "sulut/2.png", "sulut/2.png"],
+        "tarian": "sulut.png"
       },
       "tarian": {
-        "nama": "",
-        "penjelasan": ""
+        "nama": "Tari Kabasaran",
+        "penjelasan": "Tari kabasaran merupakan tari prajurit Minahasa. Penari adalah prajurit berpakaian merah dan diiringi suara tambur. Tari ini menggambarkan gerakan dua ekor ayam jantan yang sedang bertarung dengan mata melotot, demikian dikutip di buku Fakta Menakjubkan Tentang Indonesia: Wisata Sejarah, Budaya, dan Alam di 33 Provinsi oleh Navita Kristi."
       },
       "makanan": [
         {
@@ -1080,18 +1500,40 @@
       ]
     },
     {
-      "id": 1,
+      "id": 27,
       "nama": "Sulawesi Tengah",
-      "quiz": [],
+      "ibukota": "Palu",
+      "lambang": "Maliu Ntinuvu",
+      "deskripsi": "",
+      "quiz": [
+        {
+          "Kaili": {
+            "benar": true,
+            "jawaban": "Suku Kaili Berasal dari Sulawesi Tengah"
+          }
+        },
+        {
+          "Dayak": {
+            "benar": false,
+            "jawaban": "Suku Dayak Berasal dari Kalimantan"
+          }
+        },
+        {
+          "Bali": {
+            "benar": false,
+            "jawaban": "Suku Bali Berasal dari Bali"
+          }
+        }
+      ],
       "image": {
-        "icon": "sumbar.png",
-        "banner": "sumbar.jpeg",
-        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
-        "tarian": "sumbar.png"
+        "icon": "sulteng.png",
+        "banner": "sulteng.jpeg",
+        "makanan": ["sulteng/1.png", "sulteng/2.png", "sulteng/2.png"],
+        "tarian": "sulteng.png"
       },
       "tarian": {
-        "nama": "",
-        "penjelasan": ""
+        "nama": "Tari Dero",
+        "penjelasan": "Tarian ini berasal daerah Poso. Dilakukan oleh para penari wanita dan penari pria yang berpegangan tangan dan membentuk lingkaran, diiringi dengan nyanyian pantun dan tabuhan gendang dan gong."
       },
       "makanan": [
         {
@@ -1109,18 +1551,44 @@
       ]
     },
     {
-      "id": 1,
+      "id": 29,
       "nama": "Sulawesi Tenggara",
-      "quiz": [],
+      "ibukota": "Kendari",
+      "lambang": "",
+      "deskripsi": "",
+      "quiz": [
+        {
+          "Lahi": {
+            "benar": true,
+            "jawaban": "Suku Lahi Juga Berasal dari Sulawesi Tenggara"
+          }
+        },
+        {
+          "Jawa": {
+            "benar": false,
+            "jawaban": "Suku Jawa Berasal dari Jawa"
+          }
+        },
+        {
+          "Gayo": {
+            "benar": false,
+            "jawaban": "Suku Gayo Berasal dari Sumatera Ace"
+          }
+        }
+      ],
       "image": {
-        "icon": "sumbar.png",
-        "banner": "sumbar.jpeg",
-        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
-        "tarian": "sumbar.png"
+        "icon": "sultenggara.png",
+        "banner": "sultenggara.jpeg",
+        "makanan": [
+          "sultenggara/1.png",
+          "sultenggara/2.png",
+          "sultenggara/2.png"
+        ],
+        "tarian": "sultenggara.png"
       },
       "tarian": {
-        "nama": "",
-        "penjelasan": ""
+        "nama": "Tari Dinggu",
+        "penjelasan": "Tarian ini mengandung arti sifat gotong royong saat masyarakat sedang menumbuk padi. Sentuhan alu pada lesung (alat tradisional untuk pengolahan padi), menjadi irama tersendiri yang bisa menyentuh hati."
       },
       "makanan": [
         {
@@ -1146,18 +1614,40 @@
       ]
     },
     {
-      "id": 1,
+      "id": 30,
       "nama": "Sulawesi Selatan",
-      "quiz": [],
+      "ibukota": "Makassar",
+      "lambang": "Todo Puli",
+      "deskripsi": "",
+      "quiz": [
+        {
+          "Makassar": {
+            "benar": true,
+            "jawaban": "Suku Makassar Juga Berasal dari Sulawesi Selatan"
+          }
+        },
+        {
+          "Jawa": {
+            "benar": false,
+            "jawaban": "Suku Jawa Berasal dari Jawa"
+          }
+        },
+        {
+          "Gayo": {
+            "benar": false,
+            "jawaban": "Suku Gayo Berasal dari Sumatera Ace"
+          }
+        }
+      ],
       "image": {
-        "icon": "sumbar.png",
-        "banner": "sumbar.jpeg",
-        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
-        "tarian": "sumbar.png"
+        "icon": "sulsel.png",
+        "banner": "sulsel.jpeg",
+        "makanan": ["sulsel/1.png", "sulsel/2.png", "sulsel/2.png"],
+        "tarian": "sulsel.png"
       },
       "tarian": {
-        "nama": "",
-        "penjelasan": ""
+        "nama": "Tari Pakarena",
+        "penjelasan": "Tari pakarena adalah tari yang berasal dari daerah Makassar, Sulawesi Selatan. Tari pakarena berkisah tentang perpisahan dunia kayangan dan bumi. Tarian ini dipopulerkan semasa pemerintahan Sultan Hasanuddin dan Raja Gowa ke-16."
       },
       "makanan": [
         {
@@ -1183,18 +1673,40 @@
       ]
     },
     {
-      "id": 1,
+      "id": 25,
       "nama": "Gorontalo",
-      "quiz": [],
+      "ibukota": "Kota Gorontalo",
+      "lambang": "Duluo Limo Lo Pohalaa",
+      "deskripsi": "Gorontalo adalah provinsi yang ke-32 di Indonesia. Sebelumnya Gorontalo merupakan wilayah Kabupaten Gorontalo dan Kota Madya Gorontalo di Sulawesi Utara. Seiring dengan munculnya pemekaran wilayah berkenaan dengan otonomi daerah, provinsi ini kemudian dibentuk berdasarkan Undang-Undang Nomor 38 Tahun 2000, tertanggal 22 Desember2000.",
+      "quiz": [
+        {
+          "Banjar Hulu": {
+            "benar": false,
+            "jawaban": "Suku Banjar Hulu Berasal dari Kalimantan Selatan"
+          }
+        },
+        {
+          "Dayak": {
+            "benar": false,
+            "jawaban": "Suku Dayak Berasal dari Kalimantan Barat"
+          }
+        },
+        {
+          "Gorontalo": {
+            "benar": true,
+            "jawaban": "Suku Gorontalo Berasal dari Gorontalo"
+          }
+        }
+      ],
       "image": {
-        "icon": "sumbar.png",
-        "banner": "sumbar.jpeg",
-        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
-        "tarian": "sumbar.png"
+        "icon": "gorontalo.png",
+        "banner": "gorontalo.jpeg",
+        "makanan": ["gorontalo/1.png", "gorontalo/2.png", "gorontalo/2.png"],
+        "tarian": "gorontalo.png"
       },
       "tarian": {
-        "nama": "",
-        "penjelasan": ""
+        "nama": "Tari Dana-Dana",
+        "penjelasan": "Tari dana-dana adalah tari pergaulan remaja yang sampai saat ini masih berkembang di daerah Gorontalo, demikian dikutip di buku Mengenal Tarian dan Seni Sulawesi oleh Wisnu Fajar."
       },
       "makanan": [
         {
@@ -1220,18 +1732,40 @@
       ]
     },
     {
-      "id": 1,
+      "id": 32,
       "nama": "Maluku",
-      "quiz": [],
+      "ibukota": "Ambon",
+      "lambang": "Siwa Lima",
+      "deskripsi": "",
+      "quiz": [
+        {
+          "Buru": {
+            "benar": true,
+            "jawaban": "Suku Buru Berasal dari Maluku"
+          }
+        },
+        {
+          "Flores": {
+            "benar": false,
+            "jawaban": "Suku Flores Berasal dari Nusa Tenggara Timur"
+          }
+        },
+        {
+          "Sunda": {
+            "benar": false,
+            "jawaban": "Suku Sunda Berasal dari Jawa Barat"
+          }
+        }
+      ],
       "image": {
-        "icon": "sumbar.png",
-        "banner": "sumbar.jpeg",
-        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
-        "tarian": "sumbar.png"
+        "icon": "maluku.png",
+        "banner": "maluku.jpeg",
+        "makanan": ["maluku/1.png", "maluku/2.png", "maluku/2.png"],
+        "tarian": "maluku.png"
       },
       "tarian": {
-        "nama": "",
-        "penjelasan": ""
+        "nama": "Tari Cakalele",
+        "penjelasan": "Tari cakalele merupakan tari perang yang secara umum mempunyai jumlah penari sebanyak lima sampai tiga puluh orang. Tarian ini menggambarkan perjuangan rakyat Maluku dalam membela kebenaran. Bahkan tari ini pada awalnya dipertunjukkan untuk memberikan semangat kepada para pasukannya dalam melawan penjajah."
       },
       "makanan": [
         {
@@ -1257,18 +1791,40 @@
       ]
     },
     {
-      "id": 1,
+      "id": 31,
       "nama": "Maluku Utara",
-      "quiz": [],
+      "ibukota": "Sofifi",
+      "lambang": "Marimoi Ngone Futuru",
+      "deskripsi": "",
+      "quiz": [
+        {
+          "Bacan": {
+            "benar": true,
+            "jawaban": "Suku Bacan Berasal dari Maluku Utara"
+          }
+        },
+        {
+          "Bantuni": {
+            "benar": false,
+            "jawaban": "Suku Bantuni Berasal dari Papua"
+          }
+        },
+        {
+          "Obi": {
+            "benar": false,
+            "jawaban": "Suku Obi Berasal dari Maluku"
+          }
+        }
+      ],
       "image": {
-        "icon": "sumbar.png",
-        "banner": "sumbar.jpeg",
-        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
-        "tarian": "sumbar.png"
+        "icon": "malut.png",
+        "banner": "malut.jpeg",
+        "makanan": ["malut/1.png", "malut/2.png", "malut/2.png"],
+        "tarian": "malut.png"
       },
       "tarian": {
-        "nama": "",
-        "penjelasan": ""
+        "nama": "Tari Kapita/Hasa",
+        "penjelasan": "Tarian ini berlatar belakang tentang cerita perang pada zaman penjajahan untuk merebutkan wilayah-wilayah kekuasaan Sultan Tidore. Tari kapita ditarikan oleh laki-laki sekitar 5-9 orang atau lebih sesuai dengan bagaimana keadaan tarian ini ditampilkan. Tari ini dipakai untuk menyambut para pembawa air suci dan paji-paji masuk kedalam keraton tersebut, dan dipercayakan bisa menjaga para pembawa air suci dan paji-paji dari serangan musuh, demikian dikutip di buku Arsitektur Post Modern Maluku Utara oleh Endah Harisun."
       },
       "makanan": [
         {
@@ -1290,18 +1846,40 @@
       ]
     },
     {
-      "id": 1,
+      "id": 34,
       "nama": "Papua",
-      "quiz": [],
+      "ibukota": "Jayapura",
+      "lambang": "Karya Swadaya",
+      "deskripsi": "",
+      "quiz": [
+        {
+          "Membramo": {
+            "benar": true,
+            "jawaban": "Suku Membramo Berasal dari Papua"
+          }
+        },
+        {
+          "Fak-fak": {
+            "benar": false,
+            "jawaban": "Suku Fak-fak Berasal dari Papua Selatan"
+          }
+        },
+        {
+          "Jawa": {
+            "benar": false,
+            "jawaban": "Suku Jawa Berasal dari Jawa"
+          }
+        }
+      ],
       "image": {
-        "icon": "sumbar.png",
-        "banner": "sumbar.jpeg",
-        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
-        "tarian": "sumbar.png"
+        "icon": "papua.png",
+        "banner": "papua.jpeg",
+        "makanan": ["papua/1.png", "papua/2.png", "papua/2.png"],
+        "tarian": "papua.png"
       },
       "tarian": {
-        "nama": "",
-        "penjelasan": ""
+        "nama": "Tari Yospan",
+        "penjelasan": "Tarian ini merupakan tarian pergaulan masyarakat yang biasa ditarikan oleh penari pria dan penari perempuan. Tarian ini biasanya sering ditampilkan di berbagai acara yang bersifat adat, penyambutan, dan acara budaya."
       },
       "makanan": [
         {
@@ -1319,18 +1897,40 @@
       ]
     },
     {
-      "id": 1,
+      "id": 35,
       "nama": "Papua Tengah",
-      "quiz": [],
+      "ibukota": "Nabire",
+      "lambang": "",
+      "deskripsi": "",
+      "quiz": [
+        {
+          "Mee (Ekari)": {
+            "benar": true,
+            "jawaban": "Suku Mee (Ekari) Berasal dari Papua Tengah"
+          }
+        },
+        {
+          "Flores": {
+            "benar": false,
+            "jawaban": "Suku Flores Berasal dari Nusa Tenggara Timur"
+          }
+        },
+        {
+          "Sunda": {
+            "benar": false,
+            "jawaban": "Suku Sunda Berasal dari Jawa Barat"
+          }
+        }
+      ],
       "image": {
-        "icon": "sumbar.png",
-        "banner": "sumbar.jpeg",
-        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
-        "tarian": "sumbar.png"
+        "icon": "papteng.png",
+        "banner": "papteng.jpeg",
+        "makanan": ["papteng/1.png", "papteng/2.png", "papteng/2.png"],
+        "tarian": "papteng.png"
       },
       "tarian": {
-        "nama": "",
-        "penjelasan": ""
+        "nama": "Tari Antoroni",
+        "penjelasan": "Tari ini ditarikan oleh sekelompok pria dan wanita dengan membawa perlengkapan antoroni (obor), umbee (parang), afai atau ato (busur dan panah), rawangguai (piring), dan neina nunggamiai nuntarai (rangka tengkorak manusia). Alat musik yang mengiringi tari ini adalah tikainotu atau tifa dan tabura atau triton, disertai beberapa lagu, antara lain Syowo Mendamato, Sere-Sere Muto, dll."
       },
       "makanan": [
         {
@@ -1348,60 +1948,142 @@
       ]
     },
     {
-      "id": 1,
+      "id": 36,
       "nama": "Papua Pegunungan",
-      "quiz": [],
+      "ibukota": "Wamena",
+      "lambang": "",
+      "deskripsi": "",
+      "quiz": [
+        {
+          "Dani": {
+            "benar": true,
+            "jawaban": "Suku Dani Berasal dari Papua Pegunungan"
+          }
+        },
+        {
+          "Jawa": {
+            "benar": false,
+            "jawaban": "Suku Jawa Berasal dari Jawa"
+          }
+        },
+        {
+          "Gayo": {
+            "benar": false,
+            "jawaban": "Suku Gayo Berasal dari Sumatera Ace"
+          }
+        }
+      ],
       "image": {
-        "icon": "sumbar.png",
-        "banner": "sumbar.jpeg",
-        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
-        "tarian": "sumbar.png"
+        "icon": "papgung.png",
+        "banner": "papgung.jpeg",
+        "makanan": ["papgung/1.png", "papgung/2.png", "papgung/2.png"],
+        "tarian": "papgung.png"
       },
       "tarian": {
-        "nama": "",
-        "penjelasan": ""
+        "nama": "Tari Afaitaneng",
+        "penjelasan": "Tari afaitaneng dipertunjukkan selama semalam suntuk pada sore atau malam hari sesudah perang. Tari ini menggambarkan kehebatan, kekuatan, dan kemenangan rombongan perang melawan musuh dengan bersenjatakan panah."
       },
       "makanan": [
         {
           "nama": "Papeda",
           "penjelasan": "Makanan berbahan dasar sagu khas Papua Pegunungan."
+        },
+        {
+          "nama": "Keladi Tumbuk",
+          "penjelasan": "Keladi yang dihaluskan dan dimasak."
+        },
+        {
+          "nama": "Norohombi",
+          "penjelasan": "Ikan bakar dengan bumbu khas Papua."
         }
       ]
     },
     {
-      "id": 1,
+      "id": 37,
       "nama": "Papua Selatan",
-      "quiz": [],
+      "ibukota": "Merauke",
+      "lambang": "",
+      "deskripsi": "",
+      "quiz": [
+        {
+          "Marind": {
+            "benar": true,
+            "jawaban": "Suku Marind Berasal dari Papua Selatan"
+          }
+        },
+        {
+          "Flores": {
+            "benar": false,
+            "jawaban": "Suku Flores Berasal dari Nusa Tenggara Timur"
+          }
+        },
+        {
+          "Sunda": {
+            "benar": false,
+            "jawaban": "Suku Sunda Berasal dari Jawa Barat"
+          }
+        }
+      ],
       "image": {
-        "icon": "sumbar.png",
-        "banner": "sumbar.jpeg",
-        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
-        "tarian": "sumbar.png"
+        "icon": "papsel.png",
+        "banner": "papsel.jpeg",
+        "makanan": ["papsel/1.png", "papsel/2.png", "papsel/2.png"],
+        "tarian": "papsel.png"
       },
       "tarian": {
-        "nama": "",
-        "penjelasan": ""
+        "nama": "Tari Antoroni",
+        "penjelasan": "Tari ini ditarikan oleh sekelompok pria dan wanita dengan membawa perlengkapan antoroni (obor), umbee (parang), afai atau ato (busur dan panah), rawangguai (piring), dan neina nunggamiai nuntarai (rangka tengkorak manusia). Alat musik yang mengiringi tari ini adalah tikainotu atau tifa dan tabura atau triton, disertai beberapa lagu, antara lain Syowo Mendamato, Sere-Sere Muto, dll."
       },
       "makanan": [
         {
           "nama": "Sagu Sep",
           "penjelasan": "Makanan kering dari sagu khas Papua Selatan."
+        },
+        {
+          "nama": "Keladi Tumbuk",
+          "penjelasan": "Keladi yang dihaluskan dan dimasak."
+        },
+        {
+          "nama": "Norohombi",
+          "penjelasan": "Ikan bakar dengan bumbu khas Papua."
         }
       ]
     },
     {
-      "id": 1,
+      "id": 38,
       "nama": "Papua Barat Daya",
-      "quiz": [],
+      "ibukota": "Sorong",
+      "lambang": "",
+      "deskripsi": "",
+      "quiz": [
+        {
+          "Ayamaru": {
+            "benar": true,
+            "jawaban": "Suku Ayamaru Berasal dari Papua Barat Daya"
+          }
+        },
+        {
+          "Hubula": {
+            "benar": false,
+            "jawaban": "Suku Hubula Berasal dari Papua Barat Daya"
+          }
+        },
+        {
+          "Yali": {
+            "benar": false,
+            "jawaban": "Suku Yali Berasal dari Papua Selatan"
+          }
+        }
+      ],
       "image": {
-        "icon": "sumbar.png",
-        "banner": "sumbar.jpeg",
-        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
-        "tarian": "sumbar.png"
+        "icon": "papdar.png",
+        "banner": "papdar.jpeg",
+        "makanan": ["papdar/1.png", "papdar/2.png", "papdar/2.png"],
+        "tarian": "papdar.png"
       },
       "tarian": {
-        "nama": "",
-        "penjelasan": ""
+        "nama": "Tari Aniri",
+        "penjelasan": "Tari aniri berhubungan dengan magis, menggambarkan pembebasan seorang dari gangguan setan, karena ditinggalkan oleh kedua orang tuanya dan pergi ke dusun. Aniri mempunyai arti pembebasan seorang anak."
       },
       "makanan": [
         {
@@ -1419,18 +2101,41 @@
       ]
     },
     {
-      "id": 1,
+      "id": 33,
       "nama": "Papua Barat",
-      "quiz": [],
+      "ibukota": "Manokwari",
+      "lambang": "Cintaku Negeriku",
+      "deskripsi": "",
+      "quiz": [
+        {
+          "Mandacan": {
+            "benar": true,
+            "jawaban": "Suku Mandacan Berasal dari Papua Barat"
+          }
+        },
+        {
+          "Asmat": {
+            "benar": false,
+            "jawaban": "Suku Asmat Berasal dari Papua Pegunungan"
+          }
+        },
+
+        {
+          "Morotai": {
+            "benar": false,
+            "jawaban": "Suku Morotai Berasal dari Maluku Utara"
+          }
+        }
+      ],
       "image": {
-        "icon": "sumbar.png",
-        "banner": "sumbar.jpeg",
-        "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
-        "tarian": "sumbar.png"
+        "icon": "papbar.png",
+        "banner": "papbar.jpeg",
+        "makanan": ["papbar/1.png", "papbar/2.png", "papbar/2.png"],
+        "tarian": "papbar.png"
       },
       "tarian": {
-        "nama": "",
-        "penjelasan": ""
+        "nama": "Tari Suanggi",
+        "penjelasan": "Tarian suanggi merupakan bentuk ekspresi masyarakat Papua Barat yang masih mempercayai nuansa magis. Asal muasal tarian ini berawal dari kisah seorang suami yang ditinggal mati istrinya karena menjadi korban makhluk jadi-jadian (anggi-anggi)."
       },
       "makanan": [
         {

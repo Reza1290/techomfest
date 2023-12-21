@@ -1,5 +1,5 @@
 <template>
-  <NuxtLayout></NuxtLayout>
+  <NuxtLayout>
   <HeroHidangan></HeroHidangan>
   <InfoCard></InfoCard>
   <section id="content1" class="relative py-20">
@@ -45,7 +45,7 @@
   <section id="game-card" class="mb-20">
     <GameCard></GameCard>
   </section>
-  <Footer></Footer>
+</NuxtLayout>
 </template>
 
 <script>

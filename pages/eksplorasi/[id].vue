@@ -1,10 +1,11 @@
 <template>
   <div
-    :class="`absolute z-1 min-w-full min-h-[500px] -mt-[6%] flex justify-center items-center bg-[url('~/assets/img/home/hero.png')] bg-cover bg-center `"
-    style="
+    :class="`absolute z-1 min-w-full min-h-[500px] -mt-[6%] flex justify-center items-center bg-cover bg-center `"
+    :style="`
       mask-image: linear-gradient(white, transparent);
       -webkit-mask-image: linear-gradient(white, transparent);
-    "
+      background-image: url('/images/provinsi/banner/${prov.image.banner}');
+    `"
   ></div>
   <NuxtLayout>
     <div
@@ -27,7 +28,6 @@
           :pembacaan="prov.makanan[0].noun"
           :penjelasan="prov.makanan[0].penjelasan"
           :gambar="prov.image.makanan[0]"
-          
         />
       </div>
       <div class="">
@@ -52,17 +52,14 @@
       </div>
     </div>
     <div class="mb-[500px]">
-      <TarianExploreCard 
-      :nama="prov.tarian.nama"
-      :penjelasan="prov.tarian.penjelasan"
-      :image="prov.image.tarian"
+      <TarianExploreCard
+        :nama="prov.tarian.nama"
+        :penjelasan="prov.tarian.penjelasan"
+        :image="prov.image.tarian"
       />
     </div>
     <div class="container">
-      <TriviaExploreCard
-        :nama="prov.nama"
-        :quiz="prov.quiz"
-      />
+      <TriviaExploreCard :nama="prov.nama" :quiz="prov.quiz" />
     </div>
     <Eksplorasi />
   </NuxtLayout>
@@ -70,32 +67,31 @@
 
 <script setup>
 import Eksplorasi from '~/components/Home/Eksplorasi.vue';
-import arrayquiz from '~/data/arrayquiz.json'
-import explore from '~/data/explore.json'
+import arrayquiz from '~/data/arrayquiz.json';
+import explore from '~/data/explore.json';
 
-console.log(arrayquiz)
-const route = useRoute()
-var quiz = null
-var prov = null
+console.log(arrayquiz);
+const route = useRoute();
+
+var quiz = null;
+var prov = null;
 
 const getDataQuiz = (id) => {
-    quiz = arrayquiz.data[id]
-    prov = explore.data[id]
+  quiz = arrayquiz.data[id];
+  prov = explore.data[id];
+};
+
+getDataQuiz(route.params.id);
+
+if (quiz == undefined || prov == undefined) {
 }
-
-getDataQuiz(route.params.id)
-
-console.log(quiz)
+console.log(quiz);
 
 // if(quiz == null){ this.$router.push('../')}
 </script>
 
 <script>
-
 export default {
-    
-    mounted(){
-      
-    }    
-}
+  mounted() {},
+};
 </script>
