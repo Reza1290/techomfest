@@ -9,7 +9,7 @@
       class="w-full overflow-hidden bg-white shadow-2xl rounded-3xl"
     >
       <img
-        :src="`_nuxt/assets/images/${kategori}/${data.gambar}.jpeg`"
+        :src="`/images/${kategori}/${data.gambar}.jpeg`"
         :alt="data.nama"
         class="h-[277px] w-full rounded-2xl"
       />
