@@ -49,13 +49,13 @@
 </template>
 
 <script>
-import HeroHidangan from "~/components/categories/hidangan/Hero.vue"
-import InfoCard from "~/components/categories/hidangan/InfoCard.vue"
-import CarouselCategories from "~/components/categories/hidangan/CarouselCategories.vue"
+import HeroHidangan from "~/components/categories/hidangan/Hero.vue";
+import InfoCard from "~/components/categories/hidangan/InfoCard.vue";
+import CarouselCategories from "~/components/categories/hidangan/CarouselCategories.vue";
 
 export default {
   components: { HeroHidangan, InfoCard, CarouselCategories },
-}
+};
 </script>
 
 <style></style>
