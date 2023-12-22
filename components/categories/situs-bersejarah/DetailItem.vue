@@ -91,7 +91,7 @@
             :to="`/kategori/situs-bersejarah/${reccomended.id}`"
           >
             <img
-              :src="`/images/hidangan/${reccomended.gambar}.jpeg`"
+              :src="`/images/situs-bersejarah/${reccomended.gambar}.png`"
               alt="nama"
               class="md:h-[180px] lg:h-[277px] w-full rounded-2xl"
             />
