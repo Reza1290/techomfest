@@ -1,17 +1,17 @@
 <template>
-  <NavbarDark class="hidden lg:flex"></NavbarDark>
+  <NavbarDarkPolos class="hidden lg:flex"></NavbarDarkPolos>
   <NavbarMobileDark class="lg:hidden"></NavbarMobileDark>
-    <div class="container">
-      <TriviaExploreCard
-        :nama="prov ? prov.nama : ''"
-        :quiz="prov ? prov.quiz : ''"
-      />
-    </div>
+  <div class="container">
+    <TriviaExploreCard
+      :nama="prov ? prov.nama : ''"
+      :quiz="prov ? prov.quiz : ''"
+    />
+  </div>
   <Footer></Footer>
 </template>
 
 <script>
-import explore from '~/data/explore.json';
+import explore from "~/data/explore.json";
 
 export default {
   props: {},
