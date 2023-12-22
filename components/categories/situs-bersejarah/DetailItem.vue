@@ -7,7 +7,7 @@
         <div class="w-full max-h-full cursor-pointer card-detail">
           <div class="card-detail-image">
             <img
-              :src="`/_nuxt/assets/images/situs_bersejarah/${item.gambar}.jpeg`"
+              :src="`/images/situs_bersejarah/${item.gambar}.jpeg`"
               alt=""
               class="w-full h-full object-cover"
             />
@@ -91,7 +91,7 @@
             :to="`/kategori/situs_bersejarah/${reccomended.id}`"
           >
             <img
-              :src="`/_nuxt/assets/images/hidangan/${reccomended.gambar}.jpeg`"
+              :src="`/images/hidangan/${reccomended.gambar}.jpeg`"
               alt="nama"
               class="md:h-[180px] lg:h-[277px] w-full rounded-2xl"
             />

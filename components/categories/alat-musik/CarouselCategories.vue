@@ -31,7 +31,7 @@
               class="flex flex-col items-center justify-center rounded-lg bg-secondary h-80 gap-y-5 hover:scale-110 hover:cursor-pointer transition duration-500"
             >
               <img
-                :src="`/_nuxt/assets/images/category/${item.icon}.png`"
+                :src="`/images/category/${item.icon}.png`"
                 alt=""
               />
               <span

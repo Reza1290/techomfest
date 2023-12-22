@@ -7,7 +7,7 @@
         <div class="w-full max-h-full card-detail">
           <div class="card-detail-image">
             <img
-              :src="`/_nuxt/assets/images/alat-musik/${item.gambar}.png`"
+              :src="`/images/alat-musik/${item.gambar}.png`"
               alt=""
               class="object-contain w-full h-full"
             />
@@ -82,7 +82,7 @@
             :to="`/kategori/alat-musik/${reccomended.id}`"
           >
             <img
-              :src="`/_nuxt/assets/images/alat-musik/${reccomended.gambar}.png`"
+              :src="`/images/alat-musik/${reccomended.gambar}.png`"
               alt="nama"
               class="md:h-[180px] lg:h-[277px] w-full rounded-2xl"
             />

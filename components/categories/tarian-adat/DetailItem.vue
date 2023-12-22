@@ -7,7 +7,7 @@
         <div class="w-full max-h-full cursor-pointer card-detail">
           <div class="card-detail-image">
             <img
-              :src="`/_nuxt/assets/images/tarian-adat/${item.gambar}.png`"
+              :src="`/images/tarian-adat/${item.gambar}.png`"
               alt=""
               class="w-full h-full object-cover"
             />
@@ -91,7 +91,7 @@
             :to="`/kategori/tarian-adat/${reccomended.id}`"
           >
             <img
-              :src="`/_nuxt/assets/images/tarian-adat/${reccomended.gambar}.png`"
+              :src="`/images/tarian-adat/${reccomended.gambar}.png`"
               alt="nama"
               class="md:h-[180px] lg:h-[277px] w-full rounded-2xl"
             />
