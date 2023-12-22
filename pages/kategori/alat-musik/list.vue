@@ -38,7 +38,7 @@
     <section id="card-hidangan">
       <CardCategories
         :data="hidangan"
-        :kategori="`upacara_adat`"
+        :kategori="`alat-musik`"
       ></CardCategories>
     </section>
   </main>
@@ -46,7 +46,7 @@
 </template>
 
 <script>
-import hidangan from "~/data/upacara_adat.json"
+import hidangan from "~/data/alat-musik.json"
 
 export default {
   setup() {

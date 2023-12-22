@@ -38,7 +38,7 @@
     <section id="card-hidangan">
       <CardCategories
         :data="hidangan"
-        :kategori="`pakaian_adat`"
+        :kategori="`pakaian-adat`"
       ></CardCategories>
     </section>
   </main>
@@ -46,7 +46,7 @@
 </template>
 
 <script>
-import hidangan from "~/data/pakaian_adat.json"
+import hidangan from "~/data/pakaian-adat.json"
 
 export default {
   setup() {

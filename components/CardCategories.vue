@@ -40,14 +40,14 @@ export default {
     },
   },
   setup(props) {
-    const { data, kategori } = props;
+    const { data, kategori } = props
 
     return {
       data,
       kategori,
-    };
+    }
   },
-};
+}
 </script>
 
 <style></style>
