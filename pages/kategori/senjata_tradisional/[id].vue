@@ -7,5 +7,5 @@
 
 <script setup>
 import NavbarDark from "~/components/NavbarDark.vue"
-import DetailItem from "~/components/categories/hidangan/DetailItem.vue"
+import DetailItem from "~/components/categories/senjata-tradisional/DetailItem.vue"
 </script>

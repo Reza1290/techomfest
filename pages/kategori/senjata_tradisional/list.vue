@@ -3,7 +3,7 @@
   <NavbarMobileDark class="lg:hidden"></NavbarMobileDark>
   <main id="main-content" class="py-10 pb-36 lg:px-[101px]">
     <h1 class="text-4xl lg:text-5xl font-bold text-center text-primary">
-      Hidangan khas Indonesia
+      Senjata Tradisional Indonesia
     </h1>
     <div class="flex justify-end w-full mx-auto mt-8 lg:px-0 px-5">
       <div class="relative text-gray-600">
@@ -36,14 +36,17 @@
       </div>
     </div>
     <section id="card-hidangan">
-      <CardCategories :data="hidangan" :kategori="`hidangan`"></CardCategories>
+      <CardCategories
+        :data="hidangan"
+        :kategori="`senjata_tradisional`"
+      ></CardCategories>
     </section>
   </main>
   <Footer></Footer>
 </template>
 
 <script>
-import hidangan from "~/data/hidangan.json"
+import hidangan from "~/data/senjata_tradisional.json"
 
 export default {
   setup() {

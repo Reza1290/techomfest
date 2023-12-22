@@ -36,14 +36,17 @@
       </div>
     </div>
     <section id="card-hidangan">
-      <CardCategories :data="hidangan" :kategori="`hidangan`"></CardCategories>
+      <CardCategories
+        :data="hidangan"
+        :kategori="`alat_musik`"
+      ></CardCategories>
     </section>
   </main>
   <Footer></Footer>
 </template>
 
 <script>
-import hidangan from "~/data/hidangan.json"
+import hidangan from "~/data/alat_musik.json"
 
 export default {
   setup() {

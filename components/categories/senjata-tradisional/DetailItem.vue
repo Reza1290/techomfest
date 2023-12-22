@@ -7,7 +7,7 @@
         <div class="w-full max-h-full cursor-pointer card-detail">
           <div class="card-detail-image">
             <img
-              :src="`/_nuxt/assets/images/hidangan/${item.gambar}.jpeg`"
+              :src="`/_nuxt/assets/images/senjata_tradisional/${item.gambar}.png`"
               alt=""
               class="w-full h-full object-cover"
             />
@@ -78,7 +78,7 @@
       <div class="flex flex-col items-center justify-center">
         <div class="flex flex-col items-center justify-center">
           <h1 class="text-3xl lg:text-5xl text-[#1F420F] font-bold">
-            Jelajahi Hidangan Lain
+            Jelajahi Senjata Tradisional Lain
           </h1>
         </div>
         <div
@@ -88,10 +88,10 @@
             class="w-1/3 overflow-hidden transition-all duration-300 bg-white shadow-2xl cursor-pointer rounded-3xl hover:shadow-2xl hover:scale-105"
             v-for="reccomended in reccomended"
             :key="reccomended.id"
-            :to="`/kategori/hidangan/${reccomended.id}`"
+            :to="`/kategori/senjata_tradisional/${reccomended.id}`"
           >
             <img
-              :src="`/_nuxt/assets/images/hidangan/${reccomended.gambar}.jpeg`"
+              :src="`/_nuxt/assets/images/senjata_tradisional/${reccomended.gambar}.png`"
               alt="nama"
               class="md:h-[180px] lg:h-[277px] w-full rounded-2xl"
             />
@@ -117,7 +117,7 @@
 
 <script setup>
 import Footer from "~/components/Footer.vue"
-import hidangan from "~/data/hidangan.json"
+import hidangan from "~/data/senjata_tradisional.json"
 
 const item = ref({})
 const reccomended = ref([])

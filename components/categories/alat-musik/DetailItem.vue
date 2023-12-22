@@ -78,7 +78,7 @@
       <div class="flex flex-col items-center justify-center">
         <div class="flex flex-col items-center justify-center">
           <h1 class="text-3xl lg:text-5xl text-[#1F420F] font-bold">
-            Jelajahi Hidangan Lain
+            Jelajahi Alat Musik Lain
           </h1>
         </div>
         <div
@@ -88,7 +88,7 @@
             class="w-1/3 overflow-hidden transition-all duration-300 bg-white shadow-2xl cursor-pointer rounded-3xl hover:shadow-2xl hover:scale-105"
             v-for="reccomended in reccomended"
             :key="reccomended.id"
-            :to="`/kategori/hidangan/${reccomended.id}`"
+            :to="`/kategori/alat_musik/${reccomended.id}`"
           >
             <img
               :src="`/_nuxt/assets/images/hidangan/${reccomended.gambar}.jpeg`"
@@ -117,7 +117,7 @@
 
 <script setup>
 import Footer from "~/components/Footer.vue"
-import hidangan from "~/data/hidangan.json"
+import hidangan from "~/data/alat_musik.json"
 
 const item = ref({})
 const reccomended = ref([])
