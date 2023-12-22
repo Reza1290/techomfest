@@ -34,7 +34,7 @@
       >
         <a
           class="lg:inline-block py-2 px-6 bg-primary text-sm text-white font-bold rounded-xl transition duration-200"
-          href="#"
+          href=""
           >Beranda</a
         >
         <a
