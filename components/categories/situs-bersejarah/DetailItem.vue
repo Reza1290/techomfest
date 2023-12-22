@@ -7,7 +7,7 @@
         <div class="w-full max-h-full cursor-pointer card-detail">
           <div class="card-detail-image">
             <img
-              :src="`/images/situs_bersejarah/${item.gambar}.jpeg`"
+              :src="`/images/situs-bersejarah/${item.gambar}.png`"
               alt=""
               class="w-full h-full object-cover"
             />
@@ -88,7 +88,7 @@
             class="w-1/3 overflow-hidden transition-all duration-300 bg-white shadow-2xl cursor-pointer rounded-3xl hover:shadow-2xl hover:scale-105"
             v-for="reccomended in reccomended"
             :key="reccomended.id"
-            :to="`/kategori/situs_bersejarah/${reccomended.id}`"
+            :to="`/kategori/situs-bersejarah/${reccomended.id}`"
           >
             <img
               :src="`/images/hidangan/${reccomended.gambar}.jpeg`"

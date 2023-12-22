@@ -13,10 +13,12 @@
         <div>
           <NuxtLink to="/">Beranda</NuxtLink>
         </div>
-        <div class="border-b-4 font-bold border-[#8CFE5C]">
+        <div>
           <NuxtLink to="/kategori">Kategori</NuxtLink>
         </div>
-        <div><NuxtLink to="/eksplorasi">Eksplorasi</NuxtLink></div>
+        <div>
+          <NuxtLink to="/eksplorasi">Eksplorasi</NuxtLink>
+        </div>
         <div class="select-none"><NuxtLink to="">Favorit</NuxtLink></div>
       </div>
       <div class="">

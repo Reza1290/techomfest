@@ -38,7 +38,7 @@
     <section id="card-hidangan">
       <CardCategories
         :data="hidangan"
-        :kategori="`situs_bersejarah`"
+        :kategori="`situs-bersejarah`"
       ></CardCategories>
     </section>
   </main>
