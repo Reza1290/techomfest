@@ -14,7 +14,7 @@
             Di Bawah ini mana salah satu suku yang ada di {{ nama }}?
           </p>
         </div>
-        <div class="flex">
+        <div class="flex max-md:flex-col">
           <div class="flex gap-5 mt-2 w-full group" v-for="quizItem in quiz">
               <div class="w-full mx-2" v-for="(pil,quiz) in quizItem" :key="quiz">
                 <label

@@ -2,18 +2,18 @@
   <div
     class="max-[1400px]:h-max h-[1024px] flex max-[1400px]:flex-col items-center justify-between center max-[1000px]:px-[50px] py-[147px] px-[101px] relative overflow-hidden"
   >
-    <div class="w-96 h-96 -right-20 top-56 blob"></div>
+    <div class="w-96 h-96 lg:-right-20 top-40 lg:top-56 blob"></div>
     <div class="w-96 h-96 -left-20 bottom-10 blob"></div>
     <div class="w-[58%] max-[1400px]:w-full mr-3">
       <h3 class="font-bold max-sm:text-5xl text-7xl text-primary">Apa itu LokaBestari?</h3>
       <!-- <p class="mt-4 text-2xl italic font-normal text-accent">
         <span class="font-medium">loka</span> /lo·ka/ = dunia; tempat
       </p> -->
-      <p class="mt-4 text-2xl italic font-normal text-accent">
+      <p class="mt-4 text-lg lg:text-2xl italic font-normal text-accent">
         <span class="font-medium">bestari</span> /bes·ta·ri/ = luas dan dalam
         pengetahuannya; berpendidikan baik; baik budi pekerti
       </p>
-      <p class="text-2xl font-normal text-black mt-7">
+      <p class="text-base lg:text-2xl font-normal text-black mt-2 lg:mt-7">
         LokaBestari merupakan situs web yang mempersembahkan keanekaragaman
         budaya yang ada di Indonesia. <br />
         <br />Di LokaBestari, kami membangun sebuah ruang digital yang

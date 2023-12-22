@@ -19,7 +19,7 @@
               class="card-category-image bg-[url('~/assets/img/home/hidangan.png')]"
             ></div>
             <div
-              class="flex flex-col items-center justify-center w-full h-full gap-4 overflow-hidden backdrop-brightness-[.7] hover:backdrop-brightness-50 transition duration-500"
+              class="flex flex-col items-center justify-center w-full h-full gap-4 overflow-hidden backdrop-brightness-[.7] transition duration-500"
             >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -45,7 +45,7 @@
             class="cursor-pointer card-category"
           >
             <div
-              class="card-category-image bg-[url('~/assets/img/home/tarian.png')]"
+              class="card-category-image bg-[url('~/assets/img/home/kesenian.png')]"
             ></div>
             <div
               class="flex flex-col items-center justify-center w-full h-full gap-4 overflow-hidden backdrop-brightness-[.7] hover:backdrop-brightness-50 transition duration-500"
@@ -74,7 +74,7 @@
             class="cursor-pointer card-category"
           >
             <div
-              class="card-category-image bg-[url('~/assets/img/home/rumah.png')]"
+              class="card-category-image bg-[url('~/assets/img/home/rumah_adat.png')]"
             ></div>
             <div
               class="flex flex-col items-center justify-center w-full h-full gap-4 overflow-hidden backdrop-brightness-[.7] hover:backdrop-brightness-50 transition duration-500"
@@ -103,7 +103,7 @@
             class="cursor-pointer card-category"
           >
             <div
-              class="card-category-image bg-[url('~/assets/img/home/situs.png')]"
+              class="card-category-image bg-[url('~/assets/img/home/situs_bersejarah.png')]"
             ></div>
             <div
               class="flex flex-col items-center justify-center w-full h-full gap-4 overflow-hidden backdrop-brightness-[.7] hover:backdrop-brightness-50 transition duration-500"
@@ -131,3 +131,28 @@
     </div>
   </div>
 </template>
+
+<script>
+import { Swiper, SwiperSlide } from "swiper/vue"
+import "swiper/css"
+
+import "swiper/css/pagination"
+import "swiper/css/navigation"
+
+import { Pagination, Navigation, Autoplay } from "swiper/modules"
+
+import category from "~/data/category.json"
+
+export default {
+  components: {
+    Swiper,
+    SwiperSlide,
+  },
+  setup() {
+    return {
+      modules: [Autoplay, Pagination, Navigation],
+      category,
+    }
+  },
+}
+</script>

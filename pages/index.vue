@@ -4,8 +4,8 @@
     <About />
     <Kategori />
     <Eksplorasi />
-     
-    <section class="px-20 mt-20 mb-44">
+
+    <section class="px-5 lg:px-20 mt-20 mb-28 lg:mb-44">
       <GameCard></GameCard>
     </section>
   </NuxtLayout>

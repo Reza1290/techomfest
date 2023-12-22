@@ -19,9 +19,9 @@
       </p>
       <NuxtLink
         href="#about"
-        class="w-[203px] h-[59px] rounded-[13px] bg-[#8CFE5C] flex justify-center items-center mt-5"
+        class="w-[150px] h-[45px] lg:w-[203px] lg:h-[59px] rounded-[13px] bg-[#8CFE5C] flex justify-center items-center mt-5"
       >
-        <p class="text-xl text-[#1F420F] font-medium">Jelajahi</p>
+        <p class="text-lg lg:text-xl text-[#1F420F] font-medium">Jelajahi</p>
         <div class="ml-[14px]">
           <svg
             xmlns="http://www.w3.org/2000/svg"

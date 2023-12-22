@@ -2,10 +2,14 @@
   <NuxtLayout>
     <HeroHidangan></HeroHidangan>
     <InfoCard></InfoCard>
-    <section id="content1" class="relative py-20">
+    <section id="content1" class="relative py-14 lg:py-20">
       <div class="w-96 h-96 -left-48 top-56 blob"></div>
-      <div class="flex items-center justify-between w-full">
-        <p class="w-1/2 mx-auto text-xl font-medium">
+      <div
+        class="flex flex-col-reverse lg:flex-row items-center justify-between w-full"
+      >
+        <p
+          class="lg:w-1/2 lg:px-0 pl-4 pr-3 lg:py-0 py-5 mx-auto text-sm lg:text-left text-right lg:text-xl font-medium"
+        >
           Apa yang dimakan orang Indonesia? Seberapa penting makanan dalam
           tradisi Indonesia? Dari barat ke timur Indonesia, kita akan menemukan
           banyak kebiasaan makan yang unik. Ada 5000 resep tradisional yang
@@ -19,14 +23,26 @@
           keanekaragaman bumbu dan teknik memasak yang telah diwariskan dari
           generasi ke generasi.
         </p>
-        <img src="~/assets/images/categoriespage/hidangan/image1.png" alt="" />
+        <img
+          src="~/assets/images/categoriespage/hidangan/image1.png"
+          alt=""
+          class="w-[70%] md:w-[50%] self-end lg:self-auto lg:w-auto"
+        />
       </div>
     </section>
-    <section id="content2" class="relative py-20 overflow-hidden">
+    <section id="content2" class="relative py-10 lg:py-20 overflow-hidden">
       <div class="w-96 h-96 -right-36 top-56 blob"></div>
-      <div class="flex items-center justify-between w-full">
-        <img src="~/assets/images/categoriespage/hidangan/image2.png" alt="" />
-        <p class="w-1/2 mx-auto text-2xl font-medium">
+      <div
+        class="flex flex-col lg:flex-row items-center justify-between w-full"
+      >
+        <img
+          src="~/assets/images/categoriespage/hidangan/image2.png"
+          alt=""
+          class="w-[70%] md:w-[50%] self-start lg:self-auto lg:w-auto"
+        />
+        <p
+          class="lg:w-1/2 lg:px-0 pr-4 pl-3 lg:py-0 py-5 mx-auto text-sm lg:text-left text-left lg:text-xl font-medium"
+        >
           Cerita-cerita dalam Indonesia Food Culture dibuat dari keragaman
           budaya, warisan, upacara ritual, dan hasil lokal di setiap wilayah.
           Indonesia memiliki makanan umum yang dapat ditemukan di sebagian besar
@@ -44,20 +60,20 @@
       <div class="w-96 h-96 -left-36 top-36 blob"></div>
       <CarouselCategories></CarouselCategories>
     </section>
-    <section id="game-card" class="mb-20">
+    <section id="game-card" class="mb-20 px-5 lg:px-0">
       <GameCard></GameCard>
     </section>
   </NuxtLayout>
 </template>
 
 <script>
-import HeroHidangan from "~/components/categories/hidangan/Hero.vue";
-import InfoCard from "~/components/categories/hidangan/InfoCard.vue";
-import CarouselCategories from "~/components/categories/hidangan/CarouselCategories.vue";
+import HeroHidangan from "~/components/categories/hidangan/Hero.vue"
+import InfoCard from "~/components/categories/hidangan/InfoCard.vue"
+import CarouselCategories from "~/components/categories/hidangan/CarouselCategories.vue"
 
 export default {
   components: { HeroHidangan, InfoCard, CarouselCategories },
-};
+}
 </script>
 
 <style></style>

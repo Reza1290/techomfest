@@ -9,20 +9,21 @@
   ></div>
   <NuxtLayout>
     <div
-      class="flex flex-col justify-end items-center p-20 min-h-[450px] leading-tight"
+      class="flex flex-col justify-end items-center py-20 min-h-[450px] leading-tight"
     >
-      <h1 class="text-[#1F420F] font-bold uppercase text-[64px]">
+      <h1 class="text-[#1F420F] font-bold uppercase text-[64px] max-md:text-[40px] text-center">
         {{ prov.nama }}
       </h1>
-      <p class="text-start text-[36px] font-semibold">{{ prov.ibukota }}</p>
+      <p class="text-start text-[36px] max-md:text-[30px] font-semibold">{{ prov.ibukota }}</p>
     </div>
     <div class="container">
-      <h1 class="text-4xl font-bold">HIDANGAN</h1>
+      <h1 class="text-4xl font-bold max-md:text-3xl max-md:text-center">HIDANGAN</h1>
     </div>
-    <div class="flex p-20 justify-center relative w-full min-h-[600px]">
+    <div class="flex p-20 justify-center relative w-full min-h-[600px] max-md:min-h-[1000px] max-md:overflow-x-hidden">
+      <div class="w-96 h-96 -right-36 top-0 blob"></div>
       <div class="">
         <HidanganExploreCard
-          class="translate-x-[-200px] transition-transform"
+          class="translate-x-[-200px] max-xl:translate-x-[-100px] max-md:translate-x-[-150px] max-md:translate-y-[0px] on-transform"
           :rotate="`rotate-[10deg]`"
           :nama="prov.makanan[0].nama"
           :pembacaan="prov.makanan[0].noun"
@@ -32,7 +33,7 @@
       </div>
       <div class="">
         <HidanganExploreCard
-          class="translate-x-[-400px]"
+          class="translate-x-[-400px] max-xl:translate-x-[-200px]  max-md:translate-x-[-150px] max-md:translate-y-[150px] tansition-transform"
           :gambar="prov.image.makanan[1]"
           rotate="rotate-[-20deg]"
           :nama="prov.makanan[1].nama"
@@ -42,7 +43,7 @@
       </div>
       <div class="">
         <HidanganExploreCard
-          class="translate-x-[-600px]"
+          class="translate-x-[-600px] max-xl:translate-x-[-300px] max-md:translate-x-[-150px] max-md:translate-y-[250px] transition-transform"
           :gambar="prov.image.makanan[2]"
           rotate="rotate-[5deg]"
           :nama="prov.makanan[2].nama"
@@ -52,6 +53,7 @@
       </div>
     </div>
     <div class="mb-[500px]">
+      
       <TarianExploreCard
         :nama="prov.tarian.nama"
         :penjelasan="prov.tarian.penjelasan"
@@ -59,6 +61,8 @@
       />
     </div>
     <div class="container">
+      <div class="w-96 h-96 -left-36 blob"></div>
+
       <TriviaExploreCard :nama="prov.nama" :quiz="prov.quiz" />
     </div>
     <Eksplorasi />

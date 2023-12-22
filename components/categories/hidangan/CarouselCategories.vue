@@ -5,12 +5,19 @@
     </h1>
     <div class="w-3/4 mx-auto">
       <swiper
-        :slidesPerView="3"
         space-between="50"
         :modules="modules"
         :autoplay="{
           delay: 3000,
           disableOnInteraction: false,
+        }"
+        :breakpoints="{
+          640: {
+            slidesPerView: 2,
+          },
+          1024: {
+            slidesPerView: 3,
+          },
         }"
         class="mySwiper"
       >
@@ -22,7 +29,9 @@
               :src="`/_nuxt/assets/images/category/${item.icon}.png`"
               alt=""
             />
-            <span class="text-lg font-bold text-primary">{{ item.nama }}</span>
+            <span class="text-lg font-bold text-primary text-center">{{
+              item.nama
+            }}</span>
           </div>
         </swiper-slide>
       </swiper>
@@ -31,14 +40,14 @@
 </template>
 
 <script>
-import { Swiper, SwiperSlide } from "swiper/vue";
-import "swiper/css";
+import { Swiper, SwiperSlide } from "swiper/vue"
+import "swiper/css"
 
-import "swiper/css/pagination";
-import "swiper/css/navigation";
+import "swiper/css/pagination"
+import "swiper/css/navigation"
 
-import { Pagination, Navigation, Autoplay } from "swiper/modules";
-import category from "~/data/category.json";
+import { Pagination, Navigation, Autoplay } from "swiper/modules"
+import category from "~/data/category.json"
 
 export default {
   components: {
@@ -49,9 +58,9 @@ export default {
     return {
       modules: [Autoplay, Pagination, Navigation],
       category,
-    };
+    }
   },
-};
+}
 </script>
 
 <style></style>
