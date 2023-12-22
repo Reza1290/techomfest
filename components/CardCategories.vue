@@ -5,8 +5,8 @@
     <NuxtLink
       v-for="data in data"
       :key="data.id"
-      :to="`/kategori/hidangan/${data.nama}`"
-      class="w-full overflow-hidden bg-white shadow-2xl rounded-3xl"
+      :to="`/kategori/hidangan/${data.id}`"
+      class="w-full overflow-hidden bg-white shadow-2xl rounded-3xl hover:shadow-2xl hover:scale-105 transition-all duration-300"
     >
       <img
         :src="`/images/${kategori}/${data.gambar}.jpeg`"

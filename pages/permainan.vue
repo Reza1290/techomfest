@@ -7,22 +7,21 @@
 </template>
 
 <script>
-import explore from '~/data/explore.json';
+import explore from "~/data/explore.json"
 
 export default {
   data() {
     return {
       prov: null,
-    };
+    }
   },
   methods: {
     getDataQuiz(id) {
-      this.prov = explore.data[id];
+      this.prov = explore.data[id]
     },
   },
-  mounted() {
-    this.getDataQuiz(2);
-    console.log(this.prov);
+  mounted: () => {
+    this.getDataQuiz(2)
   },
-};
+}
 </script>

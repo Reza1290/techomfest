@@ -9,7 +9,7 @@
       </p>
       <a
         href="#"
-        class="px-5 py-3 mt-6 text-base lg:text-xl font-bold bg-secondary rounded-xl"
+        class="px-5 py-3 mt-6 text-base lg:text-xl font-bold bg-secondary rounded-xl hover:scale-110 hover:cursor-pointer transition duration-500"
         >Coba Sekarang 🎮</a
       >
     </div>

@@ -1,34 +1,42 @@
 [
   {
     "nama": "Hidangan",
+    "slug": "hidangan",
     "icon": "hidangan"
   },
   {
-    "nama": "Kesenian",
-    "icon": "kesenian"
+    "nama": "Tarian Adat",
+    "slug": "tarian-adat",
+    "icon": "tari"
   },
   {
     "nama": "Rumah Adat",
+    "slug": "rumah-adat",
     "icon": "rumah_adat"
   },
   {
     "nama": "Situs Bersejarah",
+    "slug": "situs-bersejarah",
     "icon": "situs_bersejarah"
   },
   {
     "nama": "Pakaian Adat",
+    "slug": "pakaian-adat",
     "icon": "pakaian_adat"
   },
   {
-    "nama": "Agama",
-    "icon": "agama"
+    "nama": "Alat Musik",
+    "slug": "alat-musik",
+    "icon": "alatmusik"
   },
   {
     "nama": "Upacara Adat",
+    "slug": "upacara-adat",
     "icon": "upacara_adat"
   },
   {
     "nama": "Senjata Tradisional",
+    "slug": "senjata-tradisional",
     "icon": "senjata_tradisional"
   }
 ]

@@ -13,7 +13,7 @@
         <NuxtLink
           v-for="category in category"
           :key="category.nama"
-          :to="`/kategori/${category.nama}`"
+          :to="`/kategori/${category.slug}`"
           class="flex flex-col items-center justify-center transition-all duration-300 rounded-lg cursor-pointer bg-secondary h-64 lg:h-80 gap-y-5 hover:scale-105"
         >
           <img

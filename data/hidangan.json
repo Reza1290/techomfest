@@ -3,19 +3,37 @@
     "id": 1,
     "nama": "Rawon",
     "asal": "Jawa Timur",
-    "gambar": "rawon"
+    "kota": "Bandung",
+    "gambar": "rawon",
+    "deskripsi": [
+      "Rendang adalah masakan khas Indonesia tepatnya berasal dari Padang, Sumatera Barat yang terkenal di seluruh dunia.",
+      "Pada tahun 2011 dan 2017, rendang terpilih sebagai makanan terenak di dunia. Nama asli rendang adalah randang, yang diambil dari kata ‘merandang,’ artinya ‘lambat.’ Hal ini merujuk pada durasi memasak rendang yang lama, minimal delapan jam, bahkan ada yang memasak semalaman.",
+      "Rendang dimasak dalam beberapa tahapan hingga bumbu meresap sempurna ke dalam daging. Saat membelah daging rendang, terdapat serat-serat lengket"
+    ]
   },
   {
     "id": 2,
     "nama": "Lumpia Semarang",
     "asal": "Jawa Tengah",
-    "gambar": "lumpia"
+    "kota": "Bandung",
+    "gambar": "lumpia",
+    "deskripsi": [
+      "Rendang adalah masakan khas Indonesia tepatnya berasal dari Padang, Sumatera Barat yang terkenal di seluruh dunia.",
+      "Pada tahun 2011 dan 2017, rendang terpilih sebagai makanan terenak di dunia. Nama asli rendang adalah randang, yang diambil dari kata ‘merandang,’ artinya ‘lambat.’ Hal ini merujuk pada durasi memasak rendang yang lama, minimal delapan jam, bahkan ada yang memasak semalaman.",
+      "Rendang dimasak dalam beberapa tahapan hingga bumbu meresap sempurna ke dalam daging. Saat membelah daging rendang, terdapat serat-serat lengket"
+    ]
   },
   {
     "id": 3,
     "nama": "Seblak",
+    "kota": "Bandung",
     "asal": "Jawa barat",
-    "gambar": "seblak"
+    "gambar": "seblak",
+    "deskripsi": [
+      "Rendang adalah masakan khas Indonesia tepatnya berasal dari Padang, Sumatera Barat yang terkenal di seluruh dunia.",
+      "Pada tahun 2011 dan 2017, rendang terpilih sebagai makanan terenak di dunia. Nama asli rendang adalah randang, yang diambil dari kata ‘merandang,’ artinya ‘lambat.’ Hal ini merujuk pada durasi memasak rendang yang lama, minimal delapan jam, bahkan ada yang memasak semalaman.",
+      "Rendang dimasak dalam beberapa tahapan hingga bumbu meresap sempurna ke dalam daging. Saat membelah daging rendang, terdapat serat-serat lengket"
+    ]
   },
   {
     "id": 4,
@@ -33,12 +51,24 @@
     "id": 5,
     "nama": "Mie Gomak",
     "asal": "Sumatera Utara",
-    "gambar": "gomak"
+    "kota": "Bandung",
+    "gambar": "gomak",
+    "deskripsi": [
+      "Rendang adalah masakan khas Indonesia tepatnya berasal dari Padang, Sumatera Barat yang terkenal di seluruh dunia.",
+      "Pada tahun 2011 dan 2017, rendang terpilih sebagai makanan terenak di dunia. Nama asli rendang adalah randang, yang diambil dari kata ‘merandang,’ artinya ‘lambat.’ Hal ini merujuk pada durasi memasak rendang yang lama, minimal delapan jam, bahkan ada yang memasak semalaman.",
+      "Rendang dimasak dalam beberapa tahapan hingga bumbu meresap sempurna ke dalam daging. Saat membelah daging rendang, terdapat serat-serat lengket"
+    ]
   },
   {
     "id": 6,
     "nama": "Papeda",
     "asal": "Papua",
-    "gambar": "papeda"
+    "kota": "Bandung",
+    "gambar": "papeda",
+    "deskripsi": [
+      "Rendang adalah masakan khas Indonesia tepatnya berasal dari Padang, Sumatera Barat yang terkenal di seluruh dunia.",
+      "Pada tahun 2011 dan 2017, rendang terpilih sebagai makanan terenak di dunia. Nama asli rendang adalah randang, yang diambil dari kata ‘merandang,’ artinya ‘lambat.’ Hal ini merujuk pada durasi memasak rendang yang lama, minimal delapan jam, bahkan ada yang memasak semalaman.",
+      "Rendang dimasak dalam beberapa tahapan hingga bumbu meresap sempurna ke dalam daging. Saat membelah daging rendang, terdapat serat-serat lengket"
+    ]
   }
 ]

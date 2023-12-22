@@ -1,0 +1,375 @@
+[
+  {
+    "id": 1,
+    "nama": "Rencong",
+    "asal": "Nanggroe Aceh Darussalam",
+    "gambar": "rencong",
+    "deskripsi": [
+      "Rencong adalah senjata tradisional dari Aceh.",
+      "Rencong terbuat dari bahan metal, seperti kuningan atau besi, dan gagangnya terbuat dari tanduk kerbau.",
+      "Secara umum, masyarakat Aceh mengenal 4 jenis Rencong yakni Rencong Meukure, Rencong Pudoi, Rencong Meupucok, Rencong Meucegek."
+    ]
+  },
+  {
+    "id": 2,
+    "nama": "Piso Surit",
+    "asal": "Sumatra Utara",
+    "gambar": "piso_surit",
+    "deskripsi": [
+      "Sumatra Utara punya senjata tradisional bernama Piso Surit.",
+      "Kata 'piso' sendiri artinya pisau."
+    ]
+  },
+  {
+    "id": 3,
+    "nama": "Kerambit",
+    "asal": "Sumatra Barat",
+    "gambar": "kerambit",
+    "deskripsi": [
+      "Kerambit adalah pisau genggam yang bentuknya melengkung, senjata tradisional Sumatra Barat.",
+      "Menurut Buku Pintar 34 Provinsi di Indonesia oleh Kurniawan Dinihari, bentuknya terinspirasi oleh cakar harimau."
+    ]
+  },
+  {
+    "id": 4,
+    "nama": "Pedang Jenawi",
+    "asal": "Riau",
+    "gambar": "pedang_jenawi",
+    "deskripsi": [
+      "Pedang Jenawi merupakan senjata khas Riau yang konon sering digunakan para panglima dan prajurit dalam peperangan di masa lalu."
+    ]
+  },
+  {
+    "id": 5,
+    "nama": "Badik Tumbuk Lado",
+    "asal": "Kepulauan Riau",
+    "gambar": "badik_tumbuk_lado",
+    "deskripsi": [
+      "Badik Tumbuk Lado adalah jenis senjata berbentuk keris, yang punya bilah mirip badik dari Sulawesi. Panjang bilahnya sekitar 27-39 cm dengan lebar antara 3,5 - 4 cm."
+    ]
+  },
+  {
+    "id": 6,
+    "nama": "Keris Jambi",
+    "asal": "Jambi",
+    "gambar": "keris_jambi",
+    "deskripsi": [
+      "Keris khas Jambi menjadi senjata tradisional yang bentuk kedua sisi belahnya meruncing tajam. Senjata ini adalah senjata tusuk genggam. Salah satu keris pusaka di Jambi ialah Keris Siginjai."
+    ]
+  },
+  {
+    "id": 7,
+    "nama": "Trisula dan Keris",
+    "asal": "Sumatra Selatan",
+    "gambar": "trisula_dan_keris",
+    "deskripsi": [
+      "Keris khas Palembang ini punya lekukan yang ganjil dan trisula merupakan alat sejenis tombak."
+    ]
+  },
+  {
+    "id": 8,
+    "nama": "Siwar Panjang",
+    "asal": "Bangka Belitung",
+    "gambar": "siwar_panjang",
+    "deskripsi": [
+      "Siwar Panjang adalah senjata tradisional dari Bangka Belitung, yang mirip pedang panjang. Bentuknya memancing di bagian ujungnya dan lurus."
+    ]
+  },
+  {
+    "id": 9,
+    "nama": "Keris",
+    "asal": "Bengkulu",
+    "gambar": "keris_bengkulu",
+    "deskripsi": [
+      "Keris senjata tradisional khas Bengkulu memiliki panjang 13 jari dan bentuknya lurus. Keris ini biasanya digunakan para kepala adat suku sana pada saat perang, upacara para adat, atau untuk membela diri."
+    ]
+  },
+  {
+    "id": 10,
+    "nama": "Terapang",
+    "asal": "Lampung",
+    "gambar": "terapang",
+    "deskripsi": [
+      "Berdasarkan catatan detikcom, terapang adalah senjata yang bentuknya keris gabus. Zaman dahulu, terapang digunakan masyarakat Lampung sebagai senjata untuk berperang."
+    ]
+  },
+  {
+    "id": 11,
+    "nama": "Golok Ciomas",
+    "asal": "Banten",
+    "gambar": "golok_ciomas",
+    "deskripsi": [
+      "Golok ciomas merupakan senjata tradisional asal Banten. Bagi masyarakat Banten, golok ciomas juga dianggap sebagai senjata yang daya magis. Konon, senjata ini perlu dibuat pada bulan Mulud (Rabi'ul Awal dalam kalender Hijriah)."
+    ]
+  },
+  {
+    "id": 12,
+    "nama": "Dohong",
+    "asal": "Kalimantan Barat",
+    "gambar": "dohong",
+    "deskripsi": [
+      "Dohong asal Kalimantan Barat, menjadi senjata tradisional khususnya bagi suku Dayak Ngaju. Dohong bentuknya seperti tombak yang bisa beralih fungsi sebagai pisau."
+    ]
+  },
+  {
+    "id": 13,
+    "nama": "Mandau",
+    "asal": "Kalimantan Timur",
+    "gambar": "mandau",
+    "deskripsi": [
+      "Mandau adalah senjata tradisional asal Kalimantan Timur, yang dibuat oleh sang pandai besi. Senjata ini diberi hiasan ukiran burung Enggang.",
+      "Selain dikenal melambangkan perjuangan rakyat Kaltim, senjata ini juga dikenal memiliki kekuatan gaib."
+    ]
+  },
+  {
+    "id": 14,
+    "nama": "Keris Bujak Beliung",
+    "asal": "Kalimantan Selatan",
+    "gambar": "keris_bujak_beliung",
+    "deskripsi": [
+      "Keris Bujak Beliung merupakan senjata tradisional dari daerah Kalimantan Selatan.",
+      "Senjata ini memiliki panjang sekitar 30 cm serta memiliki ciri khas pada bagian ujung bawahnya, di mana terdapat ukiran khas suku Kalimantan Selatan yang terdapat filosofi di dalamnya."
+    ]
+  },
+  {
+    "id": 15,
+    "nama": "Lunduk Sumpit",
+    "asal": "Kalimantan Tengah",
+    "gambar": "lunduk_sumpit",
+    "deskripsi": [
+      "Senjata tradisional ini sering digunakan dalam pertempuran terbuka, sekaligus menjadi senjata rahasia untuk pembunuhan diam-diam masyarakat Kalteng. Selain itu, senjata ini juga cocok untuk digunakan dalam membunuh pada jarak jauh."
+    ]
+  },
+  {
+    "id": 16,
+    "nama": "Lonjo",
+    "asal": "Kalimantan Utara",
+    "gambar": "lonjo",
+    "deskripsi": [
+      "Lonjo adalah senjata tradisional Kalimantan Utara, khususnya masyarakat Dayak.",
+      "Bentuk Lonjo adalah berupa mata tombak yang terbuat dari besi, lalu dipasang atau diikat dengan anyaman rotan serta bertangkai yang berasal dari bambu atau kayu keras."
+    ]
+  },
+  {
+    "id": 17,
+    "nama": "Golok Betawi",
+    "asal": "DKI Jakarta",
+    "gambar": "golok_betawi",
+    "deskripsi": [
+      "Golok Betawi adalah senjata tradisional yang populer. Menjadi senjata tradisional, sampai dengan tahun 1960-an, para laki-laki punya kebiasaan membawa golok di pinggangnya.",
+      "Peranan golok juga bisa kenali dari cerita-cerita dan film terkenal seperti Si Jampang Jago Betawi, Si Mirah (Si Betina dari Marunda), hingga Si Pitung dari Rawabelong."
+    ]
+  },
+  {
+    "id": 18,
+    "nama": "Kujang",
+    "asal": "Jawa Barat",
+    "gambar": "kujang",
+    "deskripsi": [
+      "Kujang merupakan senjata tradisional asal Jawa Barat. Nama kujang sendiri diambil dari gabungan dari kata Kudi dan Hyang.",
+      "Di bahasa Sunda, lata 'Kudi' berarti senjata berkekuatan sakti, sementara kata 'Hyang' artinya kedudukan di atas dewa."
+    ]
+  },
+  {
+    "id": 19,
+    "nama": "Keris",
+    "asal": "Jawa Tengah",
+    "gambar": "keris_jawa_tengah",
+    "deskripsi": [
+      "Keris khas Jawa Tengah adalah senjata tradisional yang memiliki nilai seni tinggi. Daya sering keris dapat melumpuhkan lawan dari jarak dekat."
+    ]
+  },
+  {
+    "id": 20,
+    "nama": "Keris dan Tombak",
+    "asal": "Daerah Istimewa Yogyakarta",
+    "gambar": "keris_dan_tombak_yogyakarta",
+    "deskripsi": [
+      "DIY Yogyakarta memiliki senjata tradisional berupa keris dan tombak.",
+      "Dalam buku repository Kemdikbud Senjata Tradisional Daerah Istimewa Yogyakarta oleh Sumintarsih, dkk., peperangan keris digunakan saat sedang berhadapan begitu dekat dengan lawan.",
+      "Sementara tombak digunakan sebagai alat lempar atau tusuk saat peperangan atau saat sedang berburu."
+    ]
+  },
+  {
+    "id": 21,
+    "nama": "Clurit",
+    "asal": "Jawa Timur",
+    "gambar": "clurit",
+    "deskripsi": [
+      "Clurit merupakan senjata tradisional asal Jawa Timur, khususnya di daerah Madura. Senjata ini terbuat dari besi baja, sejenis arit yang bentuknya sabit melengkung setengah lingkaran."
+    ]
+  },
+  {
+    "id": 22,
+    "nama": "Keris",
+    "asal": "Bali",
+    "gambar": "keris_bali",
+    "deskripsi": [
+      "Ciri Keris Bali adalah bentuknya yang cukup besar dan panjang, yang terbuat dari kayu dan berhiaskan susunan batu permata. Senjata ini digunakan untuk mempertahankan dan membela diri."
+    ]
+  },
+  {
+    "id": 23,
+    "nama": "Keris",
+    "asal": "Nusa Tenggara Barat",
+    "gambar": "keris_ntb",
+    "deskripsi": [
+      "NTB memiliki beberapa jenis keris, di antaranya keris Sampari dan keris Sondi. Masyarakat Lombok menamakan Sondi dengan Grantim."
+    ]
+  },
+  {
+    "id": 24,
+    "nama": "Parang",
+    "asal": "Nusa Tenggara Timur",
+    "gambar": "parang_ntt",
+    "deskripsi": [
+      "Dalam buku repository Kemdikbud Senjata Tradisional Daerah Nusa Tenggara Timur yang disusun oleh B.K. Kotten, dkk., Parang digunakan sebagai senjata untuk kebutuhan perang untuk orang-orang tertentu.",
+      "Biasanya Parang terbuat dari besi baja atau besi tua, dengan ganggang yang terbuat dari kayu. Dalam bahasa daerah Lamaholot di Flores Timur, Parang disebut juga peda atau kenube."
+    ]
+  },
+  {
+    "id": 25,
+    "nama": "Baladu",
+    "asal": "Gorontalo",
+    "gambar": "baladu",
+    "deskripsi": [
+      "Dikutip dari laman Museum Pemerintah Provinsi Gorontalo, Baladu dadalah senjata tradisional masyarakat Gorontalo dalam perang pada zaman dahulu.",
+      "Baladu bentuknya seperti keris pendek dengan ukiran pandungo, yang bermotif mahkota serta tameng (taupo) dari kayu hitam."
+    ]
+  },
+  {
+    "id": 26,
+    "nama": "Badik",
+    "asal": "Sulawesi Barat",
+    "gambar": "badik",
+    "deskripsi": [
+      "Badik menjadi salah satu simbol identitas bagi masyarakat Sulawesi.",
+      "Pada era Luwu Kuno (Klasik), Badik dikenal dengan sebutan Kalio.",
+      "Pada zaman dahulu, Badik lebih banyak digunakan sebagai alat-alat pertanian.",
+      "Seiring berjalannya waktu, Badik digunakan sebagai senjata dalam bertahan hidup, kala masyarakat Bugis terancam untuk menjaga diri."
+    ]
+  },
+  {
+    "id": 27,
+    "nama": "Pasatimpo",
+    "asal": "Sulawesi Tengah",
+    "gambar": "pasatimpo",
+    "deskripsi": [
+      "Pasatimpo adalah senjata tradisional dari Sulawesi Tengah, bentuknya mirip pedang.",
+      "Bentuk hulunya bengkok ke bawah dan ada tali di sarungnya."
+    ]
+  },
+  {
+    "id": 28,
+    "nama": "Peda",
+    "asal": "Sulawesi Utara",
+    "gambar": "peda",
+    "deskripsi": [
+      "Peda khas Sulawesi terbuat dari baja atau besi.",
+      "Bentuknya mirip parang berukuran 50 cm."
+    ]
+  },
+  {
+    "id": 29,
+    "nama": "Lembing",
+    "asal": "Sulawesi Tenggara",
+    "gambar": "lembing",
+    "deskripsi": [
+      "Lembing merupakan salah satu senjata tradisional dari Sulawesi Tenggara.",
+      "Senjata ini digunakan untuk berperang jarak jauh."
+    ]
+  },
+  {
+    "id": 30,
+    "nama": "Bessing Banranga",
+    "asal": "Sulawesi Selatan",
+    "gambar": "bessing_banranga",
+    "deskripsi": [
+      "Bessing Banranga adalah senjata tradisional asal Sulawesi Selatan.",
+      "Senjata ini berbentuk tombak bercabang dari besi dan ganggang yang terbuat dari kayu, dengan panjang sekitar 1 meter lebih."
+    ]
+  },
+  {
+    "id": 31,
+    "nama": "Parang Salawaku",
+    "asal": "Maluku",
+    "gambar": "parang_salawaku",
+    "deskripsi": [
+      "Parang Salawaku adalah senjata tradisional yang berasal dari Maluku.",
+      "Senjata ini terdiri dari Parang (pisau panjang) dan Salawaku atau perisai.",
+      "Digunakan untuk berperang dan berburu binatang di hutan."
+    ]
+  },
+  {
+    "id": 32,
+    "nama": "Parang Salawaku dan Tombak",
+    "asal": "Maluku Utara",
+    "gambar": "parang_salawaku_dan_tombak",
+    "deskripsi": [
+      "Senjata tradisional masyarakat Maluku Utara sama dengan yang ada di Maluku, yakni Parang Salawaku."
+    ]
+  },
+  {
+    "id": 33,
+    "nama": "Tombak",
+    "asal": "Papua",
+    "gambar": "tombak",
+    "deskripsi": [
+      "Tombak termasuk senjata tradisional masyarakat Papua, seperti Suku Dani.",
+      "Panjang tombak umumnya ada di antara 2-3 meter.",
+      "Digunakan untuk berburu dan berperang mempertahankan atau merebut wilayah kekuasaan."
+    ]
+  },
+  {
+    "id": 34,
+    "nama": "Pisau Belati",
+    "asal": "Papua Barat",
+    "gambar": "pisau_belati",
+    "deskripsi": [
+      "Pisau Belati memiliki ujung yang runcing dengan kedua sisi yang tajam.",
+      "Kesamaan budaya di Papua dan Papua Barat bisa dijumpai dari senjata tradisionalnya yang sama, yakni Pisau Belati."
+    ]
+  },
+  {
+    "id": 35,
+    "nama": "Panah",
+    "asal": "Papua Pegunungan",
+    "gambar": "panah",
+    "deskripsi": [
+      "Masyarakat Kecamatan Kurulu di Papua Pegunungan mengenal dua jenis bentuk panah.",
+      "Panah Supa digunakan untuk berperang, sementara Panah Warn Wakiwy dipakai untuk berburu burung.",
+      "Perbedaan keduanya terletak pada bentuk anak panahnya.",
+      "Panah tidak hanya digunakan untuk berperang dan berburu, tapi juga sebagai alat olahraga."
+    ]
+  },
+  {
+    "id": 36,
+    "nama": "Busur Panah",
+    "asal": "Papua Tengah",
+    "gambar": "busur_panah",
+    "deskripsi": [
+      "Senjata tradisional dari Provinsi Papua Tengah sama dengan Papua, yaitu busur panah.",
+      "Umumnya busur panah terbuat dari bambu dan kayu."
+    ]
+  },
+  {
+    "id": 37,
+    "nama": "Tombak",
+    "asal": "Papua Selatan",
+    "gambar": "tombak_papua_selatan",
+    "deskripsi": [
+      "Senjata tradisional dari Provinsi Papua Selatan adalah tombak yang terbuat dari kayu.",
+      "Mata tombak biasanya terbuat dari batu kali yang diasah hingga tajam."
+    ]
+  },
+  {
+    "id": 38,
+    "nama": "Pisau Belati",
+    "asal": "Papua Barat Daya",
+    "gambar": "pisau_belati_papua_barat_daya",
+    "deskripsi": [
+      "Papua Barat Daya adalah provinsi di Indonesia yang merupakan pemekaran dari Papua Barat.",
+      "Memiliki kesamaan budaya dari senjata tradisionalnya dari Papua Barat seperti Pisau Belati."
+    ]
+  }
+]

@@ -1,0 +1,427 @@
+[
+  {
+    "id": 1,
+    "nama": "Ulee Balang",
+    "asal": "Aceh",
+    "gambar": "ulee_balang",
+    "deskripsi": [
+      "Ulee Balang adalah pakaian adat yang berasal dari provinsi Aceh. Awalnya, pakaian ini hanya dipakai oleh keluarga raja, tetapi sekarang telah menjadi pakaian adat Aceh dan sering dipakai untuk upacara adat.",
+      "Pakaian Ulee Balang untuk pria disebut Linto Baro, yang terdiri dari tiga bagian: bagian atas (meukeutop), tengah (meukasah), dan bawah (celana cekek musang atau sileuweu). Sedangkan untuk wanita, pakaian ini disebut Daro Baro, yang berupa baju kurung.",
+
+      "Konon, pakaian adat ini sudah ada sejak masa Kerajaan Samudera Pasai1. Pakaian ini mencerminkan sejarah, nilai-nilai, dan identitas masyarakat Aceh."
+    ]
+  },
+  {
+    "id": 2,
+    "nama": "Ulos",
+    "asal": "Sumatra Utara",
+    "gambar": "ulos",
+    "deskripsi": [
+      "Ulos adalah pakaian adat khas masyarakat Batak di Sumatera Utara, Indonesia. Pada awalnya, Ulos digunakan sebagai pakaian sehari-hari oleh masyarakat Batak. Kain ini sering digunakan dalam upacara adat dan memiliki berbagai jenis, seperti Ulos Sadum, Ulos Mangiring, Ulos Bintang Maratur, Ulos Harungguan, Ulos Lae Mangiring, dan Ulos Hela.",
+
+      "Ulos dibuat dari bahan sutra dan diproses dengan cara ditenun. Warna dominan pada Ulos adalah merah, hitam, dan putih, yang dihiasi oleh ragam tenunan dari benang emas atau perak. Selain dipakai sebagai pakaian, Ulos juga digunakan sebagai penutup kepala, selendang, dan bahkan sebagai barang suvenir seperti sarung bantal, ikat pinggang, tas, pakaian, alas meja, dasi, dompet, dan gorden.",
+
+      "Ulos memiliki makna yang mendalam dalam budaya Batak. Ulos dianggap sebagai simbol restu, kasih sayang, dan persatuan. Dalam setiap kegiatan adat seperti pernikahan, kelahiran, dan dukacita, Ulos selalu menjadi bagian penting yang diikutsertakan."
+    ]
+  },
+  {
+    "id": 3,
+    "nama": "Bundo Kanduang",
+    "asal": "Sumatra Barat",
+    "gambar": "bundo_kanduang",
+    "deskripsi": [
+      "Bundo Kanduang adalah pakaian adat yang berasal dari Minangkabau, Sumatera Barat. Pakaian ini biasanya dikenakan oleh perempuan yang telah menikah dan merupakan simbol dari pentingnya peran seorang ibu dalam sebuah keluarga. Nama lain dari pakaian ini adalah Limpapeh Rumah Nan Gadang.",
+      "Pakaian ini biasanya berwarna hitam, merah, biru, atau lembayung dan dihiasi dengan benang emas dan tepinya diberi minsai. Minsai-nya memiliki makna simbolik, bahwa seorang bundo kanduang dan kaumnya harus mematuhi batas-batas adat dan tidak boleh melanggarnya"
+    ]
+  },
+  {
+    "id": 4,
+    "nama": "Teluk Belanga",
+    "asal": "Riau",
+    "gambar": "teluk_belanga",
+    "deskripsi": [
+      "Teluk Belanga adalah pakaian adat pria yang berasal dari Provinsi Kepulauan Riau. Pakaian ini sering dikenakan pada saat upacara adat atau pernikahan.",
+
+      "Pakaian Teluk Belanga terdiri dari baju, celana, dan kain samping serta penutup kepala. Leher baju berkerah dan berkancing, jumlah lazimnya lima buah dan itu melambangkan rukun Islam. Biasanya menggunakan kain songket. Cara memasangnya pun bervariasi, ada yang dilipat sirih didepan dengan bagian kanan sebelah atas. Ada pula yang dipunjut kesamping, tergantung siapa pemakainya. Pada penutup kepala juga bervariasi, berupa songkok, ikat kepala atau juga tanjak"
+    ]
+  },
+  {
+    "id": 5,
+    "nama": "Kebaya Laboh",
+    "asal": "Riau",
+    "gambar": "kebaya_laboh",
+    "deskripsi": [
+      "Kebaya Labuh adalah pakaian adat wanita yang berasal dari Riau dan Kepulauan Riau. Pakaian ini biasa dikenakan pada saat upacara adat dan acara-acara resmi. Kebaya Labuh merupakan salah satu jenis busana kurung yang banyak dipakai oleh masyarakat suku Melayu",
+
+      "Kebaya Labuh menggunakan tiga kancing yang disemat dengan pin atau keronsang. Baju kurung tidak pula berkerah, tiap ujungnya direnda. Pakaian ini konon menjadi jenis baju kurung tertua yang masih ada hingga saat ini"
+    ]
+  },
+  {
+    "id": 6,
+    "nama": "Rejang Lebong",
+    "asal": "Bengkulu",
+    "gambar": "rejang_lebong",
+    "deskripsi": [
+      "Rejang Lebong adalah pakaian adat yang berasal dari Provinsi Bengkulu. Pakaian ini memiliki campuran budaya dari Melayu Jambi, Riau, Deli, Palembang, dan Lampung, sehingga memiliki keunikan dan ciri khas tersendiri. Pakaian ini biasanya digunakan untuk busana pengantin dalam pernikahan, maupun sebagai busana tari tradisional untuk festival dan penyambutan acara khusus"
+    ]
+  },
+  {
+    "id": 7,
+    "nama": "Kurung Tanggung",
+    "asal": "Jambi",
+    "gambar": "kurung_tanggung",
+    "deskripsi": [
+      "Kurung Tanggung adalah pakaian adat yang berasal dari Provinsi Jambi. Pakaian ini biasanya dipakai oleh laki-laki dan perempuan masyarakat Jambi untuk acara pernikahan",
+
+      "Pakaian ini dinamakan Kurung Tanggung karena baju tersebut memiliki lengan yang tanggung, panjangnya lebih dari siku tapi tidak sampai pergelangan tangan. Untuk penggunaan lengan semacam ini memiliki filosofi bahwa pria Melayu Jambi harus tangkas dan cekatan saat bekerja. Teknik pembuatannya sendiri dengan tenun dan bordir"
+    ]
+  },
+  {
+    "id": 8,
+    "nama": "Tulang Bawang",
+    "asal": "Lampung",
+    "gambar": "tulang_bawang",
+    "deskripsi": [
+      "Tulang Bawang adalah pakaian adat yang berasal dari Provinsi Lampung. Pakaian ini biasanya digunakan baik untuk pesta pernikahan maupun sebagai busana tari untuk simbol penghormatan budaya asli"
+    ]
+  },
+  {
+    "id": 9,
+    "nama": "Aesan Gede",
+    "asal": "Sumatra Selatan",
+    "gambar": "aesan_gede",
+    "deskripsi": [
+      "Aesan Gede adalah pakaian adat yang berasal dari Palembang, Sumatera Selatan. Nama Aesan Gede memiliki arti “hiasan pembesar” dan berkaitan dengan julukan Sumatra sebagai Suwarna-dwipa atau 'pulau emas’. Pakaian ini melambangkan kebesaran dan keagungan Kerajaan Sriwijaya pada masa silam",
+
+      "Biasanya, Aesan Gede digunakan untuk upacara pernikahan karena melambangkan kebesaran orang yang mengenakannya. Pakaian ini terbuat dari kain songket yang dulu sering dipergunakan oleh kaum bangsawan. Pakaian ini didominasi warna merah dengan sulaman benang emas",
+
+      "Pakaian Aesan Gede memiliki berbagai motif hiasan, seperti motif bunga melati, motif bunga mawar, motif pucuk rebung, dan motif bunga tanjung. Setiap motif memiliki makna simbolis tersendiri. Misalnya, motif bunga melati melambangkan kesucian, keanggunan, dan sopan santun dari mempelai wanita."
+    ]
+  },
+  {
+    "id": 10,
+    "nama": "Paksian",
+    "asal": "Bangka Belitung",
+    "gambar": "paksian",
+    "deskripsi": [
+      "Paksian adalah pakaian adat yang berasal dari Provinsi Kepulauan Bangka Belitung. Pakaian ini biasanya digunakan sebagai busana pengantin yang khas dari Kota Pangkalpinang",
+
+      "Pakaian ini memiliki pengaruh dari budaya China dan Arab. Menurut cerita, ada saudagar dari Arab datang ke negeri China untuk berdagang sambil menyiarkan agama Islam. Saudagar tersebut jatuh cinta dengan seorang gadis China, dan mereka melangsungkan pernikahan dengan mengenakan pakaian adat masing-masing. Karena banyak orang-orang China dan Arab yang datang merantau ke Pulau Bangka, banyak penduduk yang meniru pakaian adat itu"
+    ]
+  },
+  {
+    "id": 11,
+    "nama": "Baju Pangsi",
+    "asal": "Banten",
+    "gambar": "baju_pangsi",
+    "deskripsi": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    ]
+  },
+  {
+    "id": 12,
+    "nama": "Kebaya Encim",
+    "asal": "DKI Jakarta",
+    "gambar": "kebaya_encim",
+    "deskripsi": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    ]
+  },
+  {
+    "id": 13,
+    "nama": "Sadariah",
+    "asal": "DKI Jakarta",
+    "gambar": "sadariah",
+    "deskripsi": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    ]
+  },
+  {
+    "id": 14,
+    "nama": "Bedahan",
+    "asal": "Jawa Barat",
+    "gambar": "bedahan",
+    "deskripsi": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    ]
+  },
+  {
+    "id": 15,
+    "nama": "Kebaya Sunda",
+    "asal": "Jawa Barat",
+    "gambar": "kebaya_sunda",
+    "deskripsi": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    ]
+  },
+  {
+    "id": 16,
+    "nama": "Kebaya Jawa",
+    "asal": "Jawa Tengah",
+    "gambar": "kebaya_jawa",
+    "deskripsi": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    ]
+  },
+  {
+    "id": 17,
+    "nama": "Baju Ageng",
+    "asal": "DI Yogyakarta",
+    "gambar": "baju_ageng",
+    "deskripsi": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    ]
+  },
+  {
+    "id": 18,
+    "nama": "Pesa'an",
+    "asal": "Jawa Timur",
+    "gambar": "pesa_an",
+    "deskripsi": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    ]
+  },
+  {
+    "id": 19,
+    "nama": "King Baba",
+    "asal": "Kalimantan Barat",
+    "gambar": "king_baba",
+    "deskripsi": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    ]
+  },
+  {
+    "id": 20,
+    "nama": "King Tompang",
+    "asal": "Kalimantan Barat",
+    "gambar": "king_tompang",
+    "deskripsi": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    ]
+  },
+  {
+    "id": 21,
+    "nama": "Kustin",
+    "asal": "Kalimantan Timur",
+    "gambar": "lainnya",
+    "deskripsi": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    ]
+  },
+  {
+    "id": 22,
+    "nama": "Babaju Kun Galung Pacinan",
+    "asal": "Kalimantan Selatan",
+    "gambar": "lainnya",
+    "deskripsi": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    ]
+  },
+  {
+    "id": 23,
+    "nama": "Sangkarut",
+    "asal": "Kalimantan Tengah",
+    "gambar": "lainnya",
+    "deskripsi": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    ]
+  },
+  {
+    "id": 24,
+    "nama": "Ta'a",
+    "asal": "Kalimantan Utara",
+    "gambar": "lainnya",
+    "deskripsi": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    ]
+  },
+  {
+    "id": 25,
+    "nama": "Sapei Sapaq",
+    "asal": "Kalimantan Utara",
+    "gambar": "lainnya",
+    "deskripsi": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    ]
+  },
+  {
+    "id": 26,
+    "nama": "Biliu",
+    "asal": "Gorontalo",
+    "gambar": "lainnya",
+    "deskripsi": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    ]
+  },
+  {
+    "id": 27,
+    "nama": "Makuta",
+    "asal": "Gorontalo",
+    "gambar": "lainnya",
+    "deskripsi": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    ]
+  },
+  {
+    "id": 28,
+    "nama": "Pattuqduq Towaine",
+    "asal": "Sulawesi Barat",
+    "gambar": "lainnya",
+    "deskripsi": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    ]
+  },
+  {
+    "id": 29,
+    "nama": "Nggembe",
+    "asal": "Sulawesi Tengah",
+    "gambar": "lainnya",
+    "deskripsi": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    ]
+  },
+  {
+    "id": 30,
+    "nama": "Laku Tepu",
+    "asal": "Sulawesi Utara",
+    "gambar": "lainnya",
+    "deskripsi": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    ]
+  },
+  {
+    "id": 31,
+    "nama": "Kinawo",
+    "asal": "Sulawesi Tenggara",
+    "gambar": "lainnya",
+    "deskripsi": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    ]
+  },
+  {
+    "id": 32,
+    "nama": "Babu Nggawi",
+    "asal": "Sulawesi Tenggara",
+    "gambar": "lainnya",
+    "deskripsi": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    ]
+  },
+  {
+    "id": 33,
+    "nama": "Bodo",
+    "asal": "Sulawesi Selatan",
+    "gambar": "lainnya",
+    "deskripsi": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    ]
+  },
+  {
+    "id": 34,
+    "nama": "Pokko",
+    "asal": "Sulawesi Selatan",
+    "gambar": "lainnya",
+    "deskripsi": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    ]
+  },
+  {
+    "id": 35,
+    "nama": "Payas Agung",
+    "asal": "Bali",
+    "gambar": "lainnya",
+    "deskripsi": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    ]
+  },
+  {
+    "id": 36,
+    "nama": "Pakaian Suku Sabu",
+    "asal": "Nusa Tenggara Timur",
+    "gambar": "lainnya",
+    "deskripsi": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    ]
+  },
+  {
+    "id": 37,
+    "nama": "Lambung",
+    "asal": "Nusa Tenggara Barat",
+    "gambar": "lainnya",
+    "deskripsi": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    ]
+  },
+  {
+    "id": 38,
+    "nama": "Baju Cele",
+    "asal": "Maluku",
+    "gambar": "lainnya",
+    "deskripsi": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    ]
+  },
+  {
+    "id": 39,
+    "nama": "Manteren Lamo",
+    "asal": "Maluku Utara",
+    "gambar": "lainnya",
+    "deskripsi": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    ]
+  },
+  {
+    "id": 40,
+    "nama": "Pakaian Adat Ewer",
+    "asal": "Papua Barat",
+    "gambar": "lainnya",
+    "deskripsi": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    ]
+  },
+  {
+    "id": 41,
+    "nama": "Pummi",
+    "asal": "Papua Selatan",
+    "gambar": "lainnya",
+    "deskripsi": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    ]
+  },
+  {
+    "id": 42,
+    "nama": "Koteka",
+    "asal": "Papua Tengah",
+    "gambar": "lainnya",
+    "deskripsi": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    ]
+  },
+  {
+    "id": 43,
+    "nama": "Boe",
+    "asal": "Papua Barat Daya",
+    "gambar": "lainnya",
+    "deskripsi": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    ]
+  },
+  {
+    "id": 44,
+    "nama": "Kuli Bia",
+    "asal": "Papua Barat Daya",
+    "gambar": "lainnya",
+    "deskripsi": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    ]
+  },
+  {
+    "id": 45,
+    "nama": "Topi Kasuari",
+    "asal": "Papua Barat Daya",
+    "gambar": "lainnya",
+    "deskripsi": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    ]
+  }
+]
