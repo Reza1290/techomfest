@@ -17,7 +17,7 @@
           class="flex flex-col items-center justify-center h-64 transition-all duration-300 rounded-lg cursor-pointer bg-secondary lg:h-80 gap-y-5 hover:scale-105"
         >
           <img
-            :src="`~/assets/images/category/${category.icon}.png`"
+            :src="`/images/category/${category.icon}.png`"
             :alt="category.nama"
             class="w-[70px] lg:w-[100px]"
           />
