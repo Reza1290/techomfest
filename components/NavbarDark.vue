@@ -10,7 +10,7 @@
     </NuxtLink>
     <div class="flex items-center gap-5">
       <div class="flex flex-col items-start gap-5 text-gray-700 md:flex-row">
-        <div class="border-b-4 font-bold border-[#8CFE5C]">
+        <div>
           <NuxtLink to="/">Beranda</NuxtLink>
         </div>
         <div><NuxtLink to="/kategori">Kategori</NuxtLink></div>

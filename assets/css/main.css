@@ -75,6 +75,14 @@ svg path,
 .card-category:hover .hover-text {
   @apply scale-110;
 }
+
+@media screen and (min-width: 767px) {
+  .router-link-active {
+    @apply border-b-4 font-bold border-[#8CFE5C];
+  }
+}
+
+/* Gaya khusus untuk layar seluler */
 /* @font-face {
     font-family: 'Nunito', sans-serif;
     src: url('/fonts/poppins/Poppins-Black.ttf') format('ttf');
