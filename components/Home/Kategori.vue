@@ -47,7 +47,7 @@
           <!-- CARD END -->
           <!-- CARD START -->
           <NuxtLink
-            to="/kategori/kesenian"
+            to="/kategori/tarian-adat"
             class="cursor-pointer card-category"
           >
             <div
@@ -69,7 +69,7 @@
                 />
               </svg>
               <p class="text-2xl font-bold text-center text-white hover-text">
-                Kesenian
+                Tarian
               </p>
             </div>
           </NuxtLink>
