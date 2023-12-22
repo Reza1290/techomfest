@@ -3,7 +3,7 @@
     "id": 1,
     "nama": "Masjid Baiturrahman Aceh",
     "asal": "Aceh",
-    "gambar": "ulee_balang",
+    "gambar": "baiturrahman",
     "deskripsi": [
       "Kesultanan Aceh yang mengalami puncak kejayaan pada masa kepemimpinan Sultan Iskandar Muda. Hal ini memberi pengaruh besar terhadap budaya dan agama islam di Aceh.",
       "Kota yang mendapat julukan Serambi Mekkah ini memiliki masjid dengan arsitektur mirip dengan bangunan India",
@@ -14,7 +14,7 @@
     "id": 2,
     "nama": "Jam Gadang,",
     "asal": "Bukittinggi",
-    "gambar": "ulos",
+    "gambar": "gadang",
     "deskripsi": [
       "Berlanjut ke Jam Gadang di daerah Bukittinggi. Sebagai bangunan ikonik di Sumatra Barat,",
       "Menara Jam Gadang yang didirikan oleh pemerintah Hindia Belanda ini ada sejak tahun 1926.",
@@ -25,7 +25,18 @@
     "id": 3,
     "nama": "Istana Maimun",
     "asal": "Sumatra Barat",
-    "gambar": "bundo_kanduang",
+    "gambar": "maimun",
+    "deskripsi": [
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore, eligendi.",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore, eligendi.",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore, eligendi."
+    ]
+  },
+  {
+    "id": 3,
+    "nama": "Candi Borobudur",
+    "asal": "Jawa tengah",
+    "gambar": "borobudur",
     "deskripsi": [
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore, eligendi.",
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore, eligendi.",
