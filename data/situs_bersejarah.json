@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "nama": "Masjid Baiturrahman Aceh",
+    "asal": "Aceh",
+    "gambar": "ulee_balang",
+    "deskripsi": [
+      "Kesultanan Aceh yang mengalami puncak kejayaan pada masa kepemimpinan Sultan Iskandar Muda. Hal ini memberi pengaruh besar terhadap budaya dan agama islam di Aceh.",
+      "Kota yang mendapat julukan Serambi Mekkah ini memiliki masjid dengan arsitektur mirip dengan bangunan India",
+      "Kalau sobat tiket berkunjung ke Aceh, jangan lupa mampir ke sini ya."
+    ]
+  },
+  {
+    "id": 2,
+    "nama": "Jam Gadang,",
+    "asal": "Bukittinggi",
+    "gambar": "ulos",
+    "deskripsi": [
+      "Berlanjut ke Jam Gadang di daerah Bukittinggi. Sebagai bangunan ikonik di Sumatra Barat,",
+      "Menara Jam Gadang yang didirikan oleh pemerintah Hindia Belanda ini ada sejak tahun 1926.",
+      "Uniknya, menara ini dibangun tanpa menggunakan besi penyangga dan semen. "
+    ]
+  },
+  {
+    "id": 3,
+    "nama": "Istana Maimun",
+    "asal": "Sumatra Barat",
+    "gambar": "bundo_kanduang",
+    "deskripsi": [
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore, eligendi.",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore, eligendi.",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore, eligendi."
+    ]
+  }
+]

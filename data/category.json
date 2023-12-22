@@ -21,22 +21,22 @@
   },
   {
     "nama": "Pakaian Adat",
-    "slug": "pakaian-adat",
+    "slug": "pakaian_adat",
     "icon": "pakaian_adat"
   },
   {
     "nama": "Alat Musik",
-    "slug": "alat-musik",
+    "slug": "alat_musik",
     "icon": "alatmusik"
   },
   {
     "nama": "Upacara Adat",
-    "slug": "upacara-adat",
+    "slug": "upacara_adat",
     "icon": "upacara_adat"
   },
   {
     "nama": "Senjata Tradisional",
-    "slug": "senjata-tradisional",
+    "slug": "senjata_tradisional",
     "icon": "senjata_tradisional"
   }
 ]

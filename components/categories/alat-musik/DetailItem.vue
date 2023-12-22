@@ -107,26 +107,26 @@
 </template>
 
 <script setup>
-import Footer from "~/components/Footer.vue";
-import alatmusik from "~/data/alat-musik.json";
+import Footer from "~/components/Footer.vue"
+import alatmusik from "~/data/alat-musik.json"
 
-const item = ref({});
-const reccomended = ref([]);
+const item = ref({})
+const reccomended = ref([])
 
 const getData = () => {
-  item.value = alatmusik.filter((data) => data.id == useRoute().params.id)[0];
-};
+  item.value = alatmusik.filter((data) => data.id == useRoute().params.id)[0]
+}
 const getReccomended = () => {
   const filteredItem = alatmusik.filter(
     (data) => data.id != useRoute().params.id
-  );
-  reccomended.value = getRandomItems(filteredItem, 3);
-};
+  )
+  reccomended.value = getRandomItems(filteredItem, 3)
+}
 const getRandomItems = (array, count) => {
-  const shuffledArray = array.sort(() => Math.random() - 0.5);
-  return shuffledArray.slice(0, count);
-};
+  const shuffledArray = array.sort(() => Math.random() - 0.5)
+  return shuffledArray.slice(0, count)
+}
 
-getData();
-getReccomended();
+getData()
+getReccomended()
 </script>

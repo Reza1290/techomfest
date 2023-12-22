@@ -107,26 +107,24 @@
 </template>
 
 <script setup>
-import Footer from "~/components/Footer.vue";
-import upacara from "~/data/upacara-adat.json";
+import Footer from "~/components/Footer.vue"
+import upacara from "~/data/upacara-adat.json"
 
-const item = ref({});
-const reccomended = ref([]);
+const item = ref({})
+const reccomended = ref([])
 
 const getData = () => {
-  item.value = upacara.filter((data) => data.id == useRoute().params.id)[0];
-};
+  item.value = upacara.filter((data) => data.id == useRoute().params.id)[0]
+}
 const getReccomended = () => {
-  const filteredItem = upacara.filter(
-    (data) => data.id != useRoute().params.id
-  );
-  reccomended.value = getRandomItems(filteredItem, 3);
-};
+  const filteredItem = upacara.filter((data) => data.id != useRoute().params.id)
+  reccomended.value = getRandomItems(filteredItem, 3)
+}
 const getRandomItems = (array, count) => {
-  const shuffledArray = array.sort(() => Math.random() - 0.5);
-  return shuffledArray.slice(0, count);
-};
+  const shuffledArray = array.sort(() => Math.random() - 0.5)
+  return shuffledArray.slice(0, count)
+}
 
-getData();
-getReccomended();
+getData()
+getReccomended()
 </script>
