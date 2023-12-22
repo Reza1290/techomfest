@@ -1,12 +1,13 @@
 <template>
-  <NuxtLayout>
+  <NavbarDark class="hidden lg:flex"></NavbarDark>
+  <NavbarMobileDark class="lg:hidden"></NavbarMobileDark>
     <div class="container">
       <TriviaExploreCard
         :nama="prov ? prov.nama : ''"
         :quiz="prov ? prov.quiz : ''"
       />
     </div>
-  </NuxtLayout>
+  <Footer></Footer>
 </template>
 
 <script>

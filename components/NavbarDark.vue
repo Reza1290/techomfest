@@ -15,7 +15,7 @@
         </div>
         <div><NuxtLink to="/kategori">Kategori</NuxtLink></div>
         <div><NuxtLink to="/eksplorasi">Eksplorasi</NuxtLink></div>
-        <div><NuxtLink to="/favorit">Favorit</NuxtLink></div>
+        <div><NuxtLink to="">Favorit</NuxtLink></div>
       </div>
       <div class="">
         <NuxtLink

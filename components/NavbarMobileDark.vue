@@ -49,7 +49,7 @@
         >
         <NuxtLink
           class="lg:inline-block lg:ml-auto lg:mr-3 py-2 px-6 text-sm text-gray-900 font-bold rounded-xl transition duration-200"
-          to="/favorit"
+          to=""
           >Favorit</NuxtLink
         >
         <NuxtLink
