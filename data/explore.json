@@ -768,7 +768,7 @@
       "image": {
         "icon": "jatim.png",
         "banner": "jatim.webp",
-        "makanan": ["jatim/1.png", "jatim/2.png", "jatim/2.png"],
+        "makanan": ["jatim/1.png", "jatim/2.png", "jatim/3.png"],
         "tarian": "jatim.png"
       },
       "tarian": {
@@ -827,7 +827,7 @@
       "image": {
         "icon": "diy.png",
         "banner": "diy.webp",
-        "makanan": ["diy/1.png", "diy/2.png", "diy/2.png"],
+        "makanan": ["diy/1.png", "diy/2.png", "diy/3.png"],
         "tarian": "diy.png"
       },
       "tarian": {
@@ -890,7 +890,7 @@
       "image": {
         "icon": "jakarta.png",
         "banner": "jakarta.webp",
-        "makanan": ["jakarta/1.png", "jakarta/2.png", "jakarta/2.png"],
+        "makanan": ["jakarta/1.png", "jakarta/2.png", "jakarta/3.png"],
         "tarian": "jakarta.png"
       },
       "tarian": {
@@ -949,7 +949,7 @@
       "image": {
         "icon": "bali.png",
         "banner": "bali.webp",
-        "makanan": ["bali/1.png", "bali/2.png", "bali/2.png"],
+        "makanan": ["bali/1.png", "bali/2.png", "bali/3.png"],
         "tarian": "bali.png"
       },
       "tarian": {
@@ -1008,7 +1008,7 @@
       "image": {
         "icon": "ntb.png",
         "banner": "ntb.webp",
-        "makanan": ["ntb/1.png", "ntb/2.png", "ntb/2.png"],
+        "makanan": ["ntb/1.png", "ntb/2.png", "ntb/3.png"],
         "tarian": "ntb.png"
       },
       "tarian": {
