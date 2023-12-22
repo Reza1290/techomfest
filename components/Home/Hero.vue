@@ -1,6 +1,6 @@
 <template>
   <div
-    class="container min-w-full min-h-[650px] lg:min-h-[890px] -mt-[6%] flex justify-center items-center rounded-b-[70px] lg:rounded-b-[100px] bg-[url('~/assets/img/home/hero.png')] bg-cover bg-center px-7 lg:px-0"
+    class="container min-w-full min-h-[680px] lg:min-h-[890px] -mt-[20%] lg:-mt-[6%] flex justify-center items-center rounded-b-[70px] lg:rounded-b-[100px] bg-[url('~/assets/img/home/hero.png')] bg-cover bg-center px-7 lg:px-0"
   >
     <div class="container flex flex-col items-center">
       <p

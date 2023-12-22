@@ -6,12 +6,12 @@
       <NuxtLink to="/" class="flex items-center gap-5 cursor-pointer">
         <img src="~/assets/img/logo_alt.svg" alt="logo" />
         <div>
-          <h1 class="text-2xl font-bold text-gray-100">LokaBestari</h1>
+          <h1 class="text-2xl font-bold text-gray-700">LokaBestari</h1>
         </div>
       </NuxtLink>
       <div class="lg:hidden">
         <button
-          class="navbar-burger flex items-center text-accent p-3"
+          class="navbar-burger flex items-center text-primary p-3"
           @click="toggleMenu"
         >
           <svg

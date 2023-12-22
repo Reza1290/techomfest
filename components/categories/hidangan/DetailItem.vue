@@ -1,5 +1,5 @@
 <template>
-  <div class="px-5 lg:px-[101px]">
+  <div class="px-5 lg:px-[101px lg:pt-0 pt-10">
     <section id="hero-detail">
       <div class="w-full h-[380px] lg:h-[480px] flex justify-center">
         <div class="w-full max-h-full cursor-pointer card-detail">

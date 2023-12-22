@@ -1,5 +1,6 @@
 <template>
   <NavbarDark class="hidden lg:flex"></NavbarDark>
+  <NavbarMobileDark class="md:hidden"></NavbarMobileDark>
   <main id="main-content" class="py-10 pb-36 lg:px-[101px]">
     <h1 class="text-4xl lg:text-5xl font-bold text-center text-primary">
       Hidangan khas Indonesia

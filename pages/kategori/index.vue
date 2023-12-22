@@ -1,5 +1,6 @@
 <template>
   <NavbarDark class="hidden lg:flex"></NavbarDark>
+  <NavbarMobileDark class="md:hidden"></NavbarMobileDark>
   <section class="category">
     <div class="container mx-auto mt-6 mb-20">
       <h1 class="text-4xl font-bold text-center text-primary">Kategori</h1>

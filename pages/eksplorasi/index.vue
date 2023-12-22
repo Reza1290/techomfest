@@ -1,5 +1,6 @@
 <template>
   <NavbarDark class="hidden lg:flex"></NavbarDark>
+  <NavbarMobileDark class="md:hidden"></NavbarMobileDark>
   <main id="main-content" class="py-10 pb-36 px-[10px] md:px-[101px]">
     <h1 class="text-5xl font-bold text-center text-primary">
       Eksplorasi budaya tiap provinsi

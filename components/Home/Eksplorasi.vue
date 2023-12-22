@@ -3,8 +3,12 @@
     <div class="w-96 h-96 -right-36 top-0 blob"></div>
     <div class="flex flex-col items-center justify-center">
       <div class="flex flex-col items-center justify-center">
-        <h1 class="text-6xl text-[#1F420F] font-bold">Eksplorasi</h1>
-        <p class="mt-4 text-[#0F890D] text-2xl font-medium">
+        <h1 class="text-5xl lg:text-6xl text-[#1F420F] font-bold">
+          Eksplorasi
+        </h1>
+        <p
+          class="mt-4 text-[#0F890D] text-base text-center lg:text-left lg:text-2xl font-medium lg:px-0 px-3"
+        >
           Ini adalah beberapa daerah yang mungkin menarik untuk anda jelajahi
         </p>
       </div>
