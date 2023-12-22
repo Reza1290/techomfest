@@ -7,10 +7,11 @@
       <p class="mt-3 text-sm lg:text-2xl text-center text-secondary">
         Cari tahu yuk seberapa jauh sih pengetahuanmu
       </p>
-      <a
-        href="#"
+      <NuxtLink
+
+        to="/permainan"
         class="px-5 py-3 mt-6 text-base lg:text-xl font-bold bg-secondary rounded-xl hover:scale-110 hover:cursor-pointer transition duration-500"
-        >Coba Sekarang 🎮</a
+        >Coba Sekarang 🎮</NuxtLink
       >
     </div>
   </div>

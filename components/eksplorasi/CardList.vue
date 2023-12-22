@@ -3,7 +3,7 @@
     class="container grid min-w-full grid-cols min-[850px]:grid-cols-2 min-[1400px]:grid-cols-3 min-[1700px]:grid-cols-4 py-10 gap-y-10 sm:gap-x-28 justify-center"
   >
     <!-- CARD START -->
-    <LazyNuxtLink
+    <NuxtLink
       v-for="(data, index) in datas"
       :key="data.id"
       :to="'eksplorasi/' + index"
@@ -23,7 +23,7 @@
         </div>
         <h4 class="mt-2 text-xl font-bold text-center">{{ data.nama }}</h4>
       </div>
-    </LazyNuxtLink>
+    </NuxtLink>
     <!-- CARD END -->
   </div>
 </template>

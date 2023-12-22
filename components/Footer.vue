@@ -8,11 +8,11 @@
     </div>
     <div id="section-link" class="mt-3 text-secondary">
       <ul class="flex gap-x-2 max-md:flex-col max-md:divide-y md:divide-x justify-center">
-        <li class="text-center"><a class="mx-2  " href="#">Beranda </a> </li>
-        <li class="text-center"><a class="mx-2  " href="#">Kategori </a> </li>
-        <li class="text-center"><a class="mx-2  " href="#">Eksplorasi</a> </li>
-        <li class="text-center"><a class="mx-2  " href="#">Favorit</a> </li>
-        <li class="text-center"><a class="mx-2  " href="#">Main Game</a></li>
+        <li class="text-center"><NuxtLink class="mx-2  " to="/">Beranda </NuxtLink> </li>
+        <li class="text-center"><NuxtLink class="mx-2  " to="/kategori">Kategori </NuxtLink> </li>
+        <li class="text-center"><NuxtLink class="mx-2  " to="/eksplorasi">Eksplorasi</NuxtLink> </li>
+        <li class="text-center"><NuxtLink class="mx-2  " to="/favorit">Favorit</NuxtLink> </li>
+        <li class="text-center"><NuxtLink class="mx-2  " to="/permainan">Main Game</NuxtLink></li>
       </ul>
     </div>
     <hr class="w-1/2 my-6 border-gray-500" />

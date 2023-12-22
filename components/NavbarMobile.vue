@@ -32,30 +32,30 @@
       <nav
         class="fixed top-0 left-0 bottom-0 flex flex-col w-5/6 max-w-sm py-6 px-6 bg-white border-r overflow-y-auto"
       >
-        <a
+        <NuxtLink
           class="lg:inline-block py-2 px-6 bg-primary text-sm text-white font-bold rounded-xl transition duration-200"
-          href=""
-          >Beranda</a
+          to="/"
+          >Beranda</NuxtLink
         >
-        <a
+        <NuxtLink
           class="lg:inline-block lg:ml-auto lg:mr-3 py-2 px-6 text-sm text-gray-900 font-bold rounded-xl transition duration-200"
-          href="#"
-          >Kategori</a
+          to="/kategori"
+          >Kategori</NuxtLink
         >
-        <a
+        <NuxtLink
           class="lg:inline-block lg:ml-auto lg:mr-3 py-2 px-6 text-sm text-gray-900 font-bold rounded-xl transition duration-200"
-          href="#"
-          >Eksplorasi</a
+          to="/eksplorasi"
+          >Eksplorasi</NuxtLink
         >
-        <a
+        <NuxtLink
           class="lg:inline-block lg:ml-auto lg:mr-3 py-2 px-6 text-sm text-gray-900 font-bold rounded-xl transition duration-200"
-          href="#"
-          >Favorit</a
+          to="/favorit"
+          >Favorit</NuxtLink
         >
-        <a
+        <NuxtLink
           class="lg:inline-block lg:ml-auto lg:mr-3 py-2 px-6 text-sm text-gray-900 font-bold rounded-xl transition duration-200"
-          href="#"
-          >Main Game</a
+          to="/permainan"
+          >Main Game</NuxtLink
         >
       </nav>
     </div>
@@ -67,14 +67,14 @@ export default {
   data() {
     return {
       isMenuOpen: false,
-    }
+    };
   },
   methods: {
     toggleMenu() {
-      this.isMenuOpen = !this.isMenuOpen
+      this.isMenuOpen = !this.isMenuOpen;
     },
   },
-}
+};
 </script>
 
 <style scoped>

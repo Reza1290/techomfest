@@ -18,10 +18,10 @@
         <div><NuxtLink to="/favorit">Favorit</NuxtLink></div>
       </div>
       <div class="">
-        <a
+        <NuxtLink
           class="px-4 py-2 text-lg font-bold bg-[#8CFE5C] rounded-2xl text-black/50"
-          href=""
-          >Mainkan</a
+          to="/permainan"
+          >Mainkan</NuxtLink
         >
       </div>
     </div>

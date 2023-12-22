@@ -19,8 +19,8 @@
     <div class="container">
       <h1 class="text-4xl font-bold max-md:text-3xl max-md:text-center">HIDANGAN</h1>
     </div>
-    <div class="flex p-20 justify-center relative w-full min-h-[600px] max-md:min-h-[1000px] max-md:overflow-x-hidden">
-      <div class="w-96 h-96 -right-36 top-0 blob"></div>
+    <div class="flex p-20 justify-center relative w-full min-h-[600px] max-md:min-h-[1000px] max-md:overflow-x-hidden overflow-x-hidden">
+      <div class="w-96 h-96 -right-36 top-0 blob "></div>
       <div class="">
         <HidanganExploreCard
           class="translate-x-[-200px] max-xl:translate-x-[-100px] max-md:translate-x-[-150px] max-md:translate-y-[0px] on-transform"

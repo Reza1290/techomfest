@@ -19,7 +19,7 @@
               <div class="w-full mx-2" v-for="(pil,quiz) in quizItem" :key="quiz">
                 <label
                 :for="'ans'+quiz"
-                class="bg-secondary rounded-[12px] px-10 font-bold cursor-pointer hover:scale-105 h-12 w-full flex justify-center items-center"
+                class="bg-secondary rounded-[12px] px-10 font-bold cursor-pointer hover:scale-105 h-12 w-full flex justify-center items-center transition-transform   "
                 >{{ quiz }}</label
                 >
                 <input
@@ -29,54 +29,14 @@
                 name="jawaban"
                 :id="'ans'+quiz"
                 />
-                <div class="hidden peer-checked:block top-5 right-3 bg-secondary rounded-[12px] mt-2 flex justify-center items-center p-5 text-justify font-bold">
+                <div class="hidden peer-checked:block top-5 right-3 bg-secondary rounded-[12px] mt-2 flex justify-center items-center p-5 text-justify font-bold ">
                   JAWABAN ANDA {{ pil.benar == true ? 'BENAR!' : 'SALAH!' }}<p class="font-medium text-start">
                     {{ pil.jawaban }}
                   </p>
                   
                 </div>
             </div>
-              <!-- <div class="w-full">
-              <label
-                for="ans2"
-                class="bg-secondary rounded-[12px] px-10 font-bold cursor-pointer hover:scale-105 h-12 w-full flex justify-center items-center"
-                >JAWA</label
-              >
-              <input
-                class="sr-only peer"
-                value="1"
-                type="radio"
-                name="jawaban"
-                id="ans2"
-              />
-              <div class="hidden peer-checked:block top-5 right-3 bg-secondary rounded-[12px] mt-2 flex justify-center items-center p-5 text-justify font-bold">
-                JAWABAN ANDA BENAR! <p class="font-medium">
-                    Suku JAWA Adalah
-                </p>
-                    
-              </div>
-            </div>
-
-            <div class="w-full">
-              <label
-                for="ans3"
-                class="bg-secondary rounded-[12px] px-10 font-bold cursor-pointer hover:scale-105 h-12 w-full flex justify-center items-center"
-                >JAWA</label
-              >
-              <input
-                class="sr-only peer"
-                value="2"
-                type="radio"
-                name="jawaban"
-                id="ans3"
-              />
-              <div class="hidden peer-checked:block top-5 right-3 bg-secondary rounded-[12px] mt-2 flex justify-center items-center p-5 text-justify font-bold">
-                JAWABAN ANDA BENAR! <p class="font-medium">
-                    Suku JAWA Adalah
-                </p>
-                    
-              </div>
-            </div> -->
+             
           </div>
         </div>
       </div>

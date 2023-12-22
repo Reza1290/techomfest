@@ -28,7 +28,7 @@
       ],
       "image": {
         "icon": "nad.png",
-        "banner": "nad.jpeg",
+        "banner": "nad.webp",
         "makanan": ["aceh/1.png", "aceh/2.png", "aceh/3.png"],
         "tarian": "aceh.png"
       },
@@ -79,7 +79,7 @@
       ],
       "image": {
         "icon": "sumut.png",
-        "banner": "sumut.jpeg",
+        "banner": "sumut.webp",
         "makanan": ["sumut/1.png", "sumut/2.png", "sumut/3.png"],
         "tarian": "sumut.png"
       },
@@ -138,7 +138,7 @@
       ],
       "image": {
         "icon": "sumbar.png",
-        "banner": "sumbar.jpeg",
+        "banner": "sumbar.webp",
         "makanan": ["sumbar/1.png", "sumbar/2.png", "sumbar/2.png"],
         "tarian": "sumbar.png"
       },
@@ -193,7 +193,7 @@
       ],
       "image": {
         "icon": "sumsel.png",
-        "banner": "sumsel.jpeg",
+        "banner": "sumsel.webp",
         "makanan": ["sumsel/1.png", "sumsel/2.png", "sumsel/2.png"],
         "tarian": "sumsel.png"
       },
@@ -252,7 +252,7 @@
       ],
       "image": {
         "icon": "riau.png",
-        "banner": "riau.jpeg",
+        "banner": "riau.webp",
         "makanan": ["riau/1.png", "riau/2.png", "riau/2.png"],
         "tarian": "riau.png"
       },
@@ -303,7 +303,7 @@
       ],
       "image": {
         "icon": "kepriau.png",
-        "banner": "kepriau.jpeg",
+        "banner": "kepriau.webp",
         "makanan": ["kepriau/1.png", "kepriau/2.png", "kepriau/2.png"],
         "tarian": "kepriau.png"
       },
@@ -354,7 +354,7 @@
       ],
       "image": {
         "icon": "bangka.png",
-        "banner": "bangka.jpeg",
+        "banner": "bangka.webp",
         "makanan": ["bangka/1.png", "bangka/2.png", "bangka/2.png"],
         "tarian": "bangka.png"
       },
@@ -413,7 +413,7 @@
       ],
       "image": {
         "icon": "bengkulu.png",
-        "banner": "bengkulu.jpeg",
+        "banner": "bengkulu.webp",
         "makanan": ["bengkulu/1.png", "bengkulu/2.png", "bengkulu/2.png"],
         "tarian": "bengkulu.png"
       },
@@ -472,7 +472,7 @@
       ],
       "image": {
         "icon": "lampung.png",
-        "banner": "lampung.jpeg",
+        "banner": "lampung.webp",
         "makanan": ["lampung/1.png", "lampung/2.png", "lampung/2.png"],
         "tarian": "lampung.png"
       },
@@ -531,7 +531,7 @@
       ],
       "image": {
         "icon": "jambi.png",
-        "banner": "jambi.jpeg",
+        "banner": "jambi.webp",
         "makanan": ["jambi/1.png", "jambi/2.png", "jambi/2.png"],
         "tarian": "jambi.png"
       },
@@ -586,7 +586,7 @@
       ],
       "image": {
         "icon": "banten.png",
-        "banner": "banten.jpeg",
+        "banner": "banten.webp",
         "makanan": ["banten/1.png", "banten/2.png", "banten/2.png"],
         "tarian": "banten.png"
       },
@@ -645,7 +645,7 @@
       ],
       "image": {
         "icon": "jabar.png",
-        "banner": "jabar.jpeg",
+        "banner": "jabar.webp",
         "makanan": ["jabar/1.png", "jabar/2.png", "jabar/2.png"],
         "tarian": "jabar.png"
       },
@@ -708,7 +708,7 @@
       ],
       "image": {
         "icon": "jateng.png",
-        "banner": "jateng.jpeg",
+        "banner": "jateng.webp",
         "makanan": ["jateng/1.png", "jateng/2.png", "jateng/2.png"],
         "tarian": "jateng.png"
       },
@@ -767,7 +767,7 @@
       ],
       "image": {
         "icon": "jatim.png",
-        "banner": "jatim.jpeg",
+        "banner": "jatim.webp",
         "makanan": ["jatim/1.png", "jatim/2.png", "jatim/2.png"],
         "tarian": "jatim.png"
       },
@@ -826,7 +826,7 @@
       ],
       "image": {
         "icon": "diy.png",
-        "banner": "diy.jpeg",
+        "banner": "diy.webp",
         "makanan": ["diy/1.png", "diy/2.png", "diy/2.png"],
         "tarian": "diy.png"
       },
@@ -889,7 +889,7 @@
       ],
       "image": {
         "icon": "jakarta.png",
-        "banner": "jakarta.jpeg",
+        "banner": "jakarta.webp",
         "makanan": ["jakarta/1.png", "jakarta/2.png", "jakarta/2.png"],
         "tarian": "jakarta.png"
       },
@@ -948,7 +948,7 @@
       ],
       "image": {
         "icon": "bali.png",
-        "banner": "bali.jpeg",
+        "banner": "bali.webp",
         "makanan": ["bali/1.png", "bali/2.png", "bali/2.png"],
         "tarian": "bali.png"
       },
@@ -1007,7 +1007,7 @@
       ],
       "image": {
         "icon": "ntb.png",
-        "banner": "ntb.jpeg",
+        "banner": "ntb.webp",
         "makanan": ["ntb/1.png", "ntb/2.png", "ntb/2.png"],
         "tarian": "ntb.png"
       },
@@ -1067,7 +1067,7 @@
       ],
       "image": {
         "icon": "ntt.png",
-        "banner": "ntt.jpeg",
+        "banner": "ntt.webp",
         "makanan": ["ntt/1.png", "ntt/2.png", "ntt/2.png"],
         "tarian": "ntt.png"
       },
@@ -1126,7 +1126,7 @@
       ],
       "image": {
         "icon": "kalbar.png",
-        "banner": "kalbar.jpeg",
+        "banner": "kalbar.webp",
         "makanan": ["kalbar/1.png", "kalbar/2.png", "kalbar/2.png"],
         "tarian": "kalbar.png"
       },
@@ -1185,7 +1185,7 @@
       ],
       "image": {
         "icon": "kalteng.png",
-        "banner": "kalteng.jpeg",
+        "banner": "kalteng.webp",
         "makanan": ["kalteng/1.png", "kalteng/2.png", "kalteng/2.png"],
         "tarian": "kalteng.png"
       },
@@ -1240,7 +1240,7 @@
       ],
       "image": {
         "icon": "kalsel.png",
-        "banner": "kalsel.jpeg",
+        "banner": "kalsel.webp",
         "makanan": ["kalsel/1.png", "kalsel/2.png", "kalsel/2.png"],
         "tarian": "kalsel.png"
       },
@@ -1299,7 +1299,7 @@
       ],
       "image": {
         "icon": "kaltim.png",
-        "banner": "kaltim.jpeg",
+        "banner": "kaltim.webp",
         "makanan": ["kaltim/1.png", "kaltim/2.png", "kaltim/2.png"],
         "tarian": "kaltim.png"
       },
@@ -1358,7 +1358,7 @@
       ],
       "image": {
         "icon": "kalut.png",
-        "banner": "kalut.jpeg",
+        "banner": "kalut.webp",
         "makanan": ["kalut/1.png", "kalut/2.png", "kalut/2.png"],
         "tarian": "kalut.png"
       },
@@ -1409,7 +1409,7 @@
       ],
       "image": {
         "icon": "sulbar.png",
-        "banner": "sulbar.jpeg",
+        "banner": "sulbar.webp",
         "makanan": ["sulbar/1.png", "sulbar/2.png", "sulbar/2.png"],
         "tarian": "sulbar.png"
       },
@@ -1468,7 +1468,7 @@
       ],
       "image": {
         "icon": "sulut.png",
-        "banner": "sulut.jpeg",
+        "banner": "sulut.webp",
         "makanan": ["sulut/1.png", "sulut/2.png", "sulut/2.png"],
         "tarian": "sulut.png"
       },
@@ -1527,7 +1527,7 @@
       ],
       "image": {
         "icon": "sulteng.png",
-        "banner": "sulteng.jpeg",
+        "banner": "sulteng.webp",
         "makanan": ["sulteng/1.png", "sulteng/2.png", "sulteng/2.png"],
         "tarian": "sulteng.png"
       },
@@ -1578,7 +1578,7 @@
       ],
       "image": {
         "icon": "sultenggara.png",
-        "banner": "sultenggara.jpeg",
+        "banner": "sultenggara.webp",
         "makanan": [
           "sultenggara/1.png",
           "sultenggara/2.png",
@@ -1641,7 +1641,7 @@
       ],
       "image": {
         "icon": "sulsel.png",
-        "banner": "sulsel.jpeg",
+        "banner": "sulsel.webp",
         "makanan": ["sulsel/1.png", "sulsel/2.png", "sulsel/2.png"],
         "tarian": "sulsel.png"
       },
@@ -1700,7 +1700,7 @@
       ],
       "image": {
         "icon": "gorontalo.png",
-        "banner": "gorontalo.jpeg",
+        "banner": "gorontalo.webp",
         "makanan": ["gorontalo/1.png", "gorontalo/2.png", "gorontalo/2.png"],
         "tarian": "gorontalo.png"
       },
@@ -1759,7 +1759,7 @@
       ],
       "image": {
         "icon": "maluku.png",
-        "banner": "maluku.jpeg",
+        "banner": "maluku.webp",
         "makanan": ["maluku/1.png", "maluku/2.png", "maluku/2.png"],
         "tarian": "maluku.png"
       },
@@ -1818,7 +1818,7 @@
       ],
       "image": {
         "icon": "malut.png",
-        "banner": "malut.jpeg",
+        "banner": "malut.webp",
         "makanan": ["malut/1.png", "malut/2.png", "malut/2.png"],
         "tarian": "malut.png"
       },
@@ -1873,7 +1873,7 @@
       ],
       "image": {
         "icon": "papua.png",
-        "banner": "papua.jpeg",
+        "banner": "papua.webp",
         "makanan": ["papua/1.png", "papua/2.png", "papua/2.png"],
         "tarian": "papua.png"
       },
@@ -1924,7 +1924,7 @@
       ],
       "image": {
         "icon": "papteng.png",
-        "banner": "papteng.jpeg",
+        "banner": "papteng.webp",
         "makanan": ["papteng/1.png", "papteng/2.png", "papteng/2.png"],
         "tarian": "papteng.png"
       },
@@ -1975,7 +1975,7 @@
       ],
       "image": {
         "icon": "papgung.png",
-        "banner": "papgung.jpeg",
+        "banner": "papgung.webp",
         "makanan": ["papgung/1.png", "papgung/2.png", "papgung/2.png"],
         "tarian": "papgung.png"
       },
@@ -2026,7 +2026,7 @@
       ],
       "image": {
         "icon": "papsel.png",
-        "banner": "papsel.jpeg",
+        "banner": "papsel.webp",
         "makanan": ["papsel/1.png", "papsel/2.png", "papsel/2.png"],
         "tarian": "papsel.png"
       },
@@ -2077,7 +2077,7 @@
       ],
       "image": {
         "icon": "papdar.png",
-        "banner": "papdar.jpeg",
+        "banner": "papdar.webp",
         "makanan": ["papdar/1.png", "papdar/2.png", "papdar/2.png"],
         "tarian": "papdar.png"
       },
@@ -2129,7 +2129,7 @@
       ],
       "image": {
         "icon": "papbar.png",
-        "banner": "papbar.jpeg",
+        "banner": "papbar.webp",
         "makanan": ["papbar/1.png", "papbar/2.png", "papbar/2.png"],
         "tarian": "papbar.png"
       },
