@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "nama": "Tari Cokek",
+    "asal": "DKI Jakarta",
+    "kota": "Betawi",
+    "gambar": "cokek",
+    "deskripsi": [
+      "Tari cokek adalah tarian akulturasi antara budaya Betawi, Cina dan Banten.",
+      "Suku Betawi yang tinggal di sekitar Jakarta atau ibukota dari Indonesia sejak dulu, sangat mudah untuk berinteraksi dengan suku atau bangsa lain.",
+      "Karena itulah, seiring berjalannya waktu, kesenian Betawi pun berkembang dan bercampur padu dengan kesenian lain. Salah satunya tari Cokek ini, nama Cokek berasal dari Bahasa Hokkian “chiou-khek” yang berarti menyanyikan lagu."
+    ]
+  },
+  {
+    "id": 2,
+    "nama": "Tari Remo",
+    "asal": "Jawa Timur",
+    "kota": "Jombang",
+    "gambar": "remo",
+    "deskripsi": [
+      "Tari Remo atau Reyoge Cak Mo berasal dari Kabupaten Jombang, Jawa Timur.",
+      "Tarian ini biasa ditampilkan saat penyambutan tamu yang diiringi oleh gamelan. Sejatinya, tarian ini dibawakan oleh penari pria, tapi sebagai usaha pelestarian, penari wanita pun dapat menari tarian Remo.",
+      "Tari Remo membutuhkan sisi maskulinitas untuk menjadi lakon penari. Pertunjukan Tari Remo memang ingin menampilkan kisah pangeran yang sedang berjuang dalam sebuah medan pertempuran."
+    ]
+  },
+  {
+    "id": 3,
+    "nama": "Tari Indang",
+    "asal": "Sumatera Barat",
+    "kota": "Pariaman",
+    "gambar": "indang",
+    "deskripsi": [
+      "Tari Indang atau yang terkenal dengan nama Tari Dindin Badindin merupakan kesenian asli Sumatera Barat, lebih tepatnya masyarakat Pariaman.",
+      "Tarian ini konon merupakan media proses penyebaran Islam oleh Syekh Burhanudin di Sumatera Barat Filosofi tarian ini sangat erat dengan budaya Minang dengan Islam.",
+      "Tarian Indang ditampilkan dengan alunan Shalawat Nabi atau syair yang mengandung nilai ajaran Islam."
+    ]
+  },
+  {
+    "id": 4,
+    "nama": "Tari Legong",
+    "asal": "Bali",
+    "kota": "Bali",
+    "gambar": "legong",
+    "deskripsi": [
+      "Tari Legong adalah tarian klasik Bali yang telah ada sejak abad ke-19.",
+      "Konon, Tari Legong terinspirasi dari mimpi seorang Pangeran yang sedang sakit lalu bertemu dengan dua gadis menari diiringi oleh alunan gamelan.",
+      "ari Legong memiliki gerakan yang cukup kompleks dan terikat dengan tabuhan gamelan. Alat musik yang mengiringi Tari Legong namanya Gamelan Semar Pagulingan."
+    ]
+  },
+  {
+    "id": 5,
+    "nama": "Tari Bungong Jeumpa",
+    "asal": "Aceh",
+    "kota": "Aceh",
+    "gambar": "bungong",
+    "deskripsi": [
+      "Tari yang satu ini kini cukup populer karena lagunya dinyanyikan pada ajang Asian Games 2018 Jakarta dan Palembang.",
+      "Tari khas Aceh ini memiliki gerakan cukup simpel dengan dilakukan secara bergantian, duduk dan berdiri.",
+      "Sambil menari, para penari juga menyanyikan lagu Bungong Jeumpa yang menjadi kebanggaan masyarakat Aceh."
+    ]
+  },
+  {
+    "id": 6,
+    "nama": "Tari Saman",
+    "asal": "Aceh",
+    "kota": "Aceh",
+    "gambar": "saman",
+    "deskripsi": [
+      "Salah satu tarian daerah paling populer di Daerah Istimewa Aceh adalah tari saman.",
+      "Tidak hanya populer di dalam negeri, tari saman juga dikenal di mancanegara.",
+      "Tidak jarang, tarian yang biasanya dilakukan orang banyak penari sekaligus ini dipertunjukkan dalam event kebudayaan di luar negeri."
+    ]
+  },
+  {
+    "id": 7,
+    "nama": "Tari Tor Tor",
+    "asal": "Sumatera Utara",
+    "kota": "Tanupali Utara",
+    "gambar": "tortor",
+    "deskripsi": [
+      "Di utara Pulau Sumatra, tepatnya di sekitar Danau Toba, terdapat suku Batak yang memiliki tarian daerah bernama tor tor.",
+      "arian ini biasanya ditarikan oleh orang Batak dalam berbagai ritual penting seperti pesta pernikahan, pesta kematian.",
+      "Saat menari Tor Tor, orang Batak biasanya diiringi permainan alat musik Mangondangi."
+    ]
+  },
+  {
+    "id": 8,
+    "nama": "Tari Piring",
+    "asal": "Sumatera Barat",
+    "kota": "Minangkabau",
+    "gambar": "piring",
+    "deskripsi": [
+      "Dari Barat Pulau Sumatra, tepatnya di Minangkabau, terdapat tari piring yang punya gerakan indah dan kaya makna.",
+      "Tari piring merupakan simbolisasi dari pemberian persembahan kepada sang pencipta atas keberhasilan panen.",
+      "Namun, di masa sekarang tari piring sudah dipertunjukkan secara bebas dalam berbagai perayaan."
+    ]
+  },
+  {
+    "id": 9,
+    "nama": "Tari Turuk Langgai",
+    "asal": "Sumatera Barat",
+    "kota": "Kepulauan Mentawai",
+    "gambar": "turuklanggai",
+    "deskripsi": [
+      "Turuk Langgai merupakan tarian khas etnis Mentawai yang terinspirasi dari gerakan hewan seperti burung, ular, ayam hingga monyet.",
+      "Turuk Langgai biasanya ditampilkan dengan iringan alat musik tradisional Mentawai yakni gendang kajeuma dan uliat.",
+      "Seiring semakin terkenalnya Kepulauan mentawai sebagai salah satu surga wisata dan tujuan wisata air kelas internasional, Turuk Langgai lambat laun mulai dikenal secara luas."
+    ]
+  }
+]

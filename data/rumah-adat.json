@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "nama": "Rumah Krong Bade",
+    "asal": "Aceh",
+    "kota": "Aceh",
+    "gambar": "krongbade",
+    "deskripsi": [
+      "Rumah Krong Bade dari Aceh ini berbentuk memanjang dari timur ke barat menyerupai persegi panjang. ",
+      "Di bagian depan rumah dilengkapi dengan tangga untuk masuk ke dalam rumah.",
+      "Umumnya, tangga pada  rumah adat Aceh ini jumlahnya ganjil, yaitu sekitar 7 hingga 9 anak tangga. "
+    ]
+  },
+  {
+    "id": 2,
+    "nama": "Rumah Bolon",
+    "asal": "Sumatera Utara",
+    "kota": "Batak Toba",
+    "gambar": "bolon",
+    "deskripsi": [
+      "Pada rumah adat Bolon ini, terdapat dua bagian yang berbeda, yaitu Jabu Bolon dan juga Jabu Parsakitan.",
+      "Jabu Bolon biasa menjadi tempat untuk keluarga besar, sedangkan Jabu Parsakitan adalah tempat untuk membicarakan masalah adat.",
+      "Keunikan dari rumah adat Sumatera Utara ini adalah tidak ada sekatan antara setiap ruangan. Jadinya, semua anggota keluarga tidur bersama di dalam ruangan besar."
+    ]
+  },
+  {
+    "id": 3,
+    "nama": "Rumah Gadang",
+    "kota": "Minang",
+    "asal": "Sumatera Barat",
+    "gambar": "gadang",
+    "deskripsi": [
+      "Rumah adat satu ini terlihat mewah, bukan? Berasal dari Sumatera Barat, rumah ini memiliki beberapa atap yang runcing dan menjulang ke atas.",
+      "Rumah adat Gadang terbuat dari ijuk dan bentuknya mirip seperti tanduk kerbau.",
+      "yang melambangkan kemenangan suku Minang dalam perlombaan adu kerbau di Jawa."
+    ]
+  },
+  {
+    "id": 4,
+    "nama": "Rumah Selaso Jatuh Kembar",
+    "asal": "Riau",
+    "kota": "riau",
+    "gambar": "jatuhkembar",
+    "deskripsi": [
+      "Rumah ini memiliki arti rumah dengan dua selasar. ",
+      "Masyarakat Riau tidak menjadikan Rumah Selaso Jatuh Kembar sebagai tempat tinggal mereka.",
+      "Tetapi hanya menggunakannya untuk acara adat."
+    ]
+  },
+  {
+    "id": 5,
+    "nama": "Rumah Atap Limas Potong",
+    "asal": "Kepulauan Riau",
+    "kota": "Riau",
+    "gambar": "ataplimaspotong",
+    "deskripsi": [
+      "Rumah adat dari Kepulauan Riau ini terlihat sangat sederhana.",
+      "Berbentuk seperti rumah panggung, yang memanjang ke belakang dengan dinding kayu tersusun secara vertikal.",
+      "Atap dari rumah adat Limas Potong memiliki lima bumbungan dengan menggunakan seng berwarna merah.      "
+    ]
+  },
+  {
+    "id": 6,
+    "nama": "Rumah Bubungan Lima",
+    "asal": "Bengkulu",
+    "kota": "Bengkulu",
+    "gambar": "bubunganlima",
+    "deskripsi": [
+      "Rumah adat dari Bengkulu ini memiliki tiang penopang dan menggunakan kayu khusus untuk membuatnya, yaitu kayu Medang Kemuning.",
+      "Untuk memasuki rumah ini, Anda juga harus menggunakan tangga, yang berada pada bagian depan rumah.",
+      "Sama seperti rumah adat dari Riau, masyarakat Bengkulu menggunakan rumah ini untuk acara adat saja, bukan untuk menjadi tempat tinggal. "
+    ]
+  },
+  {
+    "id": 7,
+    "nama": "Rumah Panggung",
+    "asal": "Jambi",
+    "kota": "Jambi",
+    "gambar": "panggung",
+    "deskripsi": [
+      "Rumah adat provinisi dari Jambi ini adalah desain yang tertua di daerah tersebut, dengan bentuk persegi panjang. ",
+      "Rumah Adat Panggung dilengkapi dengan tangga di depan rumah.",
+      "Orang-orang sering menyebutkan bagian atap dari Rumah Panggung ini sebagai “Gajah Mabuk” karena bentuknya yang menyerupai perahu dengan ujung melengkung."
+    ]
+  },
+  {
+    "id": 8,
+    "nama": "Rumah Nuwo Sesat",
+    "asal": "Lampung",
+    "kota": "Lampung",
+    "gambar": "nuwosesat",
+    "deskripsi": [
+      "Rumah adat Provinsi Lampung memiliki nama Nuwo Sesat. Ciri khas dari rumah ini adalah bentuknya panggung dan di sisi-sisinya terdapat ornamen yang khas.",
+      "Biasanya, ukuran dari rumah ini sangat besar, tetapi saat ini banyak yang membuat Rumah Nuwo Sesat berukuran lebih kecil. ",
+      "Namun, rumah ini tidak dibangun sebagai tempat tinggal. Sama seperti rumah adat lainnya,  Rumah Nuwo Sesat ini hanya dibangun untuk acara adat dan melakukan musyawarah. "
+    ]
+  },
+  {
+    "id": 9,
+    "nama": "Rumah Limas",
+    "asal": "Sumatera Selatan",
+    "kota": "Palembang",
+    "gambar": "limas",
+    "deskripsi": [
+      "Rumah adat satu ini memiliki bentuk yang sesuai dengan namanya, yaitu menyerupai limas.",
+      "Tamu yang berkunjung ke rumah ini harus singgah ke ruang atas atau teras rumah.",
+      "Hal ini merupakan tradisi masyarakat Sumatera Selatan agar dapat merasakan budaya mereka, yang tampak pada ukiran di dalamnya."
+    ]
+  }
+]
