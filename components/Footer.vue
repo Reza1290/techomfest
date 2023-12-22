@@ -7,12 +7,12 @@
       <h1 class="text-2xl font-bold text-gray-100">LokaBestari</h1>
     </div>
     <div id="section-link" class="mt-3 text-secondary">
-      <ul class="flex gap-x-2">
-        <li><a href="#">Beranda </a> |</li>
-        <li><a href="#">Kategori </a> |</li>
-        <li><a href="#">Eksplorasi</a> |</li>
-        <li><a href="#">Favorit</a> |</li>
-        <li><a href="#">Main Game</a></li>
+      <ul class="flex gap-x-2 max-md:flex-col max-md:divide-y sm:divide-x justify-center">
+        <li class="text-center"><a class="mx-2  " href="#">Beranda </a> </li>
+        <li class="text-center"><a class="mx-2  " href="#">Kategori </a> </li>
+        <li class="text-center"><a class="mx-2  " href="#">Eksplorasi</a> </li>
+        <li class="text-center"><a class="mx-2  " href="#">Favorit</a> </li>
+        <li class="text-center"><a class="mx-2  " href="#">Main Game</a></li>
       </ul>
     </div>
     <hr class="w-1/2 my-6 border-gray-500" />

@@ -1,19 +1,19 @@
 <template>
   <div
-    class="container min-w-full min-h-[890px] -mt-[6%] flex justify-center items-center rounded-b-[100px] bg-[url('~/assets/img/home/hero.png')] bg-cover bg-center"
+    class="container min-w-full max-sm:min-h-[750px] min-h-[890px] -mt-[6%] flex justify-center items-center max-sm:rounded-b-[50px] rounded-b-[100px] bg-[url('~/assets/img/home/hero.png')] bg-cover bg-center"
   >
     <div class="container flex flex-col items-center">
-      <p class="font-normal text-[25px] leading-none text-center text-white">
+      <p class="font-normal text-[25px] max-sm:text-xl leading-none text-center text-white">
         EKSPLOR KEKAYAAN BUDAYA INDONESIA
       </p>
       <div class="w-[180px] h-[4px] bg-[#8CFE5C] my-[9px]"></div>
       <p
-        class="font-medium text-[57.715px] leading-none text-center text-white"
+        class="font-medium text-[57.715px] max-md:text-5xl max-sm:text-4xl leading-none text-center text-white"
       >
         Selamat Datang di
       </p>
       <p
-        class="font-bold text-[105px] leading-none text-center bg-clip-text bg-gradient-to-b from-white via-white to-[#8cfe5c] text-transparent"
+        class="font-bold text-[105px] max-sm:text-6xl leading-none text-center bg-clip-text bg-gradient-to-b from-white via-white to-[#8cfe5c] text-transparent"
       >
         LokaBestari
       </p>
