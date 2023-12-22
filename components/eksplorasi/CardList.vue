@@ -14,11 +14,10 @@
         class="bg-white rounded-t-xl absolute bottom-0 w-[240px] h-[127px] flex flex-col justify-center items-center p-3 text-primary"
       >
         <div class="h-[63px] w-[50px] flex justify-center item-center">
-          <NuxtImg
+          <img
             class="object-contain max-w-full max-h-full"
             :src="`/images/provinsi/logo/${data.image.icon}`"
             alt="logo"
-            loading="lazy"
           />
         </div>
         <h4 class="mt-2 text-xl font-bold text-center">{{ data.nama }}</h4>
