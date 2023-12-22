@@ -4,33 +4,24 @@
       <div
         class="w-full h-[330px] md:h-[380px] lg:h-[480px] flex justify-center"
       >
-        <div class="w-full max-h-full cursor-pointer card-detail">
+        <div class="w-full max-h-full card-detail">
           <div class="card-detail-image">
             <img
-              :src="`/_nuxt/assets/images/hidangan/${item.gambar}.jpeg`"
+              :src="`/_nuxt/assets/images/pakaian-adat/${item.gambar}.png`"
               alt=""
-              class="w-full h-full object-cover"
+              class="object-contain w-full h-full"
             />
-          </div>
-          <div
-            class="flex items-center justify-center w-full min-h-full backdrop-brightness-[.7]"
-          >
-            <p
-              class="font-bold text-center text-white text-4xl md:text-5xl lg:text-7xl"
-            >
-              {{ item.nama }}
-            </p>
           </div>
         </div>
       </div>
     </section>
     <section class="flex justify-center py-4">
       <div class="w-3/4">
-        <h3 class="text-2xl lg:text-4xl font-bold text-primary">
+        <h3 class="text-2xl font-bold lg:text-4xl text-primary">
           {{ item.nama }}
         </h3>
         <h5 class="mt-1 text-xl lg:text-2xl font-bold text-[#469951]">
-          {{ item.kota }}, {{ item.asal }}
+          {{ item.asal }}
         </h5>
       </div>
       <div class="flex justify-end w-1/4">
@@ -67,7 +58,7 @@
       </svg>
     </div>
     <section id="description" class="py-7 pr-7">
-      <p class="text-base lg:text-xl font-medium">
+      <p class="text-base font-medium lg:text-xl">
         {{ item.deskripsi[0] }}<br /><br />{{ item.deskripsi[1] }}
         <br /><br />{{ item.deskripsi[2] }}
       </p>
@@ -78,20 +69,20 @@
       <div class="flex flex-col items-center justify-center">
         <div class="flex flex-col items-center justify-center">
           <h1 class="text-3xl lg:text-5xl text-[#1F420F] font-bold">
-            Jelajahi Hidangan Lain
+            Jelajahi Pakaian Adat Lain
           </h1>
         </div>
         <div
-          class="relative flex mt-7 gap-3 md:gap-7 lg:gap-14 px-5 md:px-7 lg:px-0"
+          class="relative flex gap-3 px-5 mt-7 md:gap-7 lg:gap-14 md:px-7 lg:px-0"
         >
           <NuxtLink
             class="w-1/3 overflow-hidden transition-all duration-300 bg-white shadow-2xl cursor-pointer rounded-3xl hover:shadow-2xl hover:scale-105"
             v-for="reccomended in reccomended"
             :key="reccomended.id"
-            :to="`/kategori/hidangan/${reccomended.id}`"
+            :to="`/kategori/pakaian-adat/${reccomended.id}`"
           >
             <img
-              :src="`/_nuxt/assets/images/hidangan/${reccomended.gambar}.jpeg`"
+              :src="`/_nuxt/assets/images/pakaian-adat/${reccomended.gambar}.png`"
               alt="nama"
               class="md:h-[180px] lg:h-[277px] w-full rounded-2xl"
             />
@@ -102,7 +93,7 @@
                 {{ reccomended.asal }}
               </h4>
               <h1
-                class="py-2 text-sm md:text-2xl lg:text-3xl font-bold text-center text-primary"
+                class="py-2 text-sm font-bold text-center md:text-2xl lg:text-3xl text-primary"
               >
                 {{ reccomended.nama }}
               </h1>
@@ -116,26 +107,26 @@
 </template>
 
 <script setup>
-import Footer from "~/components/Footer.vue"
-import hidangan from "~/data/hidangan.json"
+import Footer from "~/components/Footer.vue";
+import pakaian from "~/data/pakaian-adat.json";
 
-const item = ref({})
-const reccomended = ref([])
+const item = ref({});
+const reccomended = ref([]);
 
 const getData = () => {
-  item.value = hidangan.filter((data) => data.id == useRoute().params.id)[0]
-}
+  item.value = pakaian.filter((data) => data.id == useRoute().params.id)[0];
+};
 const getReccomended = () => {
-  const filteredItem = hidangan.filter(
+  const filteredItem = pakaian.filter(
     (data) => data.id != useRoute().params.id
-  )
-  reccomended.value = getRandomItems(filteredItem, 3)
-}
+  );
+  reccomended.value = getRandomItems(filteredItem, 3);
+};
 const getRandomItems = (array, count) => {
-  const shuffledArray = array.sort(() => Math.random() - 0.5)
-  return shuffledArray.slice(0, count)
-}
+  const shuffledArray = array.sort(() => Math.random() - 0.5);
+  return shuffledArray.slice(0, count);
+};
 
-getData()
-getReccomended()
+getData();
+getReccomended();
 </script>

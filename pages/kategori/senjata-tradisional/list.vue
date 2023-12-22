@@ -2,10 +2,10 @@
   <NavbarDark class="hidden lg:flex"></NavbarDark>
   <NavbarMobileDark class="lg:hidden"></NavbarMobileDark>
   <main id="main-content" class="py-10 pb-36 lg:px-[101px]">
-    <h1 class="text-4xl lg:text-5xl font-bold text-center text-primary">
-      Hidangan khas Indonesia
+    <h1 class="text-4xl font-bold text-center lg:text-5xl text-primary">
+      Senjata Tradisional Indonesia
     </h1>
-    <div class="flex justify-end w-full mx-auto mt-8 lg:px-0 px-5">
+    <div class="flex justify-end w-full px-5 mx-auto mt-8 lg:px-0">
       <div class="relative text-gray-600">
         <input
           type="search"
@@ -35,23 +35,26 @@
         </button>
       </div>
     </div>
-    <section id="card-hidangan">
-      <CardCategories :data="hidangan" :kategori="`hidangan`"></CardCategories>
+    <section id="card-senjata">
+      <CardCategories
+        :data="senjata"
+        :kategori="`senjata-tradisional`"
+      ></CardCategories>
     </section>
   </main>
   <Footer></Footer>
 </template>
 
 <script>
-import hidangan from "~/data/hidangan.json"
+import senjata from "~/data/senjata-tradisional.json";
 
 export default {
   setup() {
     return {
-      hidangan,
-    }
+      senjata,
+    };
   },
-}
+};
 </script>
 
 <style></style>
