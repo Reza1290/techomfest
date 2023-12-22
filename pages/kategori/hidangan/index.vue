@@ -26,7 +26,7 @@
         <img
           src="~/assets/images/categoriespage/hidangan/image1.png"
           alt=""
-          class="w-[70%] self-end lg:self-auto lg:w-auto"
+          class="w-[70%] md:w-[50%] self-end lg:self-auto lg:w-auto"
         />
       </div>
     </section>
@@ -38,7 +38,7 @@
         <img
           src="~/assets/images/categoriespage/hidangan/image2.png"
           alt=""
-          class="w-[70%] self-start lg:self-auto lg:w-auto"
+          class="w-[70%] md:w-[50%] self-start lg:self-auto lg:w-auto"
         />
         <p
           class="lg:w-1/2 lg:px-0 pr-4 pl-3 lg:py-0 py-5 mx-auto text-sm lg:text-left text-left lg:text-xl font-medium"

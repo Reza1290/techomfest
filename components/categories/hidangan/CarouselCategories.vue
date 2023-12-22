@@ -12,10 +12,10 @@
           disableOnInteraction: false,
         }"
         :breakpoints="{
-          480: {
+          640: {
             slidesPerView: 2,
           },
-          640: {
+          1024: {
             slidesPerView: 3,
           },
         }"
@@ -29,7 +29,9 @@
               :src="`/_nuxt/assets/images/category/${item.icon}.png`"
               alt=""
             />
-            <span class="text-lg font-bold text-primary">{{ item.nama }}</span>
+            <span class="text-lg font-bold text-primary text-center">{{
+              item.nama
+            }}</span>
           </div>
         </swiper-slide>
       </swiper>

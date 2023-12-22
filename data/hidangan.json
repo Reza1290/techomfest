@@ -21,7 +21,13 @@
     "id": 4,
     "nama": "Rendang",
     "asal": "Sumatera Barat",
-    "gambar": "rendang"
+    "kota": "Padang",
+    "gambar": "rendang",
+    "deskripsi": [
+      "Rendang adalah masakan khas Indonesia tepatnya berasal dari Padang, Sumatera Barat yang terkenal di seluruh dunia.",
+      "Pada tahun 2011 dan 2017, rendang terpilih sebagai makanan terenak di dunia. Nama asli rendang adalah randang, yang diambil dari kata ‘merandang,’ artinya ‘lambat.’ Hal ini merujuk pada durasi memasak rendang yang lama, minimal delapan jam, bahkan ada yang memasak semalaman.",
+      "Rendang dimasak dalam beberapa tahapan hingga bumbu meresap sempurna ke dalam daging. Saat membelah daging rendang, terdapat serat-serat lengket"
+    ]
   },
   {
     "id": 5,

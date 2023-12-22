@@ -1,6 +1,6 @@
 <template>
   <NavbarDark class="hidden lg:flex" />
-  <NavbarMobileDark class="md:hidden"></NavbarMobileDark>
+  <NavbarMobileDark class="lg:hidden"></NavbarMobileDark>
   <DetailItem />
   <div></div>
 </template>
