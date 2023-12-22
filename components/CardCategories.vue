@@ -9,7 +9,7 @@
       class="w-full overflow-hidden transition-all duration-300 bg-white shadow-2xl rounded-3xl hover:shadow-2xl hover:scale-105"
     >
       <img
-        :src="`/_nuxt/assets/images/${kategori}/${data.gambar}.png`"
+        :src="`/images/${kategori}/${data.gambar}.png`"
         :alt="data.nama"
         class="h-[160px] lg:h-[277px] w-full rounded-2xl object-cover"
       />
