@@ -18,7 +18,7 @@
         </div>
         <NuxtLink
           href="/kategori/hidangan/list"
-          class="w-[150px] lg:w-[203px] h-[45px] lg:h-[59px] rounded-[13px] bg-[#8CFE5C] flex justify-center items-center mt-5"
+          class="w-[150px] lg:w-[203px] h-[45px] lg:h-[59px] rounded-[13px] bg-[#8CFE5C] flex justify-center items-center mt-5 hover:scale-110 hover:cursor-pointer transition duration-500"
         >
           <p class="text-base lg:text-2xl text-[#1F420F] font-medium">
             Jelajahi

@@ -23,7 +23,7 @@
               class="card-category-image bg-[url('~/assets/img/home/hidangan.png')]"
             ></div>
             <div
-              class="flex flex-col items-center justify-center w-full h-full gap-4 overflow-hidden backdrop-brightness-[.7] transition duration-500"
+              class="flex flex-col items-center justify-center w-full h-full gap-4 overflow-hidden backdrop-brightness-[.7] hover:backdrop-brightness-50 transition duration-500"
             >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
