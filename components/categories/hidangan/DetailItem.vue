@@ -1,16 +1,24 @@
 <template>
-  <div class="px-5 lg:px-[101px lg:pt-0 pt-10">
+  <div class="px-5 md:px-14 lg:px-[101px] lg:pt-0 pt-10">
     <section id="hero-detail">
-      <div class="w-full h-[380px] lg:h-[480px] flex justify-center">
+      <div
+        class="w-full h-[330px] md:h-[380px] lg:h-[480px] flex justify-center"
+      >
         <div class="w-full max-h-full cursor-pointer card-detail">
-          <div
-            class="card-detail-image bg-[url('~/assets/images/hidangan/rendang.jpeg')]"
-          ></div>
+          <div class="card-detail-image">
+            <img
+              :src="`/_nuxt/assets/images/hidangan/${item.gambar}.jpeg`"
+              alt=""
+              class="w-full h-full object-cover"
+            />
+          </div>
           <div
             class="flex items-center justify-center w-full min-h-full backdrop-brightness-[.7]"
           >
-            <p class="font-bold text-center text-white text-5xl lg:text-7xl">
-              Rendang
+            <p
+              class="font-bold text-center text-white text-4xl md:text-5xl lg:text-7xl"
+            >
+              {{ item.nama }}
             </p>
           </div>
         </div>
@@ -18,9 +26,11 @@
     </section>
     <section class="flex justify-center py-4">
       <div class="w-3/4">
-        <h3 class="text-2xl lg:text-4xl font-bold text-primary">Rendang</h3>
+        <h3 class="text-2xl lg:text-4xl font-bold text-primary">
+          {{ item.nama }}
+        </h3>
         <h5 class="mt-1 text-xl lg:text-2xl font-bold text-[#469951]">
-          Padang, Sumatera Barat
+          {{ item.kota }}, {{ item.asal }}
         </h5>
       </div>
       <div class="flex justify-end w-1/4">
@@ -58,14 +68,8 @@
     </div>
     <section id="description" class="py-7 pr-7">
       <p class="text-base lg:text-xl font-medium">
-        Rendang adalah masakan khas Indonesia tepatnya berasal dari Padang,
-        Sumatera Barat yang terkenal di seluruh dunia. <br /><br />Pada tahun
-        2011 dan 2017, rendang terpilih sebagai makanan terenak di dunia. Nama
-        asli rendang adalah randang, yang diambil dari kata ‘merandang,’ artinya
-        ‘lambat.’ Hal ini merujuk pada durasi memasak rendang yang lama, minimal
-        delapan jam, bahkan ada yang memasak semalaman. <br /><br />Rendang
-        dimasak dalam beberapa tahapan hingga bumbu meresap sempurna ke dalam
-        daging. Saat membelah daging rendang, terdapat serat-serat lengket
+        {{ item.deskripsi[0] }}<br /><br />{{ item.deskripsi[1] }}
+        <br /><br />{{ item.deskripsi[2] }}
       </p>
     </section>
   </div>
@@ -77,97 +81,33 @@
             Jelajahi Hidangan Lain
           </h1>
         </div>
-        <div class="hidden lg:relative lg:flex mt-7 gap-14">
-          <div
-            class="absolute z-20 left-[97.5%] top-[40%] cursor-pointer hover:scale-105 transition-all duration-300"
-          >
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              width="63"
-              height="63"
-              viewBox="0 0 63 63"
-              fill="none"
-            >
-              <circle
-                cx="31.5"
-                cy="31.5"
-                r="31.5"
-                fill="#8CFE5C"
-                class="hover:shadow-2xl"
-              />
-              <path
-                d="M36.8286 25L43 31.1714L36.8286 37.3428"
-                stroke="#1F420F"
-                stroke-width="5"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-              />
-              <path
-                d="M42.8 31.2432H20"
-                stroke="#1F420F"
-                stroke-width="5"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-              />
-            </svg>
-          </div>
-          <!-- CARD START -->
-          <div
+        <div
+          class="relative flex mt-7 gap-3 md:gap-7 lg:gap-14 px-5 md:px-7 lg:px-0"
+        >
+          <NuxtLink
             class="w-1/3 overflow-hidden transition-all duration-300 bg-white shadow-2xl cursor-pointer rounded-3xl hover:shadow-2xl hover:scale-105"
+            v-for="reccomended in reccomended"
+            :key="reccomended.id"
+            :to="`/kategori/hidangan/${reccomended.id}`"
           >
             <img
-              src="`~/assets/images/hidangan/lumpia.jpeg`"
+              :src="`/_nuxt/assets/images/hidangan/${reccomended.gambar}.jpeg`"
               alt="nama"
-              class="h-[277px] w-full rounded-2xl"
+              class="md:h-[180px] lg:h-[277px] w-full rounded-2xl"
             />
             <div class="p-5">
-              <h4 class="text-[#469951] text-center font-bold uppercase">
-                Jawa Tengah
+              <h4
+                class="text-[#469951] text-center font-bold uppercase text-xs md:text-sm lg:text-base"
+              >
+                {{ reccomended.asal }}
               </h4>
-              <h1 class="py-2 text-3xl font-bold text-center text-primary">
-                Lumpia
+              <h1
+                class="py-2 text-sm md:text-2xl lg:text-3xl font-bold text-center text-primary"
+              >
+                {{ reccomended.nama }}
               </h1>
             </div>
-          </div>
-          <!-- CARD END -->
-          <!-- CARD START -->
-          <div
-            class="w-1/3 overflow-hidden transition-all duration-300 bg-white shadow-2xl cursor-pointer rounded-3xl hover:shadow-2xl hover:scale-105"
-          >
-            <img
-              src="`~/assets/images/hidangan/seblak.jpeg`"
-              alt="nama"
-              class="h-[277px] w-full rounded-2xl"
-            />
-            <div class="p-5">
-              <h4 class="text-[#469951] text-center font-bold uppercase">
-                Jawa Barat
-              </h4>
-              <h1 class="py-2 text-3xl font-bold text-center text-primary">
-                Seblak
-              </h1>
-            </div>
-          </div>
-          <!-- CARD END -->
-          <!-- CARD START -->
-          <div
-            class="w-1/3 overflow-hidden transition-all duration-300 bg-white shadow-2xl cursor-pointer rounded-3xl hover:shadow-2xl hover:scale-105"
-          >
-            <img
-              src="`~/assets/images/hidangan/papeda.jpeg`"
-              alt="nama"
-              class="h-[277px] w-full rounded-2xl"
-            />
-            <div class="p-5">
-              <h4 class="text-[#469951] text-center font-bold uppercase">
-                Papua Jaya
-              </h4>
-              <h1 class="py-2 text-3xl font-bold text-center text-primary">
-                Papeda
-              </h1>
-            </div>
-          </div>
-          <!-- CARD END -->
+          </NuxtLink>
         </div>
       </div>
     </div>
@@ -177,4 +117,25 @@
 
 <script setup>
 import Footer from "~/components/Footer.vue"
+import hidangan from "~/data/hidangan.json"
+
+const item = ref({})
+const reccomended = ref([])
+
+const getData = () => {
+  item.value = hidangan.filter((data) => data.id == useRoute().params.id)[0]
+}
+const getReccomended = () => {
+  const filteredItem = hidangan.filter(
+    (data) => data.id != useRoute().params.id
+  )
+  reccomended.value = getRandomItems(filteredItem, 3)
+}
+const getRandomItems = (array, count) => {
+  const shuffledArray = array.sort(() => Math.random() - 0.5)
+  return shuffledArray.slice(0, count)
+}
+
+getData()
+getReccomended()
 </script>

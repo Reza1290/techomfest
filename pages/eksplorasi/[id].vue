@@ -66,26 +66,24 @@
 </template>
 
 <script setup>
-import Eksplorasi from '~/components/Home/Eksplorasi.vue';
-import arrayquiz from '~/data/arrayquiz.json';
-import explore from '~/data/explore.json';
+import Eksplorasi from "~/components/Home/Eksplorasi.vue"
+import arrayquiz from "~/data/arrayquiz.json"
+import explore from "~/data/explore.json"
 
-console.log(arrayquiz);
-const route = useRoute();
+const route = useRoute()
 
-var quiz = null;
-var prov = null;
+var quiz = null
+var prov = null
 
 const getDataQuiz = (id) => {
-  quiz = arrayquiz.data[id];
-  prov = explore.data[id];
-};
+  quiz = arrayquiz.data[id]
+  prov = explore.data[id]
+}
 
-getDataQuiz(route.params.id);
+getDataQuiz(route.params.id)
 
 if (quiz == undefined || prov == undefined) {
 }
-console.log(quiz);
 
 // if(quiz == null){ this.$router.push('../')}
 </script>
@@ -93,5 +91,5 @@ console.log(quiz);
 <script>
 export default {
   mounted() {},
-};
+}
 </script>
