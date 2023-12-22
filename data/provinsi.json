@@ -2,205 +2,205 @@
   {
     "id": 1,
     "nama": "Nanggroe Aceh Darussalam",
-    "icon": "nad.png",
+    "icon": "nad.svg",
     "banner": "nad.jpeg"
   },
   {
     "id": 2,
     "nama": "Sumatera Utara",
-    "icon": "sumut.png",
+    "icon": "sumut.svg",
     "banner": "sumut.jpeg"
   },
   {
     "id": 3,
     "nama": "Sumatera Selatan",
-    "icon": "sumsel.png",
+    "icon": "sumsel.svg",
     "banner": "sumsel.jpeg"
   },
   {
     "id": 4,
     "nama": "Sumatera Barat",
-    "icon": "sumbar.png",
+    "icon": "sumbar.svg",
     "banner": "sumbar.jpeg"
   },
   {
     "id": 5,
     "nama": "Bengkulu",
-    "icon": "bengkulu.png",
+    "icon": "bengkulu.svg",
     "banner": "bengkulu.jpeg"
   },
   {
     "id": 6,
     "nama": "Riau",
-    "icon": "riau.png",
+    "icon": "riau.svg",
     "banner": "riau.jpeg"
   },
   {
     "id": 7,
     "nama": "Kepulauan Riau",
-    "icon": "kepriau.png",
+    "icon": "kepriau.svg",
     "banner": "kepriau.jpeg"
   },
   {
     "id": 8,
     "nama": "Jambi",
-    "icon": "jambi.png",
+    "icon": "jambi.svg",
     "banner": "jambi.jpeg"
   },
   {
     "id": 9,
     "nama": "Lampung",
-    "icon": "lampung.png",
+    "icon": "lampung.svg",
     "banner": "lampung.jpeg"
   },
   {
     "id": 10,
     "nama": "Bangka Belitung",
-    "icon": "bangka.png",
+    "icon": "bangka.svg",
     "banner": "bangka.jpeg"
   },
   {
     "id": 11,
     "nama": "Kalimantan Barat",
-    "icon": "kalbar.png",
+    "icon": "kalbar.svg",
     "banner": "kalbar.jpeg"
   },
   {
     "id": 12,
     "nama": "Kalimantan Timur",
-    "icon": "kaltim.png",
+    "icon": "kaltim.svg",
     "banner": "kaltim.jpeg"
   },
   {
     "id": 13,
     "nama": "Kalimantan Selatan",
-    "icon": "kalsel.png",
+    "icon": "kalsel.svg",
     "banner": "kalsel.jpeg"
   },
   {
     "id": 14,
     "nama": "Kalimantan Tengah",
-    "icon": "kalteng.png",
+    "icon": "kalteng.svg",
     "banner": "kalteng.jpeg"
   },
   {
     "id": 15,
     "nama": "Kalimantan Utara",
-    "icon": "kalut.png",
+    "icon": "kalut.svg",
     "banner": "kalut.jpeg"
   },
   {
     "id": 16,
     "nama": "Banten",
-    "icon": "banten.png",
+    "icon": "banten.svg",
     "banner": "banten.jpeg"
   },
   {
     "id": 17,
     "nama": "DKI Jakarta",
-    "icon": "jakarta.png",
+    "icon": "jakarta.svg",
     "banner": "jakarta.jpeg"
   },
   {
     "id": 18,
     "nama": "Jawa Barat",
-    "icon": "jabar.png",
+    "icon": "jabar.svg",
     "banner": "jabar.jpeg"
   },
   {
     "id": 19,
     "nama": "Jawa Tengah",
-    "icon": "jateng.png",
+    "icon": "jateng.svg",
     "banner": "jateng.jpeg"
   },
   {
     "id": 20,
     "nama": "Daerah Istimewa Yogyakarta",
-    "icon": "diy.png",
+    "icon": "diy.svg",
     "banner": "diy.jpeg"
   },
   {
     "id": 21,
     "nama": "Jawa Timur",
-    "icon": "jatim.png",
+    "icon": "jatim.svg",
     "banner": "jatim.jpeg"
   },
   {
     "id": 22,
     "nama": "Bali",
-    "icon": "bali.png",
+    "icon": "bali.svg",
     "banner": "bali.jpeg"
   },
   {
     "id": 23,
     "nama": "Nusa Tenggara Timur",
-    "icon": "ntt.png",
+    "icon": "ntt.svg",
     "banner": "ntt.jpeg"
   },
   {
     "id": 24,
     "nama": "Nusa Tenggara Barat",
-    "icon": "ntb.png",
+    "icon": "ntb.svg",
     "banner": "ntb.jpeg"
   },
   {
     "id": 25,
     "nama": "Gorontalo",
-    "icon": "gorontalo.png",
+    "icon": "gorontalo.svg",
     "banner": "gorontalo.jpeg"
   },
   {
     "id": 26,
     "nama": "Sulawesi Barat",
-    "icon": "sulbar.png",
+    "icon": "sulbar.svg",
     "banner": "sulbar.jpeg"
   },
   {
     "id": 27,
     "nama": "Sulawesi Tengah",
-    "icon": "sulteng.png",
+    "icon": "sulteng.svg",
     "banner": "sulteng.jpeg"
   },
   {
     "id": 28,
     "nama": "Sulawesi Utara",
-    "icon": "sulut.png",
+    "icon": "sulut.svg",
     "banner": "sulut.jpeg"
   },
   {
     "id": 29,
     "nama": "Sulawesi Tenggara",
-    "icon": "sultenggara.png",
+    "icon": "sultenggara.svg",
     "banner": "sultenggara.jpeg"
   },
   {
     "id": 30,
     "nama": "Sulawesi Selatan",
-    "icon": "sulsel.png",
+    "icon": "sulsel.svg",
     "banner": "sulsel.jpeg"
   },
   {
     "id": 31,
     "nama": "Maluku Utara",
-    "icon": "malut.png",
+    "icon": "malut.svg",
     "banner": "malut.jpeg"
   },
   {
     "id": 32,
     "nama": "Maluku",
-    "icon": "maluku.png",
+    "icon": "maluku.svg",
     "banner": "maluku.jpeg"
   },
   {
     "id": 33,
     "nama": "Papua Barat",
-    "icon": "papbar.png",
+    "icon": "papbar.svg",
     "banner": "papbar.jpeg"
   },
   {
     "id": 34,
     "nama": "Papua",
-    "icon": "papua.png",
+    "icon": "papua.svg",
     "banner": "papua.jpeg"
   },
   {

@@ -15,7 +15,7 @@
       >
         <div class="h-[63px] w-[50px] flex justify-center item-center">
           <NuxtImg
-            class="max-w-full max-h-full"
+            class="object-contain max-w-full max-h-full"
             :src="`/images/provinsi/logo/${data.image.icon}`"
             alt="logo"
             loading="lazy"
@@ -41,14 +41,14 @@ export default {
     },
   },
   setup(props) {
-    const { datas, kategori } = props
+    const { datas, kategori } = props;
 
     return {
       datas,
       kategori,
-    }
+    };
   },
-}
+};
 </script>
 
 <style></style>

@@ -1,6 +1,6 @@
 <template>
   <div class="h-[437px] py-[41px] relative overflow-hidden">
-    <div class="w-96 h-96 -right-36 top-0 blob"></div>
+    <div class="top-0 w-96 h-96 -right-36 blob"></div>
     <div class="flex flex-col items-center justify-center">
       <div class="flex flex-col items-center justify-center">
         <h1 class="text-6xl text-[#1F420F] font-bold max-sm:text-5xl">
@@ -12,8 +12,8 @@
           Ini adalah beberapa daerah yang mungkin menarik untuk anda jelajahi
         </p>
       </div>
-      <div class="max-md:overflow-x-auto max-md:w-full p-4">
-        <div class="relative flex mt-7 gap-14 snap-x w-max ">
+      <div class="p-4 max-md:overflow-x-auto max-md:w-full">
+        <div class="relative flex mt-7 gap-14 snap-x w-max">
           <NuxtLink
             to="/eksplorasi"
             class="absolute z-20 left-[97%] top-[63.5px] cursor-pointer hover:scale-105 transition-all duration-300"
@@ -59,7 +59,7 @@
               <div class="h-[63px] w-[50px] flex justify-center item-center">
                 <img
                   class="max-w-full max-h-full"
-                  src="~/assets/provinsi/logo/jatim.png"
+                  src="~/assets/provinsi/logo/jatim.svg"
                   alt="logo"
                 />
               </div>
@@ -78,7 +78,7 @@
               <div class="h-[63px] w-[50px] flex justify-center item-center">
                 <img
                   class="max-w-full max-h-full"
-                  src="~/assets/provinsi/logo/jakarta.png"
+                  src="~/assets/provinsi/logo/jakarta.svg"
                   alt="logo"
                 />
               </div>
@@ -97,7 +97,7 @@
               <div class="h-[63px] w-[50px] flex justify-center item-center">
                 <img
                   class="max-w-full max-h-full"
-                  src="~/assets/provinsi/logo/kalbar.png"
+                  src="~/assets/provinsi/logo/kalbar.svg"
                   alt="logo"
                 />
               </div>
