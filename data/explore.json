@@ -1127,7 +1127,7 @@
       "image": {
         "icon": "kalbar.png",
         "banner": "kalbar.webp",
-        "makanan": ["kalbar/1.png", "kalbar/2.png", "kalbar/2.png"],
+        "makanan": ["kalbar/1.png", "kalbar/2.png", "kalbar/3.png"],
         "tarian": "kalbar.png"
       },
       "tarian": {
