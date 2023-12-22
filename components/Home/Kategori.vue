@@ -1,15 +1,21 @@
 <template>
-  <div class="max-md:h-full h-[768px] py-[58px] pt-[20px] relative overflow-hidden">
-    <div class="w-96 h-96 -right-36 bottom-0 blob"></div>
+  <div
+    class="max-md:h-full h-[768px] py-[58px] pt-[20px] relative overflow-hidden"
+  >
+    <div class="top-0 w-96 h-96 -right-36 blob"></div>
     <div class="flex flex-col items-center justify-center">
       <div class="flex flex-col items-center justify-center">
-        <h1 class="max-sm:text-5xl text-6xl text-[#1F420F] font-bold">Kategori</h1>
-        <p class="mt-4 text-[#0F890D] text-2xl font-medium text-center px-4  ">
+        <h1 class="max-sm:text-5xl text-6xl text-[#1F420F] font-bold">
+          Kategori
+        </h1>
+        <p class="mt-4 text-[#0F890D] text-2xl font-medium text-center px-4">
           Kami berikan beberapa rekomendasi kategori menarik untuk anda
         </p>
       </div>
       <div class="flex mt-7 gap-14">
-        <div class="flex justify-center max-md:flex-col max-md:cols-2 max-sm:flex-col">
+        <div
+          class="flex justify-center max-md:flex-col max-md:cols-2 max-sm:flex-col"
+        >
           <!-- CARD START -->
           <NuxtLink
             to="/kategori/hidangan"
@@ -133,15 +139,15 @@
 </template>
 
 <script>
-import { Swiper, SwiperSlide } from "swiper/vue"
-import "swiper/css"
+import { Swiper, SwiperSlide } from "swiper/vue";
+import "swiper/css";
 
-import "swiper/css/pagination"
-import "swiper/css/navigation"
+import "swiper/css/pagination";
+import "swiper/css/navigation";
 
-import { Pagination, Navigation, Autoplay } from "swiper/modules"
+import { Pagination, Navigation, Autoplay } from "swiper/modules";
 
-import category from "~/data/category.json"
+import category from "~/data/category.json";
 
 export default {
   components: {
@@ -152,7 +158,7 @@ export default {
     return {
       modules: [Autoplay, Pagination, Navigation],
       category,
-    }
+    };
   },
-}
+};
 </script>

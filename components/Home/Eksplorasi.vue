@@ -1,6 +1,6 @@
 <template>
   <div class="h-[437px] py-[41px] relative overflow-hidden">
-    <div class="top-0 w-96 h-96 -right-36 blob"></div>
+    <div class="top-0 w-96 h-96 -left-36 blob"></div>
     <div class="flex flex-col items-center justify-center">
       <div class="flex flex-col items-center justify-center">
         <h1 class="text-6xl text-[#1F420F] font-bold max-sm:text-5xl">

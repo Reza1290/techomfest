@@ -5,10 +5,10 @@
     <section id="content1" class="relative py-14 lg:py-20">
       <div class="w-96 h-96 -left-48 top-56 blob"></div>
       <div
-        class="flex flex-col-reverse md:flex-row md:gap-x-4 lg:gap-0 items-center justify-between w-full"
+        class="flex flex-col-reverse items-center justify-between w-full md:flex-row md:gap-x-4 lg:gap-0"
       >
         <p
-          class="md:w-1/2 lg:px-0 pl-4 pr-3 lg:py-0 py-5 mx-auto text-sm md:text-left text-right lg:text-xl font-medium"
+          class="py-5 pl-4 pr-3 mx-auto text-sm font-medium text-right md:w-1/2 lg:px-0 lg:py-0 md:text-left lg:text-xl"
         >
           Apa yang dimakan orang Indonesia? Seberapa penting makanan dalam
           tradisi Indonesia? Dari barat ke timur Indonesia, kita akan menemukan
@@ -26,22 +26,22 @@
         <img
           src="~/assets/images/categoriespage/hidangan/image1.png"
           alt=""
-          class="w-[70%] md:w-[50%] self-end lg:self-auto lg:w-auto hover:scale-105 transition-all duration-500 hover:shadow-2xl"
+          class="w-[70%] md:w-[50%] self-end lg:self-auto lg:w-auto hover:scale-105 transition-all duration-500"
         />
       </div>
     </section>
-    <section id="content2" class="relative py-10 lg:py-20 overflow-hidden">
+    <section id="content2" class="relative py-10 overflow-hidden lg:py-20">
       <div class="w-96 h-96 -right-36 top-56 blob"></div>
       <div
-        class="flex flex-col md:flex-row items-center justify-between w-full"
+        class="flex flex-col items-center justify-between w-full md:flex-row"
       >
         <img
           src="~/assets/images/categoriespage/hidangan/image2.png"
           alt=""
-          class="w-[70%] md:w-[50%] self-start lg:self-auto lg:w-auto hover:scale-105 transition-all duration-500 hover:shadow-2xl"
+          class="w-[70%] md:w-[50%] self-start lg:self-auto lg:w-auto hover:scale-105 transition-all duration-500"
         />
         <p
-          class="md:w-1/2 lg:px-0 pr-4 pl-3 lg:py-0 py-5 mx-auto text-sm md:text-left text-left lg:text-xl font-medium"
+          class="py-5 pl-3 pr-4 mx-auto text-sm font-medium text-left md:w-1/2 lg:px-0 lg:py-0 md:text-left lg:text-xl"
         >
           Cerita-cerita dalam Indonesia Food Culture dibuat dari keragaman
           budaya, warisan, upacara ritual, dan hasil lokal di setiap wilayah.
@@ -60,20 +60,20 @@
       <div class="w-96 h-96 -left-36 top-36 blob"></div>
       <CarouselCategories now="hidangan"></CarouselCategories>
     </section>
-    <section id="game-card" class="mb-20 px-5 lg:px-0">
+    <section id="game-card" class="px-5 mb-20 lg:px-0">
       <GameCard></GameCard>
     </section>
   </NuxtLayout>
 </template>
 
 <script>
-import HeroHidangan from "~/components/categories/hidangan/Hero.vue"
-import InfoCard from "~/components/categories/hidangan/InfoCard.vue"
-import CarouselCategories from "~/components/categories/hidangan/CarouselCategories.vue"
+import HeroHidangan from "~/components/categories/hidangan/Hero.vue";
+import InfoCard from "~/components/categories/hidangan/InfoCard.vue";
+import CarouselCategories from "~/components/categories/hidangan/CarouselCategories.vue";
 
 export default {
   components: { HeroHidangan, InfoCard, CarouselCategories },
-}
+};
 </script>
 
 <style></style>
